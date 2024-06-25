@@ -1,5 +1,4 @@
-{
-"Sheet1":[
+[
  {
   "Question": "He gave me __one rupee note.",
   "A": "a",
@@ -80,6 +79,4 @@
   "D": "none f the above",
   "Answer": "a"
  }
-],
-"Sheet2":[]
-}
+]
