@@ -1,0 +1,85 @@
+{
+"Sheet1":[
+ {
+  "Question": "He gave me __one rupee note.",
+  "A": "a",
+  "B": "an",
+  "C": "the",
+  "D": "none f the above",
+  "Answer": "an"
+ },
+ {
+  "Question": "Brutus is __honourable man.",
+  "A": "a,an",
+  "B": "the",
+  "C": "an",
+  "D": "a",
+  "Answer": "an"
+ },
+ {
+  "Question": "There is __ugly scar on his face.",
+  "A": "a",
+  "B": "an",
+  "C": "the",
+  "D": "none f the above",
+  "Answer": "an"
+ },
+ {
+  "Question": " He is __fool to say so.",
+  "A": "a",
+  "B": "the",
+  "C": "an",
+  "D": "none f the above",
+  "Answer": "a"
+ },
+ {
+  "Question": "He visits Tirupati once__ year",
+  "A": "the",
+  "B": "a",
+  "C": "an",
+  "D": "none f the above",
+  "Answer": "a"
+ },
+ {
+  "Question": "__higher you climb,__ colder it gets.",
+  "A": "a,an",
+  "B": "an,an",
+  "C": "the,the",
+  "D": "none f the above",
+  "Answer": "the,the"
+ },
+ {
+  "Question": "She can play. __veena very well.",
+  "A": "the",
+  "B": "a",
+  "C": "an",
+  "D": "none f the above",
+  "Answer": "a"
+ },
+ {
+  "Question": "She gave me nice__ cup of tea.",
+  "A": "a",
+  "B": "an",
+  "C": "the",
+  "D": "none f the above",
+  "Answer": "a"
+ },
+ {
+  "Question": "__bird can fly.\n",
+  "A": "a",
+  "B": "an",
+  "C": "the",
+  "D": "none f the above",
+  "Answer": "a"
+ },
+ {
+  "Question": "There is bridge over __Godavari.",
+  "A": "a",
+  "B": "an",
+  "C": "the",
+  "D": "none f the above",
+  "Answer": "a"
+ }
+],
+"Sheet2":[]
+}
