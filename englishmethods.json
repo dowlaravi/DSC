@@ -1,13 +1,5 @@
 [
   {
-    "Question": "సమాజానికి దూరంగా భాష అభివృద్ధి కాదు",
-    "A": "స్టాటిల్ ",
-    "B": "బాక్ ",
-    "C": "బెల్ ",
-    "D": "ఆరోరిన్",
-    "Answer": "ఆరోరిన్"
-  },
-  {
     "Question": "Translation of reference books was earlier recommended by:",
     "A": "SCF-2011\n\n",
     "B": "NPE-1968\n",
@@ -17,7 +9,7 @@
   },
   {
     "Question": "Banishment of mother tongue is seen:",
-    "A": " in direct method\n",
+    "A": " in direct method",
     "B": "in C.C.E",
     "C": "in bilingual method",
     "D": " in regional method\n",
@@ -53,7 +45,7 @@
     "B": "ense shape symbol",
     "C": "Sound shape sense\n",
     "D": "Symbol sound sense",
-    "Answer": "Symbol sound sense\n"
+    "Answer": "Symbol sound sense"
   },
   {
     "Question": " Listening to the directions of somebody to reach a place comes under:",
