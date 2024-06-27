@@ -1,0 +1,82 @@
+[
+  {
+    "Question": "He kept the fast for a week.",
+    "A": "noun",
+    "B": "prnoun",
+    "C": "verb",
+    "D": "adjective",
+    "Answer": "noun"
+  },
+  {
+    "Question": "Do not speak so loudly.",
+    "A": "noun",
+    "B": "adverb",
+    "C": "verb",
+    "D": "conjection",
+    "Answer": "adverb"
+  },
+  {
+    "Question": " Most people think so.",
+    "A": "adjective",
+    "B": "noun",
+    "C": "pronoun",
+    "D": "adverb",
+    "Answer": "adjective"
+  },
+  {
+    "Question": "Please call me early.",
+    "A": "noun",
+    "B": "pronoun",
+    "C": "adverb",
+    "D": "verb",
+    "Answer": "noun"
+  },
+  {
+    "Question": "It is long since we met.",
+    "A": "adjective",
+    "B": "conjection",
+    "C": "pronoun",
+    "D": "noun",
+    "Answer": "noun"
+  },
+  {
+    "Question": "He is little known here.",
+    "A": "adverb",
+    "B": "conjection",
+    "C": "adjective",
+    "D": "noun",
+    "Answer": "adverb"
+  },
+  {
+    "Question": "Much cry and little wool.",
+    "A": "adjective",
+    "B": "pronoun",
+    "C": "adverb",
+    "D": "verb",
+    "Answer": "adjective"
+  },
+  {
+    "Question": "Still waters run deep",
+    "A": "pronoun",
+    "B": "adverb",
+    "C": "adjective",
+    "D": "verb",
+    "Answer": "adjective"
+  },
+  {
+    "Question": "The early bird catches the worm.",
+    "A": "noun",
+    "B": "verb",
+    "C": "adverb",
+    "D": "adjective",
+    "Answer": "adjective"
+  },
+  {
+    "Question": "It is hard to understand.",
+    "A": "adjective",
+    "B": "verb",
+    "C": "adverb",
+    "D": "conjection",
+    "Answer": "adjective"
+  }
+]
