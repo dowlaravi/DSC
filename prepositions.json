@@ -1,6 +1,6 @@
 [
   {
-    "Question": "He kept the fast for a week.",
+    "Question": "He kept the (fast) for a week.",
     "A": "noun",
     "B": "prnoun",
     "C": "verb",
@@ -8,7 +8,7 @@
     "Answer": "noun"
   },
   {
-    "Question": "Do not speak so loudly.",
+    "Question": "Do not speak so (loudly).",
     "A": "noun",
     "B": "adverb",
     "C": "verb",
@@ -16,7 +16,7 @@
     "Answer": "adverb"
   },
   {
-    "Question": " Most people think so.",
+    "Question": "(Most) people think so.",
     "A": "adjective",
     "B": "noun",
     "C": "pronoun",
@@ -24,7 +24,7 @@
     "Answer": "adjective"
   },
   {
-    "Question": "Please call me early.",
+    "Question": "Please call me (early).",
     "A": "noun",
     "B": "pronoun",
     "C": "adverb",
@@ -32,7 +32,7 @@
     "Answer": "noun"
   },
   {
-    "Question": "It is long since we met.",
+    "Question": "It is (long) since we met.",
     "A": "adjective",
     "B": "conjection",
     "C": "pronoun",
@@ -40,7 +40,7 @@
     "Answer": "noun"
   },
   {
-    "Question": "He is little known here.",
+    "Question": "He is (little) known here.",
     "A": "adverb",
     "B": "conjection",
     "C": "adjective",
@@ -48,7 +48,7 @@
     "Answer": "adverb"
   },
   {
-    "Question": "Much cry and little wool.",
+    "Question": "(Much) cry and little wool.",
     "A": "adjective",
     "B": "pronoun",
     "C": "adverb",
@@ -56,7 +56,7 @@
     "Answer": "adjective"
   },
   {
-    "Question": "Still waters run deep",
+    "Question": "Still waters run (deep)",
     "A": "pronoun",
     "B": "adverb",
     "C": "adjective",
@@ -64,7 +64,7 @@
     "Answer": "adjective"
   },
   {
-    "Question": "The early bird catches the worm.",
+    "Question": "The (early) bird catches the worm.",
     "A": "noun",
     "B": "verb",
     "C": "adverb",
@@ -72,7 +72,7 @@
     "Answer": "adjective"
   },
   {
-    "Question": "It is hard to understand.",
+    "Question": "It is (hard) to understand.",
     "A": "adjective",
     "B": "verb",
     "C": "adverb",
