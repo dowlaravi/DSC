@@ -1,5 +1,4 @@
-{
-"Sheet1":[
+[
  {
   "Question": "Change the following into comparative degree.\nRaju is as clever as Ravi.\n",
   "A": "Ravi is not cleverer than Raju.",
@@ -36,7 +35,7 @@
   "Question": "Change the following into superlative degree. The rose is more beautiful than any other flower.\n",
   "A": "The rose is the most beautiful flower.",
   "B": "The rose is the most beautiful flower.\n",
-  "C": "No other flower is so beautiful as the rose.\n",
+  "C": "No other flower is so beautiful as the rose.",
   "D": "The rose is the most beautiful flower.\n",
   "Answer": "No other flower is so beautiful as the rose."
  },
@@ -46,7 +45,7 @@
   "B": "Rama is one of the most industrious boys in the class",
   "C": "Rama is one of industrious boy in the class.\n",
   "D": "Rama is more industrious than other boys in the class.\n\n",
-  "Answer": "Rama is one of the most industrious boys in the class\n"
+  "Answer": "Rama is one of the most industrious boys in the class"
  },
  {
   "Question": " A wise enemy is better than a foolish friend.\n change into positive degree",
@@ -66,8 +65,8 @@
  },
  {
   "Question": "Pandit Nehru's Autobiography is one of the most interesting books I have ever read.change into positive degree",
-  "A": "Very few books I have ever read are very interesting as pandit Nehru's Autobiography\n\n",
-  "B": "Very few books I have ever read are so interesting as Pandit Nehru's Autobiography\n\n",
+  "A": "Very few books I have ever read are very interesting as pandit Nehru's Autobiography",
+  "B": "Very few books I have ever read are so interesting as Pandit Nehru's Autobiography",
   "C": " Pandit Nehru's Autobiography is interesting than most other books I have ever read.",
   "D": "Pandit Nehru's Autobiography is more interesting than most other books I have read.",
   "Answer": "Very few books I have ever read are so interesting as Pandit Nehru's Autobiography"
@@ -81,4 +80,3 @@
   "Answer": " Cure is not so good as prevention."
  }
 ]
-}
