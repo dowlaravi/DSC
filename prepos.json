@@ -1,0 +1,84 @@
+{
+"Sheet1":[
+ {
+  "Question": "He started-___six___ the morning\n",
+  "A": "on,with",
+  "B": "by,on",
+  "C": "is,are",
+  "D": "at,in",
+  "Answer": "at,in"
+ },
+ {
+  "Question": "The train arrives ___five ___the morning and departs ___the station__\n\nnoon.\n",
+  "A": "from,in,from,at",
+  "B": "at,in,from,on",
+  "C": "at,in,from,are",
+  "D": "at,in,from,at",
+  "Answer": "at,in,from,at"
+ },
+ {
+  "Question": "She was born __a small village___ Andhra",
+  "A": "of,of",
+  "B": "by,by",
+  "C": "on,on",
+  "D": "in,in",
+  "Answer": "in,in"
+ },
+ {
+  "Question": "My son came__ bus",
+  "A": "by",
+  "B": "on",
+  "C": "in",
+  "D": "to",
+  "Answer": "by"
+ },
+ {
+  "Question": "They were married__1st Jan 1995 and divorced__\n\nApril\n",
+  "A": "on,in",
+  "B": "on,since",
+  "C": "since,on",
+  "D": "in,on",
+  "Answer": "on,in"
+ },
+ {
+  "Question": "The money lender was shot dead ___the thief ___a pistol",
+  "A": "through,with",
+  "B": "by,to",
+  "C": "by,throug",
+  "D": "by,with",
+  "Answer": "by,with"
+ },
+ {
+  "Question": "This portrait was painted the ___Italian artist ___fifteenth century",
+  "A": "by,in",
+  "B": "through,in",
+  "C": "by,to",
+  "D": "by,under",
+  "Answer": "by,in"
+ },
+ {
+  "Question": "The thief hanged himself __a rope ___the prison.",
+  "A": "with,on",
+  "B": "with,in",
+  "C": "by,in",
+  "D": "with,to",
+  "Answer": "with,in"
+ },
+ {
+  "Question": " Students don't go___ school",
+  "A": "for",
+  "B": "in",
+  "C": "to",
+  "D": "with",
+  "Answer": "to"
+ },
+ {
+  "Question": "My brother came___ Tuesday",
+  "A": "on",
+  "B": "in",
+  "C": "from",
+  "D": "since",
+  "Answer": "on"
+ }
+]
+}
