@@ -1,0 +1,83 @@
+{
+"Sheet1":[
+ {
+  "Question": "My brother works in a factory.",
+  "A": "Assertive",
+  "B": " Interrogative",
+  "C": " Imperative",
+  "D": "Exclamatory",
+  "Answer": "Assertive"
+ },
+ {
+  "Question": "Why are you so weak?",
+  "A": "Imperative",
+  "B": "Interrogative",
+  "D": "Exclamatory",
+  "Answer": "Interrogative"
+ },
+ {
+  "Question": "Are you going to Hyderabad now?",
+  "A": "Imperative",
+  "B": "Imperative",
+  "C": "Exclamatory",
+  "D": "Interrogative",
+  "Answer": "Interrogative"
+ },
+ {
+  "Question": "Laxmi is my best friend",
+  "A": "InterrogativeInterrog",
+  "B": "Imperative",
+  "C": "Assertive",
+  "D": "Exclamatory",
+  "Answer": "Assertive"
+ },
+ {
+  "Question": "Suvarsha is in class IL.",
+  "A": "Exclamatory",
+  "B": "Interrogative",
+  "C": "Assertive",
+  "D": "Imperative",
+  "Answer": "Assertive"
+ },
+ {
+  "Question": "Get out.",
+  "A": "Exclamatory",
+  "B": "Assertive",
+  "C": "Assertive",
+  "D": "Imperative",
+  "Answer": "Imperative"
+ },
+ {
+  "Question": "May I come in please?",
+  "A": "Interrogative",
+  "B": "Assertive",
+  "C": "Imperative",
+  "D": "Exclamatory",
+  "Answer": "Interrogative"
+ },
+ {
+  "Question": "Ramesh does not go to office.",
+  "A": "Imperative",
+  "B": "Interrogative",
+  "C": "Assertive",
+  "D": "Exclamatory",
+  "Answer": "Imperative"
+ },
+ {
+  "Question": "What a beautiful statue it is!",
+  "A": "Assertive",
+  "B": "Imperative",
+  "C": "Interrogative",
+  "D": "Exclamatory",
+  "Answer": "Exclamatory"
+ },
+ {
+  "Question": "How many boys are there in the class ?",
+  "A": "Interrogative",
+  "B": "Assertive",
+  "C": "Imperative",
+  "D": "Exclamatory",
+  "Answer": "Interrogative"
+ }
+]
+}
