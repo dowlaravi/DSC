@@ -1,0 +1,84 @@
+{
+"Sheet1":[
+ {
+  "Question": "Change the following into comparative degree.\nRaju is as clever as Ravi.\n",
+  "A": "Ravi is not cleverer than Raju.",
+  "B": "Ravi is so clever as Raju.",
+  "C": "Ravi was clever than Raju.",
+  "D": "Ravi is cleverer than Raju.\n",
+  "Answer": "Ravi is not cleverer than Raju."
+ },
+ {
+  "Question": "Change the following into comparative degree. The stars are not so bright as the moon.\n",
+  "A": "The moon is brighter than stars.",
+  "B": "The moon was bright than any other stars.\n",
+  "C": "The moon is brightest than stars,\n\n",
+  "D": "The moon is bright than stars.",
+  "Answer": "The moon is brighter than stars."
+ },
+ {
+  "Question": "Change the following into comparative degree. Very few places are as sacred as Tirupati.\n",
+  "A": "Tirupati is the sacred.",
+  "B": " Tirupati is the most sacred place,",
+  "C": "Tirupati is one of the most sacred places.",
+  "D": "Tirupati is more sacred than most other places.",
+  "Answer": "Tirupati is more sacred than most other places."
+ },
+ {
+  "Question": "Change the following into superlative degree.No other man was so honest as Karthik.\n",
+  "A": "Karthik was more honest any other man.",
+  "B": "Karthik was the honest man.",
+  "C": " Karthik was most honest man.\n",
+  "D": " Karthik was more honest man.\n",
+  "Answer": "Karthik was the honest man."
+ },
+ {
+  "Question": "Change the following into superlative degree. The rose is more beautiful than any other flower.\n",
+  "A": "The rose is the most beautiful flower.",
+  "B": "The rose is the most beautiful flower.\n",
+  "C": "No other flower is so beautiful as the rose.\n",
+  "D": "The rose is the most beautiful flower.\n",
+  "Answer": "No other flower is so beautiful as the rose."
+ },
+ {
+  "Question": "Change the following into superlative degree. Very few boys is the class are as industrious as Rama.\n",
+  "A": " Rama is the most industrious boy in the class.",
+  "B": "Rama is one of the most industrious boys in the class",
+  "C": "Rama is one of industrious boy in the class.\n",
+  "D": "Rama is more industrious than other boys in the class.\n\n",
+  "Answer": "Rama is one of the most industrious boys in the class\n"
+ },
+ {
+  "Question": " A wise enemy is better than a foolish friend.\n change into positive degree",
+  "A": " A foolish friend is not good as a wise enemy.",
+  "B": " A wise enemy is the better than a foolish friend.",
+  "C": "A foolish is not good as a wise enemy.\n",
+  "D": "A foolish enemy is not so good as a wise friend.",
+  "Answer": " A foolish friend is not good as a wise enemy."
+ },
+ {
+  "Question": "Gold is more precious than silver change into positive degree",
+  "A": "Silver is not precious than gold\n",
+  "B": "Silver is more precious than gold.\n",
+  "C": "Silver is not so precious as gold\n",
+  "D": " Gold is most precious than silver.",
+  "Answer": "Silver is not so precious as gold\n"
+ },
+ {
+  "Question": "Pandit Nehru's Autobiography is one of the most interesting books I have ever read.change into positive degree",
+  "A": "Very few books I have ever read are very interesting as pandit Nehru's Autobiography\n\n",
+  "B": "Very few books I have ever read are so interesting as Pandit Nehru's Autobiography\n\n",
+  "C": " Pandit Nehru's Autobiography is interesting than most other books I have ever read.",
+  "D": "Pandit Nehru's Autobiography is more interesting than most other books I have read.",
+  "Answer": "Very few books I have ever read are so interesting as Pandit Nehru's Autobiography"
+ },
+ {
+  "Question": "Prevention is better than cure.\nchange into positive degree",
+  "A": "Cure does not so good as prevention.",
+  "B": "Cure is so good as prevention.",
+  "C": "Cure was not better than prevention",
+  "D": " Cure is not so good as prevention.",
+  "Answer": " Cure is not so good as prevention."
+ }
+]
+}
