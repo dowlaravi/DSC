@@ -1,0 +1,84 @@
+{
+"Sheet1":[
+ {
+  "Question": "She said that she was busy.",
+  "A": "She said, \"She is busy\".",
+  "B": " She said, \"You are busy\",",
+  "C": "She says, \"I am busy.\"",
+  "D": "She said, \"I am busy\".",
+  "Answer": "She said, \"I am busy\"."
+ },
+ {
+  "Question": "Madhavi said that the sun sets in the west.",
+  "A": " Madhavi says, \"The sun sets in the west\".",
+  "B": " Madhavi says, \"The sun set in the west\".",
+  "C": "Madhavi says, \"The sun was set in the west\".",
+  "D": "Madhavi said, \"The sun sets in the west.\"",
+  "Answer": "Madhavi said, \"The sun sets in the west.\""
+ },
+ {
+  "Question": "Ravi said that he would see me the next day.",
+  "A": "Ravi said, \"I saw you tomorrow\".\n",
+  "B": "Ravi said, \"I saw you yesterday\".\n",
+  "C": " Ravi said, \"you will see me tomorrow\".\n\n",
+  "D": "Ravi said, \"I will see you tomorrow\",",
+  "Answer": "Ravi said, \"I will see you tomorrow\","
+ },
+ {
+  "Question": " Latha said that she was working hard.",
+  "A": " Latha said, \"I worked hard\".\n\n",
+  "B": " Latha said, \"I am working hard\".",
+  "C": "Latha says, \"I am working hard\".",
+  "D": "Latha said, \"I was working hard\".",
+  "Answer": " Latha said, \"I worked hard\"."
+ },
+ {
+  "Question": "Latha said that I had written a novel.",
+  "A": " Latha said, \"I have written a novel\".",
+  "B": "Latha said, \"You have written a novel\".",
+  "C": " Latha said, \"He has written a novel.\"\n\n",
+  "D": "Latha said, \"She has written a novel.\"",
+  "Answer": "Latha said, \"You have written a novel\"."
+ },
+ {
+  "Question": "Pavani asked where I was living.",
+  "A": "Pavani said, \"Where do you live?\"\n",
+  "B": "Pavani said, \"Where did you live?\"",
+  "C": "Pavani said, \"Where are you living?\" ",
+  "D": "Pavani said, \"Where am I living?\"\n",
+  "Answer": "Pavani said, \"Where are you living?\" "
+ },
+ {
+  "Question": "Mohan asked if he taught English.",
+  "A": "Mohan said, \"Does he teach English?\"\n",
+  "B": " Mohan said, \"Am I teaching English?\"",
+  "C": "Mohan said, \"Does she teach English?\"",
+  "D": "Mohan said, \"Do you teach English?\"",
+  "Answer": "Mohan said, \"Does he teach English?\""
+ },
+ {
+  "Question": "Srinu asked who my father was.",
+  "A": "Srinu asked, \"Who my father was?\"",
+  "B": "Srinu asked, \"Who my father is?\"\n",
+  "C": "Srinu asked, \"Who is my father?\"",
+  "D": "Srinu asked, \"Who is your father?\"",
+  "Answer": "Srinu asked, \"Who is your father?\""
+ },
+ {
+  "Question": "Suresh asked which sweets I liked.",
+  "A": " Suresh said, \"Which sweets you like?\"\n\n",
+  "B": "uresh says, \"Which sweets do you like?\"\n",
+  "C": "Suresh says, \"Which sweets are you liked?\"",
+  "D": "Suresh says, \"Which sweets do I like?\"",
+  "Answer": "uresh says, \"Which sweets do you like?\""
+ },
+ {
+  "Question": "Mohini said that I was a good girl.",
+  "A": " Mohini said, \"She is a good girl\".",
+  "B": "Mohini said, \"I was a good girl\".",
+  "C": " Mohini said, \"You are a good girl\".",
+  "D": "Mohini said, \"I am a good girl\".\n\n",
+  "Answer": " Mohini said, \"You are a good girl\"."
+ }
+]
+}
