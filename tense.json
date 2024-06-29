@@ -1,0 +1,84 @@
+{
+"Sheet1":[
+ {
+  "Question": "Akbar ____India long ago.",
+  "A": "rule",
+  "B": "ruled",
+  "C": "had ruled",
+  "D": "have rule",
+  "Answer": "ruled"
+ },
+ {
+  "Question": "Both the boy and his brother _____in the house yesterday.",
+  "A": "were",
+  "B": "are",
+  "C": "is",
+  "D": "was",
+  "Answer": "were"
+ },
+ {
+  "Question": "Children___ sweets.",
+  "A": "like",
+  "B": "liked",
+  "C": "likes",
+  "D": "liken",
+  "Answer": "like"
+ },
+ {
+  "Question": "Don't disturb him. He_____ his home work.",
+  "A": "are doing",
+  "B": "is doing",
+  "C": "do",
+  "D": "done",
+  "Answer": "is doing"
+ },
+ {
+  "Question": "Don't disturb me. I ____my home work.",
+  "A": "am doing",
+  "B": "is doing",
+  "C": "was  doing",
+  "D": "are doing",
+  "Answer": "am doing"
+ },
+ {
+  "Question": "Don't get off the train, till it____",
+  "A": "is stop",
+  "B": "stoping",
+  "C": "stoped",
+  "D": "stops",
+  "Answer": "stops"
+ },
+ {
+  "Question": "English _____all over the world.",
+  "A": "is spoken",
+  "B": "was  spoken",
+  "C": "am is spoken",
+  "D": "is spokend",
+  "Answer": "is spoken"
+ },
+ {
+  "Question": " He____the work before he reached the garage.",
+  "A": "had finished",
+  "B": "are finished",
+  "C": "have finished",
+  "D": "finished",
+  "Answer": "had finished"
+ },
+ {
+  "Question": "He ______a letter before he arrived.",
+  "A": "has written",
+  "B": "had written",
+  "C": "will written",
+  "D": "do written",
+  "Answer": "had written"
+ },
+ {
+  "Question": "He _____since morning",
+  "A": "is been studying",
+  "B": "will has been studying",
+  "C": "has been studying",
+  "D": "had been studying",
+  "Answer": "has been studying"
+ }
+]
+}
