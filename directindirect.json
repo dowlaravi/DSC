@@ -25,7 +25,7 @@
  },
  {
   "Question": " Latha said that she was working hard.",
-  "A": " Latha said, \"I worked hard\".\n\n",
+  "A": " Latha said, \"I worked hard\".",
   "B": " Latha said, \"I am working hard\".",
   "C": "Latha says, \"I am working hard\".",
   "D": "Latha said, \"I was working hard\".",
@@ -49,7 +49,7 @@
  },
  {
   "Question": "Mohan asked if he taught English.",
-  "A": "Mohan said, \"Does he teach English?\"\n",
+  "A": "Mohan said, \"Does he teach English?\"",
   "B": " Mohan said, \"Am I teaching English?\"",
   "C": "Mohan said, \"Does she teach English?\"",
   "D": "Mohan said, \"Do you teach English?\"",
@@ -66,7 +66,7 @@
  {
   "Question": "Suresh asked which sweets I liked.",
   "A": " Suresh said, \"Which sweets you like?\"\n\n",
-  "B": "uresh says, \"Which sweets do you like?\"\n",
+  "B": "uresh says, \"Which sweets do you like?\"",
   "C": "Suresh says, \"Which sweets are you liked?\"",
   "D": "Suresh says, \"Which sweets do I like?\"",
   "Answer": "uresh says, \"Which sweets do you like?\""
