@@ -226,52 +226,63 @@
   "Answer": "It may snow tomorrow."
  },
  {
-  "Question": "He",
-  "A": "a",
-  "B": "an",
-  "C": "the",
-  "D": "none",
-  "Answer": "an"
+  "Question": "Select the sentence that contains a subordinating clause.",
+  "A": "I will go to the beach along with him.",
+  "B": "After we finish dinner, we can go for a walk.",
+  "C": "The dog barked loudly all night.",
+  "D": " She danced gracefully across the stage.",
+  "Answer": "After we finish dinner, we can go for a walk."
  },
  {
-  "Question": "He",
-  "A": "a",
-  "B": "an",
-  "C": "the",
-  "D": "none",
-  "Answer": "an"
+  "Question": "The tiger strategically attacks
+
+Choose the option that fits the blank.",
+  "A": " as against off",
+  "B": "from under in",
+  "C": "from behind",
+  "D": "as against off",
+  "Answer": "from behind"
  },
  {
-  "Question": "He",
-  "A": "a",
-  "B": "an",
-  "C": "the",
-  "D": "none",
-  "Answer": "an"
+  "Question": " Sentence structures can be practised by",
+  "A": "one word answers",
+  "B": "multiple choice questions",
+  "C": "substitution tables",
+  "D": "essay type questions",
+  "Answer": "substitution tables"
  },
  {
-  "Question": "He",
-  "A": "a",
-  "B": "an",
-  "C": "the",
-  "D": "none",
-  "Answer": "an"
+  "Question": "One of the following makes the class lively and learners practice language element lively and interestingly.",
+  "A": "Use of audio-visual aids",
+  "B": "Paper - pencil test",
+  "C": "Use of a calculator",
+  "D": "Correct pronunciation",
+  "Answer": "Use of audio-visual aids"
  },
  {
-  "Question": "He",
-  "A": "a",
-  "B": "an",
-  "C": "the",
-  "D": "none",
-  "Answer": "an"
+  "Question": " Read the following passage.
+The city streets bustled with life, as cars honked their horns and pedestrians hurried along the sidewalks.
+  Neon signs illuminated the night sky, casting a colorful glow on the throngs of people below. 
+  Amidst the hustle and bustle, street performers entertained crowds with music and acrobatics, 
+  adding to the vibrant energy of the urban landscape.
+Choose the correct statement based on the passage:",
+  "A": "The city streets were dimly lit by traditional gas lamps.",
+  "B": "Street performers captivated audiences with their silent performances",
+  "C": "Pedestrians were walking leisurely along the streets.",
+  "D": "The urban landscape was full of life or activity.",
+  "Answer": "The urban landscape was full of life or activity."
  },
  {
-  "Question": "He",
-  "A": "a",
-  "B": "an",
-  "C": "the",
-  "D": "none",
-  "Answer": "an"
+  "Question": "Read the following passage.
+The city streets bustled with life, as cars honked their horns and pedestrians hurried along the sidewalks.
+  Neon signs illuminated the night sky, casting a colorful glow on the throngs of people below. Amidst the hustle and bustle,
+  street performers entertained crowds with music and acrobatics, adding to the vibrant energy of the urban landscape.
+Select the correct statement based on the passage:",
+  "A": "The city streets were deserted and quiet.",
+  "B": "Street performers added pleasure to the urban scene.",
+  "C": " Neon signs were turned off, leaving the streets in darkness.",
+  "D": " Cars moved smoothly along the streets without any honking.",
+  "Answer": "Street performers added pleasure to the urban scene."
  },
  {
   "Question": "He",
