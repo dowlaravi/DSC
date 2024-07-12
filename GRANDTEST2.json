@@ -388,52 +388,27 @@ Choose the indirect speech for the sentence above.",
   "Answer": "give up"
  },
  {
-  "Question": "He",
-  "A": "a",
-  "B": "an",
-  "C": "the",
-  "D": "none",
-  "Answer": "an"
+  "Question": "Select the compound sentence from the following",
+  "A": "He enjoys reading books and she likes watching movies.",
+  "B": "The students studied hard because they had an exam.",
+  "C": "She cooked the dinner while she set the table.",
+  "D": " After the game, we went out for pizza.",
+  "Answer": "He enjoys reading books and she likes watching movies."
  },
  {
-  "Question": "He",
-  "A": "a",
-  "B": "an",
-  "C": "the",
-  "D": "none",
-  "Answer": "an"
+  "Question": "Select the superlative form of the adverb 'quickly'",
+  "A": "quickerly",
+  "B": " most quickly",
+  "C": "quicker",
+  "D": "quick",
+  "Answer": " most quickly"
  },
  {
-  "Question": "He",
-  "A": "a",
-  "B": "an",
-  "C": "the",
-  "D": "none",
-  "Answer": "an"
- },
- {
-  "Question": "He",
-  "A": "a",
-  "B": "an",
-  "C": "the",
-  "D": "none",
-  "Answer": "an"
- },
- {
-  "Question": "He",
-  "A": "a",
-  "B": "an",
-  "C": "the",
-  "D": "none",
-  "Answer": "an"
- },
- {
-  "Question": "He",
-  "A": "a",
-  "B": "an",
-  "C": "the",
-  "D": "none",
-  "Answer": "an"
+  "Question": " "We enjoyed ourselves at the party." Identify the type of pronoun of the underlined word in the sentence above.",
+  "A": "Personal pronoun",
+  "B": "Possessive pronoun",
+  "C": "Demonstrative pronoun",
+  "D": "Reflexive pronoun",
+  "Answer": "Reflexive pronoun"
  }
-
 ]
