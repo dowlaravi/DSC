@@ -146,12 +146,44 @@
   "Answer": "2%"
  },
  {
-  "Question": "He",
-  "A": "a",
-  "B": "an",
-  "C": "the",
-  "D": "none",
-  "Answer": "an"
+  "Question": "ఒక దుకాణంలో ఒక గౌను ఖరీదు ₹750. దానిపై 10% అమ్మకపు పన్ను విధించిన చెల్లించవలసిన బిల్లు",
+  "A": "775",
+  "B": "800",
+  "C": "825",
+  "D": "850",
+  "Answer": "825"
+ },
+ {
+  "Question": "87 ని శాతంగా మార్చిన",
+  "A": "870%",
+  "B": "77%",
+  "C": "97%",
+  "D": "87%",
+  "Answer": "87%"
+ },
+ {
+  "Question": "ఒక పశువుల పాకలో 200 గేదెలు మరియ 250 ఆవులు ఉన్నాయి. అయితే గేదెలు మరియు ఆవుల నిష్పత్తి",
+  "A": " 4:5",
+  "B": " 5:4",
+  "C": "1:4",
+  "D": "3:4",
+  "Answer": " 4:5"
+ },
+ {
+  "Question": "110592 యొక్క ఘన మూలం",
+  "A": "76",
+  "B": "48",
+  "C": "58",
+  "D": "28",
+  "Answer": "48"
+ },
+ {
+  "Question": "ఒక రెండంకెల సంఖ్యలోని ఒక అంకె మరో అంకెకు మూడు రెట్లు. ఈ రెండంకెల సంఖ్యలోని అంకెలను తారుమారు చేయగా వచ్చే సంఖ్యను, ఆ సంఖ్యకు కలిపితే 88 వస్తుంది. అయితే ఆ సంఖ్య",
+  "A": "42",
+  "B": "56",
+  "C": "72",
+  "D": "26",
+  "Answer": "26"
  },
  {
   "Question": "He",
@@ -162,68 +194,36 @@
   "Answer": "an"
  },
  {
-  "Question": "He",
-  "A": "a",
-  "B": "an",
-  "C": "the",
-  "D": "none",
-  "Answer": "an"
+  "Question": "ఒక బిలియన్ విలువ",
+  "A": "10 మిలియన్లు",
+  "B": " 100 మిలియన్లు",
+  "C": "1000 మిలియన్లు",
+  "D": " 10000 మిలియన్లు",
+  "Answer": "1000 మిలియన్లు"
  },
  {
-  "Question": "He",
-  "A": "a",
-  "B": "an",
-  "C": "the",
-  "D": "none",
-  "Answer": "an"
+  "Question": "ప్రధానమంత్రి సహాయనిధికి పంపడానికి ఒక్కొక్క విద్యార్థి ₹110 చొప్పున 5 గురు విద్యార్థులు డబ్బు పోగుచేశారు. వారు సేకరించిన మొత్తం సొమ్ము",
+  "A": "550",
+  "B": "650",
+  "C": "555",
+  "D": "660",
+  "Answer": "550"
  },
  {
-  "Question": "He",
-  "A": "a",
-  "B": "an",
-  "C": "the",
-  "D": "none",
-  "Answer": "an"
+  "Question": "90. Choose the correct statement regarding the definite article 'the'",
+  "A": "The' is used before a singular noun that indicates somebody's profession",
+  "B": " 'The' is used to introduce nouns for the first time",
+  "C": "'The' is used to refer to specific nouns already known to the listener.",
+  "D": " 'The' is not used before nouns.",
+  "Answer": "'The' is used to refer to specific nouns already known to the listener."
  },
  {
-  "Question": "He",
-  "A": "a",
-  "B": "an",
-  "C": "the",
-  "D": "none",
-  "Answer": "an"
- },
- {
-  "Question": "He",
-  "A": "a",
-  "B": "an",
-  "C": "the",
-  "D": "none",
-  "Answer": "an"
- },
- {
-  "Question": "He",
-  "A": "a",
-  "B": "an",
-  "C": "the",
-  "D": "none",
-  "Answer": "an"
- },
- {
-  "Question": "He",
-  "A": "a",
-  "B": "an",
-  "C": "the",
-  "D": "none",
-  "Answer": "an"
- },
- {
-  "Question": "He",
-  "A": "a",
-  "B": "an",
-  "C": "the",
-  "D": "none",
-  "Answer": "an"
+  "Question": " Choose the sentence in which 'may' is expressing possibility.",
+  "A": "It may snow tomorrow.",
+  "B": " May I borrow your pen?",
+  "C": "You may leave the room.",
+  "D": " You may leave the room.",
+  "Answer": "It may snow tomorrow."
  },
  {
   "Question": "He",
