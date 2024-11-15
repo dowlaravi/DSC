@@ -1,0 +1,263 @@
+[
+  {
+    "Question": "The greatest English detective novel, ‘The Moonstone’ was written by?",
+    "A": "Wilkie Collins",
+    "B": "George Eliot",
+    "C": "Louisa May Alcott",
+    "D": "Lewis Carroll",
+    "Answer": "Wilkie Collins",
+    "Explanation": "‘The Moonstone’ is considered the first modern English detective novel, written by Wilkie Collins in 1868."
+  },
+  {
+    "Question": "Choose the novel that is full of psychological suspense.",
+    "A": "In Her Shadow",
+    "B": "Perfect Remains",
+    "C": "Dying Breath",
+    "D": "In Servitude",
+    "Answer": "Perfect Remains",
+    "Explanation": "‘Perfect Remains’ by Helen Fields is a psychological suspense thriller, featuring a dark and gripping mystery."
+  },
+  {
+    "Question": "'Acquainted with the Night' was the literary work of?",
+    "A": "Ernest Dowson",
+    "B": "P.B. Shelley",
+    "C": "William Dunbar",
+    "D": "Robert Frost",
+    "Answer": "Robert Frost",
+    "Explanation": "'Acquainted with the Night' is a poem written by Robert Frost, reflecting on themes of loneliness and isolation."
+  },
+  {
+    "Question": "Choose the literary work of James Thurber among the following.",
+    "A": "The Subjunctive Mood",
+    "B": "Advice to Youth",
+    "C": "The Danger of Lying in Bed",
+    "D": "The Battle of the Ants",
+    "Answer": "The Danger of Lying in Bed",
+    "Explanation": "James Thurber is known for his humorous and satirical writings, and 'The Danger of Lying in Bed' is one of his works."
+  },
+  {
+    "Question": "The salutation in a personal letter always appears?",
+    "A": "At the right hand margin",
+    "B": "At the left hand margin",
+    "C": "At the top of the letter",
+    "D": "After closing",
+    "Answer": "At the left hand margin",
+    "Explanation": "In personal letters, the salutation typically appears at the left-hand margin, below the date and above the body of the letter."
+  },
+  {
+    "Question": "The function of the body paragraphs in an essay is?",
+    "A": "To discuss the details of the writer of the essay",
+    "B": "To help the readers stop reading",
+    "C": "To discuss the evidences introduced in the thesis statement",
+    "D": "To describe the skills of the author of the essay",
+    "Answer": "To discuss the evidences introduced in the thesis statement",
+    "Explanation": "The body paragraphs in an essay provide evidence and analysis that support the thesis statement, explaining the main points in detail."
+  },
+  {
+    "Question": "Sekhar goes to ....... school for studying. Choose the correct article that fits the blank.",
+    "A": "A",
+    "B": "An",
+    "C": "The",
+    "D": "No article is needed",
+    "Answer": "A",
+    "Explanation": "The indefinite article 'a' is used before a singular, countable noun that starts with a consonant sound (like 'school')."
+  },
+  {
+    "Question": "Choose the sentence with the correct use of articles.",
+    "A": "She went the home with her father.",
+    "B": "I have taken a milk.",
+    "C": "The Nehrus are rich.",
+    "D": "This is a most useful book.",
+    "Answer": "This is a most useful book.",
+    "Explanation": "The correct sentence is 'This is a most useful book,' where 'a' is the correct indefinite article."
+  },
+  {
+    "Question": "Choose the correct preposition that fits the blank: 'Fortune seemed to smile ......... him.'",
+    "A": "Upon",
+    "B": "On",
+    "C": "Over",
+    "D": "At",
+    "Answer": "Upon",
+    "Explanation": "In this context, 'upon' is the correct preposition, often used in poetic or formal contexts (e.g., 'smile upon him')."
+  },
+  {
+    "Question": "Choose the sentence in which the preposition, ‘with’ is used correctly.",
+    "A": "Confide your secrets with none.",
+    "B": "He exchanged the cow with the horse.",
+    "C": "I disagree with you on this point.",
+    "D": "The king confided with his ministers.",
+    "Answer": "I disagree with you on this point.",
+    "Explanation": "'I disagree with you on this point' is the correct use of 'with' as it denotes a relationship or agreement/disagreement with a person."
+  },
+  {
+    "Question": "He apologized to me for his rude behaviour ..............., I agreed to go with him. Choose the correct conjunction that fits the blank.",
+    "A": "Moreover",
+    "B": "However",
+    "C": "Consequently",
+    "D": "Similarly",
+    "Answer": "However",
+    "Explanation": "'However' is the correct conjunction, showing contrast between the two actions (apologizing and agreeing to go with him)."
+  },
+  {
+    "Question": "Choose the word that can be used as a noun and a verb.",
+    "A": "Collect",
+    "B": "Experience",
+    "C": "Write",
+    "D": "Imagine",
+    "Answer": "Collect",
+    "Explanation": "The word 'collect' can be used both as a verb (to gather something) and a noun (a collection of items)."
+  },
+  {
+    "Question": "We were doing a Mathematics test when the fire alarm rang yesterday. The above sentence is ..........",
+    "A": "A simple sentence",
+    "B": "A complex – compound sentence",
+    "C": "A compound sentence",
+    "D": "A complex sentence",
+    "Answer": "A complex sentence",
+    "Explanation": "The sentence is a complex sentence because it contains two clauses: 'We were doing a Mathematics test' and 'when the fire alarm rang.'"
+  },
+  {
+    "Question": "Don’t eat too many biscuits. The above sentence;",
+    "A": "Makes a statement",
+    "B": "Asks a question",
+    "C": "Makes an exclamation",
+    "D": "Expresses a command",
+    "Answer": "Expresses a command",
+    "Explanation": "The sentence 'Don’t eat too many biscuits' is a command or instruction, making it an imperative sentence."
+  },
+  {
+    "Question": "Choose the sentence that does not denote the future.",
+    "A": "He is going to buy a new car",
+    "B": "He will buy a new car",
+    "C": "He is planning to buy a new car",
+    "D": "He has a new car",
+    "Answer": "He has a new car",
+    "Explanation": "The sentence 'He has a new car' is in the present tense and does not indicate a future action."
+  },
+  {
+    "Question": "We .......... all our money by the week-end. Choose the correct form of the verb that fits the blank.",
+    "A": "Shall have spent",
+    "B": "Should have spent",
+    "C": "Spend",
+    "D": "Are spent",
+    "Answer": "Shall have spent",
+    "Explanation": "The correct form is 'shall have spent,' indicating a future perfect action (money will be spent by the weekend)."
+  },
+  {
+    "Question": "The baggage could ........... to Bombay by mistake. Choose the correct tense form that fits the blank.",
+    "A": "Have been send",
+    "B": "Has been sent",
+    "C": "Have been sent",
+    "D": "Have being send",
+    "Answer": "Have been sent",
+    "Explanation": "'Have been sent' is the correct form, referring to an action that could have happened in the past (mistakenly sent to Bombay)."
+  },
+  {
+    "Question": "Choose the word with the correct syllabic division.",
+    "A": "Fra. gme. nt",
+    "B": "Fr. ag. ment",
+    "C": "Frag. ment",
+    "D": "Fr. ag. me. nt",
+    "Answer": "Frag. ment",
+    "Explanation": "The word 'fragment' is correctly divided into syllables as 'frag-ment'."
+  },
+  {
+    "Question": "Find the word that does not have a homophonic sound to the sound of the underlined letters.",
+    "A": "Food",
+    "B": "Look",
+    "C": "Took",
+    "D": "Good",
+    "Answer": "Look",
+    "Explanation": "The word 'look' has a different sound compared to 'food', 'took', and 'good', which all share similar vowel sounds."
+  },
+  {
+    "Question": "Choose the word with a silent letter at the beginning.",
+    "A": "Clam",
+    "B": "Chief",
+    "C": "Honest",
+    "D": "Align",
+    "Answer": "Honest",
+    "Explanation": "H"
+  },
+  {
+    "Question": "‘Table Alphabeticall’ was written by",
+    "A": "William Shakespeare",
+    "B": "King James",
+    "C": "Samuel Johnson",
+    "D": "Robert Cawdrey",
+    "Answer": "Robert Cawdrey"
+  },
+  {
+    "Question": "Language laboratories are used to have",
+    "A": "Interactive sessions",
+    "B": "Passive participation of learners",
+    "C": "Teacher-centred classes",
+    "D": "Traditional way of teaching",
+    "Answer": "Interactive sessions"
+  },
+  {
+    "Question": "In the word, ‘fan’, / f / is",
+    "A": "An unvoiced, labio-dental and fricative sound.",
+    "B": "An unvoiced, bi-labial and plosive sound.",
+    "C": "An unvoiced, alveolar and plosive sound.",
+    "D": "An unvoiced, velar and plosive sound.",
+    "Answer": "An unvoiced, labio-dental and fricative sound."
+  },
+  {
+    "Question": "A teacher is teaching ‘reading’. He is using syllable as the basic unit. The method followed by the teacher is",
+    "A": "Alphabetic method.",
+    "B": "Syllabic method.",
+    "C": "Word method",
+    "D": "Sentence method",
+    "Answer": "Syllabic method."
+  },
+  {
+    "Question": "Identify the statement that is not the feature of Grammar Translation Method.",
+    "A": "Teaching of vocabulary items in the form of word lists.",
+    "B": "Translation of sentences or texts.",
+    "C": "Classroom activities are carried out only in the target language.",
+    "D": "Elaborate explanations of grammar.",
+    "Answer": "Classroom activities are carried out only in the target language."
+  },
+  {
+    "Question": "A teacher brought a newspaper into the class and asked the students to expand the following headlines. \nHundreds of villages inundated. \nNine people killed. \nStudents expanded these sentences. \nHundred of villages were inundated. \nNine people were killed. \nThe teacher was using the above activity to introduce",
+    "A": "Indirect speech",
+    "B": "Degrees of comparison",
+    "C": "Passive voice",
+    "D": "If-clause",
+    "Answer": "Passive voice"
+  },
+  {
+    "Question": "The expanded form of OHP is",
+    "A": "Overhead Protection",
+    "B": "Overhead Project",
+    "C": "Onhead Projector",
+    "D": "Overhead Projector",
+    "Answer": "Overhead Projector"
+  },
+  {
+    "Question": "“Prose is the words in their best order” was the definition by",
+    "A": "R.L. Stevenson",
+    "B": "Coleridge",
+    "C": "Shakespeare",
+    "D": "Johnson",
+    "Answer": "R.L. Stevenson"
+  },
+  {
+    "Question": "“Ravi is my friend. He is a handsome young man. He is 5’.6’’ tall. He has a round face. His eyes are black. He got long curly hair. He always wears white dress. He speaks very softly. He can speak four languages. The odd thing about Ravi is he always wears a red tie. People like him very much because he is friendly.” \nThe above text belongs to",
+    "A": "Expository genre",
+    "B": "Descriptive genre",
+    "C": "Persuasive genre",
+    "D": "Narrative genre",
+    "Answer": "Descriptive genre"
+  },
+  {
+    "Question": "The ability to put parts together to form a new whole is called",
+    "A": "Evaluation",
+    "B": "Analysis",
+    "C": "Synthesis",
+    "D": "Assessment",
+    "Answer": "Synthesis"
+  }
+]
+
