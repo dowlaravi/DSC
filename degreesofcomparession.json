@@ -1,82 +1,246 @@
 [
- {
-  "Question": "Change the following into comparative degree.\nRaju is as clever as Ravi.\n",
-  "A": "Ravi is not cleverer than Raju.",
-  "B": "Ravi is so clever as Raju.",
-  "C": "Ravi was clever than Raju.",
-  "D": "Ravi is cleverer than Raju.\n",
-  "Answer": "Ravi is not cleverer than Raju."
- },
- {
-  "Question": "Change the following into comparative degree. The stars are not so bright as the moon.\n",
-  "A": "The moon is brighter than stars.",
-  "B": "The moon was bright than any other stars.\n",
-  "C": "The moon is brightest than stars,\n\n",
-  "D": "The moon is bright than stars.",
-  "Answer": "The moon is brighter than stars."
- },
- {
-  "Question": "Change the following into comparative degree. Very few places are as sacred as Tirupati.\n",
-  "A": "Tirupati is the sacred.",
-  "B": " Tirupati is the most sacred place,",
-  "C": "Tirupati is one of the most sacred places.",
-  "D": "Tirupati is more sacred than most other places.",
-  "Answer": "Tirupati is more sacred than most other places."
- },
- {
-  "Question": "Change the following into superlative degree.No other man was so honest as Karthik.\n",
-  "A": "Karthik was more honest any other man.",
-  "B": "Karthik was the honest man.",
-  "C": " Karthik was most honest man.\n",
-  "D": " Karthik was more honest man.\n",
-  "Answer": "Karthik was the honest man."
- },
- {
-  "Question": "Change the following into superlative degree. The rose is more beautiful than any other flower.\n",
-  "A": "The rose is the most beautiful flower.",
-  "B": "The rose is the most beautiful flower.\n",
-  "C": "No other flower is so beautiful as the rose.",
-  "D": "The rose is the most beautiful flower.\n",
-  "Answer": "No other flower is so beautiful as the rose."
- },
- {
-  "Question": "Change the following into superlative degree. Very few boys is the class are as industrious as Rama.\n",
-  "A": " Rama is the most industrious boy in the class.",
-  "B": "Rama is one of the most industrious boys in the class",
-  "C": "Rama is one of industrious boy in the class.\n",
-  "D": "Rama is more industrious than other boys in the class.\n\n",
-  "Answer": "Rama is one of the most industrious boys in the class"
- },
- {
-  "Question": " A wise enemy is better than a foolish friend.\n change into positive degree",
-  "A": " A foolish friend is not good as a wise enemy.",
-  "B": " A wise enemy is the better than a foolish friend.",
-  "C": "A foolish is not good as a wise enemy.\n",
-  "D": "A foolish enemy is not so good as a wise friend.",
-  "Answer": " A foolish friend is not good as a wise enemy."
- },
- {
-  "Question": "Gold is more precious than silver change into positive degree",
-  "A": "Silver is not precious than gold\n",
-  "B": "Silver is more precious than gold.\n",
-  "C": "Silver is not so precious as gold\n",
-  "D": " Gold is most precious than silver.",
-  "Answer": "Silver is not so precious as gold\n"
- },
- {
-  "Question": "Pandit Nehru's Autobiography is one of the most interesting books I have ever read.change into positive degree",
-  "A": "Very few books I have ever read are very interesting as pandit Nehru's Autobiography",
-  "B": "Very few books I have ever read are so interesting as Pandit Nehru's Autobiography",
-  "C": " Pandit Nehru's Autobiography is interesting than most other books I have ever read.",
-  "D": "Pandit Nehru's Autobiography is more interesting than most other books I have read.",
-  "Answer": "Very few books I have ever read are so interesting as Pandit Nehru's Autobiography"
- },
- {
-  "Question": "Prevention is better than cure.\nchange into positive degree",
-  "A": "Cure does not so good as prevention.",
-  "B": "Cure is so good as prevention.",
-  "C": "Cure was not better than prevention",
-  "D": " Cure is not so good as prevention.",
-  "Answer": " Cure is not so good as prevention."
- }
+  {
+    "Question": "Identify the grammatically correct sentence.",
+    "A": "This is most unique dress.",
+    "B": "This is the unique dress.",
+    "C": "This is the more unique dress.",
+    "D": "This is very unique dress.",
+    "Answer": "This is the unique dress."
+  },
+  {
+    "Question": "Identify the correct verb form for the sentence: The girls ________ waiting for you.",
+    "A": "is",
+    "B": "was",
+    "C": "be",
+    "D": "are",
+    "Answer": "are"
+  },
+  {
+    "Question": "Identify the term for someone who studies insects:",
+    "A": "Entomologist",
+    "B": "Ornithologist",
+    "C": "Biologist",
+    "D": "Geologist",
+    "Answer": "Entomologist"
+  },
+  {
+    "Question": "Identify the modal verb used to show ability:",
+    "A": "will",
+    "B": "might",
+    "C": "should",
+    "D": "could",
+    "Answer": "could"
+  },
+  {
+    "Question": "Choose the correctly capitalized name of a specific place:",
+    "A": "london",
+    "B": "London",
+    "C": "LONDON",
+    "D": "LonDon",
+    "Answer": "London"
+  },
+  {
+    "Question": "The following detail is NOT usually included in the early life section of a biographical sketch:",
+    "A": "family background",
+    "B": "education",
+    "C": "major accomplishments",
+    "D": "formative experiences",
+    "Answer": "major accomplishments"
+  },
+  {
+    "Question": "Choose the sentence that is NOT an example of the present tense:",
+    "A": "She runs every morning",
+    "B": "He will be travelling next week.",
+    "C": "I am eating lunch.",
+    "D": "They have been studying for two hours.",
+    "Answer": "He will be travelling next week."
+  },
+  {
+    "Question": "By the time we arrived, they _______ (eat) dinner. Choose the correct verb form for the past perfect tense:",
+    "A": "eat",
+    "B": "ate",
+    "C": "have eaten",
+    "D": "had eaten",
+    "Answer": "had eaten"
+  },
+  {
+    "Question": "Please close the door. Choose the type of sentence",
+    "A": "Interrogative",
+    "B": "Declarative",
+    "C": "Exclamatory",
+    "D": "Imperative",
+    "Answer": "Imperative"
+  },
+  {
+    "Question": "The meeting was cancelled due to the storm. Choose the correct transformation of the simple sentence into a complex sentence.",
+    "A": "The meeting was cancelled, and the storm was severe.",
+    "B": "The storm caused the meeting to be cancelled.",
+    "C": "The meeting was cancelled because there was a storm.",
+    "D": "The meeting was cancelled but the storm was not severe.",
+    "Answer": "The meeting was cancelled because there was a storm."
+  },
+  {
+    "Question": "Choose the correct term synonymous with a main clause",
+    "A": "Compound clause",
+    "B": "Independent clause",
+    "C": "Dependent clause",
+    "D": "Subordinate clause",
+    "Answer": "Independent clause"
+  },
+  {
+    "Question": "She loves to travel. _______, she has visited over 20 countries. Choose the option that fits the blank.",
+    "A": "Consequently",
+    "B": "Although",
+    "C": "For example",
+    "D": "However",
+    "Answer": "Consequently"
+  },
+  {
+    "Question": "Choose the correct sequence of the words in which they occur in a dictionary.",
+    "i": "floor",
+    "ii": "fled",
+    "iii": "family",
+    "iv": "found",
+    "A": "i, iii, ii, iv",
+    "B": "iv, i, iii, ii",
+    "C": "iii, ii, i, iv",
+    "D": "ii, i, iv, iii",
+    "Answer": "ii, i, iv, iii"
+  },
+  {
+    "Question": "Choose the correct spelling of the word.",
+    "A": "ridiculous",
+    "B": "rediculous",
+    "C": "ridecules",
+    "D": "rideculous",
+    "Answer": "ridiculous"
+  },
+  {
+    "Question": "Choose the example where the indefinite article is used to denote a class:",
+    "A": "A rose is a beautiful flower.",
+    "B": "Birds of a feather flock together",
+    "C": "They were of a size",
+    "D": "Our shirts are of a size.",
+    "Answer": "A rose is a beautiful flower."
+  },
+  {
+    "Question": "He bought his friend __________ him to the party. Choose the correct preposition that fits the blank.",
+    "A": "along with",
+    "B": "apart from",
+    "C": "by means of",
+    "D": "by way of",
+    "Answer": "along with"
+  },
+  {
+    "Question": "Seven had been quite upset about Mr. Nath’s gaunt appearance. Choose the synonym that means “upset”.",
+    "A": "happy",
+    "B": "angry",
+    "C": "distressed",
+    "D": "calm",
+    "Answer": "distressed"
+  },
+  {
+    "Question": "Einstein saw in her an ally against the philistines – those people in his family and at the university with whom he was constantly at odds. Choose the antonym of the word “constantly”",
+    "A": "steady",
+    "B": "inconsistent",
+    "C": "persistent",
+    "D": "continuous",
+    "Answer": "inconsistent"
+  },
+  {
+    "Question": "The following is the indirect form of: He said, “The horse died at night.”",
+    "A": "He said that the horse has died at night.",
+    "B": "He said that the horse dies at night",
+    "C": "He said that the horse was died at night.",
+    "D": "He said that the horse had died at night.",
+    "Answer": "He said that the horse had died at night."
+  },
+  {
+    "Question": "He managed to ____ all his fears and doubts and gave a stellar performance. Choose the correct phrasal verb that fits the blank.",
+    "A": "get away with",
+    "B": "hold out",
+    "C": "get over",
+    "D": "look forward to",
+    "Answer": "get over"
+  },
+  {
+    "Question": "Mohan had a three-hour journey yesterday. Choose the meaning of the underlined phrase:",
+    "A": "a journey that started at 3 o' clock",
+    "B": "a journey that started three hours ago",
+    "C": "a journey that takes three hours.",
+    "D": "a journey that starts after every three hours",
+    "Answer": "a journey that takes three hours."
+  },
+  {
+    "Question": "“__________ I’m not sure if I want to go. Choose the interjection that best fits the blank.",
+    "A": "Yay",
+    "B": "Ouch",
+    "C": "Wow",
+    "D": "Um",
+    "Answer": "Um"
+  },
+  {
+    "Question": "India is a linguistic mosaic with over 1,600 languages spoken across the country. Hindi, the most widely spoken language, serves as a lingua franca, while regional languages like Tamil, Bengali, and Marathi reflect local heritage. Multilingualism is a hallmark of Indian society, highlighting its rich cultural diversity and the importance of preserving linguistic traditions. Hindi serves as a ____________ in India. Choose the option that fits the blank.",
+    "A": "Regional language",
+    "B": "Foreign language",
+    "C": "Lingua franca",
+    "D": "Ancient script",
+    "Answer": "Lingua franca"
+  },
+  {
+    "Question": "India is a linguistic mosaic with over 1,600 languages spoken across the country. Hindi, the most widely spoken language, serves as a lingua franca, while regional languages like Tamil, Bengali, and Marathi reflect local heritage. Multilingualism is a hallmark of Indian society, highlighting its rich cultural diversity and the importance of preserving linguistic traditions. Identify the regional languages mentioned in the passage:",
+    "A": "Tamil, Urdu, Punjabi",
+    "B": "Tamil, Bengali, Marathi",
+    "C": "Bengali, Kannada, Telugu",
+    "D": "Marathi, Punjabi, Assamese",
+    "Answer": "Tamil, Bengali, Marathi"
+  },
+  {
+    "Question": "Identify the skill that is primarily speech and involves expressing feelings and obtaining information",
+    "A": "Listening",
+    "B": "Writing",
+    "C": "Reading",
+    "D": "Speaking",
+    "Answer": "Speaking"
+  },
+  {
+    "Question": "Choose the best option that fits the blank. Writing involves producing sentences in a specific order, linking them in certain ways, and it is called __________.",
+    "A": "a productive skill",
+    "B": "a cognitive skill",
+    "C": "a receptive skill",
+    "D": "a passive skill",
+    "Answer": "a productive skill"
+  },
+  {
+    "Question": "Choose the best option that fits the blank. Dr. West’s Method prioritises developing ________ skills as a foundation for active work in speaking and writing.",
+    "A": "listening",
+    "B": "speaking",
+    "C": "reading",
+    "D": "writing",
+    "Answer": "listening"
+  },
+  {
+    "Question": "Choose the best option that fits the blank. Micro-teaching minimizes the complexities of ________ classroom teaching.",
+    "A": "actual",
+    "B": "hypothetical",
+    "C": "simplified",
+    "D": "theoretical",
+    "Answer": "actual"
+  },
+  {
+    "Question": "Identify a key challenge in English language teaching in India.",
+    "A": "Plentiful qualified teachers",
+    "B": "Excellent infrastructure",
+    "C": "Promoting mother tongue education",
+    "D": "Strong political support for English",
+    "Answer": "Promoting mother tongue education"
+  },
+  {
+    "Question": "Choose the best option that fits the blank. The ____________ aspect of English deals with speech, sounds, pronunciation and spelling.",
+    "A": "Phonetic",
+    "B": "Semantic",
+    "C": "Graphic",
+    "D": "Syntactic",
+    "Answer": "Phonetic"
+  }
 ]
