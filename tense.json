@@ -1,82 +1,246 @@
 [
- {
-  "Question": "Akbar ____India long ago.",
-  "A": "rule",
-  "B": "ruled",
-  "C": "had ruled",
-  "D": "have rule",
-  "Answer": "ruled"
- },
- {
-  "Question": "Both the boy and his brother _____in the house yesterday.",
-  "A": "were",
-  "B": "are",
-  "C": "is",
-  "D": "was",
-  "Answer": "were"
- },
- {
-  "Question": "Children___ sweets.",
-  "A": "like",
-  "B": "liked",
-  "C": "likes",
-  "D": "liken",
-  "Answer": "like"
- },
- {
-  "Question": "Don't disturb him. He_____ his home work.",
-  "A": "are doing",
-  "B": "is doing",
-  "C": "do",
-  "D": "done",
-  "Answer": "is doing"
- },
- {
-  "Question": "Don't disturb me. I ____my home work.",
-  "A": "am doing",
-  "B": "is doing",
-  "C": "was  doing",
-  "D": "are doing",
-  "Answer": "am doing"
- },
- {
-  "Question": "Don't get off the train, till it____",
-  "A": "is stop",
-  "B": "stoping",
-  "C": "stoped",
-  "D": "stops",
-  "Answer": "stops"
- },
- {
-  "Question": "English _____all over the world.",
-  "A": "is spoken",
-  "B": "was  spoken",
-  "C": "am is spoken",
-  "D": "is spokend",
-  "Answer": "is spoken"
- },
- {
-  "Question": " He____the work before he reached the garage.",
-  "A": "had finished",
-  "B": "are finished",
-  "C": "have finished",
-  "D": "finished",
-  "Answer": "had finished"
- },
- {
-  "Question": "He ______a letter before he arrived.",
-  "A": "has written",
-  "B": "had written",
-  "C": "will written",
-  "D": "do written",
-  "Answer": "had written"
- },
- {
-  "Question": "He _____since morning",
-  "A": "is been studying",
-  "B": "will has been studying",
-  "C": "has been studying",
-  "D": "had been studying",
-  "Answer": "has been studying"
- }
+  {
+    "Question": "Identify the grammatically correct sentence.",
+    "A": "Although it was raining, but we went to market.",
+    "B": "Although it was raining but went to market.",
+    "C": "Although it was raining, we went to market.",
+    "D": "Although it was raining, so we went to the market.",
+    "Answer": "Although it was raining, we went to market."
+  },
+  {
+    "Question": "Identify the correct verb form for the sentence: “We _______ confident.”",
+    "A": "am",
+    "B": "are",
+    "C": "is",
+    "D": "be",
+    "Answer": "are"
+  },
+  {
+    "Question": "One of the following is the study of living things:",
+    "A": "Psychology",
+    "B": "Sociology",
+    "C": "Biology",
+    "D": "Botany",
+    "Answer": "Biology"
+  },
+  {
+    "Question": "The following sentence uses a modal verb to express permission: “__________ I leave early today?”",
+    "A": "Must",
+    "B": "Can",
+    "C": "Should",
+    "D": "Will",
+    "Answer": "Can"
+  },
+  {
+    "Question": "Choose the correct capitalization for the title of a book:",
+    "A": "the catcher in the Rye",
+    "B": "The catcher in the rye",
+    "C": "The Catcher in The Rye",
+    "D": "The Catcher in the Rye",
+    "Answer": "The Catcher in the Rye"
+  },
+  {
+    "Question": "The following should be included in the legacy section of a biographical sketch:",
+    "A": "family background",
+    "B": "current status",
+    "C": "awards and honors",
+    "D": "career beginnings",
+    "Answer": "awards and honors"
+  },
+  {
+    "Question": "Choose the sentence in the present perfect tense:",
+    "A": "She is reading a book.",
+    "B": "He has finished his dinner.",
+    "C": "They will arrive tomorrow.",
+    "D": "I was playing football.",
+    "Answer": "He has finished his dinner."
+  },
+  {
+    "Question": "Choose the auxiliary verb used in the simple present tense for the third person singular form:",
+    "A": "do",
+    "B": "am",
+    "C": "does",
+    "D": "have",
+    "Answer": "does"
+  },
+  {
+    "Question": "The following is not an imperative sentence:",
+    "A": "Take your seats.",
+    "B": "Could you pass the salt?",
+    "C": "Clean your room.",
+    "D": "Finish your homework.",
+    "Answer": "Could you pass the salt?"
+  },
+  {
+    "Question": "I was hungry, but I waited for dinner. Choose the sentence that correctly transforms the compound sentence into a complex sentence.",
+    "A": "Although I was hungry, I waited for dinner.",
+    "B": "I was hungry, so I waited for dinner.",
+    "C": "I waited for dinner because I was hungry.",
+    "D": "I was hungry and waited for dinner.",
+    "Answer": "Although I was hungry, I waited for dinner."
+  },
+  {
+    "Question": "Identify the type of conjunction used to connect two main clauses in a compound sentence.",
+    "A": "Subordinating conjunction",
+    "B": "Relative pronoun",
+    "C": "Coordinating conjunction",
+    "D": "Conjunctive adverb",
+    "Answer": "Coordinating conjunction"
+  },
+  {
+    "Question": "He studied hard for the test. ________, he was confident about his performance. Choose the option that fits the blank.",
+    "A": "Despite",
+    "B": "As a result",
+    "C": "Because",
+    "D": "Yet",
+    "Answer": "As a result"
+  },
+  {
+    "Question": "Choose the correct sequence of the words in which they occur in a dictionary.",
+    "i": "surprise",
+    "ii": "stories",
+    "iii": "someone",
+    "iv": "suppose",
+    "A": "i, iii, ii, iv",
+    "B": "iii, ii, i, iv",
+    "C": "iv, i, ii, iii",
+    "D": "iii, ii, iv, i",
+    "Answer": "iii, ii, iv, i"
+  },
+  {
+    "Question": "Choose the correct spelling of the word.",
+    "A": "Conscinteous",
+    "B": "Conscientious",
+    "C": "Conscintious",
+    "D": "Consintious",
+    "Answer": "Conscientious"
+  },
+  {
+    "Question": "Identify the sentence that used the indefinite article before a name to indicate that the person is known to the speaker by name only.",
+    "A": "A Miss Lily has come for you, dad.",
+    "B": "A dog is faithful.",
+    "C": "He thinks he is a Napoleon.",
+    "D": "I met a magician last week.",
+    "Answer": "A Miss Lily has come for you, dad."
+  },
+  {
+    "Question": "_______ the main issue, everything else is fine. Choose the correct preposition that fits the blank.",
+    "A": "But for",
+    "B": "Aside from",
+    "C": "Because of",
+    "D": "Far from",
+    "Answer": "Aside from"
+  },
+  {
+    "Question": "Perhaps the police had to set his house on fire to force him out. Choose the synonym that means ‘force’.",
+    "A": "Compel",
+    "B": "Encourage",
+    "C": "Allow",
+    "D": "Relent",
+    "Answer": "Compel"
+  },
+  {
+    "Question": "He also felt a special interest in a fellow student, Mileva Maric, whom he found to be a clever creature. Choose the antonym of the word ‘clever’.",
+    "A": "intelligent",
+    "B": "bright",
+    "C": "smart",
+    "D": "dull",
+    "Answer": "dull"
+  },
+  {
+    "Question": "Select the correct indirect speech for: She said, “I have passed the examination”.",
+    "A": "She said that she have passed the examination.",
+    "B": "She said that she had passed the examination.",
+    "C": "She said that I had passed the examination.",
+    "D": "She said that she passed the examination.",
+    "Answer": "She said that she had passed the examination."
+  },
+  {
+    "Question": "Sudha had to ________ her plans to travel due to unexpected circumstances. Choose the correct phrasal verb that fits the blank.",
+    "A": "take after",
+    "B": "look forward to",
+    "C": "get over",
+    "D": "put off",
+    "Answer": "put off"
+  },
+  {
+    "Question": "How long have you and Bill known ______ ? Choose the option that fits the blank.",
+    "A": "themselves",
+    "B": "yourselves",
+    "C": "to each other",
+    "D": "each other",
+    "Answer": "each other"
+  },
+  {
+    "Question": "Identify the interjection in the following sentence: “Yuck! This milk is sour.”",
+    "A": "This",
+    "B": "Yuck",
+    "C": "Milk",
+    "D": "Sour",
+    "Answer": "Yuck"
+  },
+  {
+    "Question": "Read the following passage carefully. India's diverse wildlife is a testament to its rich natural heritage. The Bengal tiger roams the dense forests of the Sundarbans, while the Indian elephant is found in the lush Western Ghats. National parks like Ranthambore and Kaziranga protect endangered species and offer a glimpse into the country's thriving ecosystems. India's wildlife is an integral part of its natural beauty and environmental conservation efforts. The Bengal tiger is found in the dense forests of the ______.",
+    "A": "Western Ghats",
+    "B": "Himalayas",
+    "C": "Thar Desert",
+    "D": "Sundarbans",
+    "Answer": "Sundarbans"
+  },
+  {
+    "Question": "Read the following passage carefully. India's diverse wildlife is a testament to its rich natural heritage. The Bengal tiger roams the dense forests of the Sundarbans, while the Indian elephant is found in the lush Western Ghats. National parks like Ranthambore and Kaziranga protect endangered species and offer a glimpse into the country's thriving ecosystems. India's wildlife is an integral part of its natural beauty and environmental conservation efforts. Identify the national parks mentioned in the passage:",
+    "A": "Ranthambore and Kanha",
+    "B": "Kaziranga and Periyar",
+    "C": "Ranthambore and Kaziranga",
+    "D": "Jimcorbett and Bandipur",
+    "Answer": "Ranthambore and Kaziranga"
+  },
+  {
+    "Question": "Choose the best option that fits the blank. ________ is the basis for language learning and forms the foundation for overall language proficiency.",
+    "A": "Speaking",
+    "B": "Writing",
+    "C": "Listening",
+    "D": "Reading",
+    "Answer": "Listening"
+  },
+  {
+    "Question": "Choose the best option that fits the blank. Making connections, asking questions, inferring and predicting are strategies for __________ reading.",
+    "A": "reflective",
+    "B": "rapid",
+    "C": "social",
+    "D": "scientific",
+    "Answer": "reflective"
+  },
+  {
+    "Question": "Choose the best option that fits the blank. The _________ method involves translation between the target language and the mother tongue.",
+    "A": "Grammar Translation",
+    "B": "Direct",
+    "C": "Bilingual",
+    "D": "Structural",
+    "Answer": "Grammar Translation"
+  },
+  {
+    "Question": "Choose the best option that fits the blank. CLT may have a limitation that it requires ______ teachers.",
+    "A": "inexperienced",
+    "B": "skilled",
+    "C": "untrained",
+    "D": "passive and unqualified",
+    "Answer": "skilled"
+  },
+  {
+    "Question": "Choose the best option that fits the blank. The combination of speech sounds to form syllables or words is the first level of ______.",
+    "A": "syntax",
+    "B": "pragmatics",
+    "C": "semantics",
+    "D": "phonology",
+    "Answer": "phonology"
+  },
+  {
+    "Question": "Identify the aspect of English that relates to understanding word meanings and sentence relationships.",
+    "A": "Phonetic aspect",
+    "B": "Semantic aspect",
+    "C": "Graphic aspect",
+    "D": "Structural aspect.",
+    "Answer": "Semantic aspect"
+  }
 ]
