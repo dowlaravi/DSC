@@ -1,82 +1,246 @@
 [
   {
-    "Question": "He kept the (fast) for a week.",
-    "A": "noun",
-    "B": "prnoun",
-    "C": "verb",
-    "D": "adjective",
-    "Answer": "noun"
+    "Question": "Identify the grammatically correct sentence.",
+    "A": "A greater amount of people are visiting the stadium.",
+    "B": "A greater number of people is visiting the stadium.",
+    "C": "A greater amount of people is visiting the stadium.",
+    "D": "A greater number of people are visiting the stadium.",
+    "Answer": "A greater number of people are visiting the stadium."
   },
   {
-    "Question": "Do not speak so (loudly).",
-    "A": "noun",
-    "B": "adverb",
-    "C": "verb",
-    "D": "conjection",
-    "Answer": "adverb"
+    "Question": "Identify the correct verb form of the sentence: Celery or spring onion _________ fine.",
+    "A": "works",
+    "B": "working",
+    "C": "worked",
+    "D": "work",
+    "Answer": "works"
   },
   {
-    "Question": "(Most) people think so.",
-    "A": "adjective",
-    "B": "noun",
-    "C": "pronoun",
-    "D": "adverb",
-    "Answer": "adjective"
+    "Question": "Identify the term for someone who walks on ropes:",
+    "A": "Acrobat",
+    "B": "Juggler",
+    "C": "Funambulist",
+    "D": "Clown",
+    "Answer": "Funambulist"
   },
   {
-    "Question": "Please call me (early).",
-    "A": "noun",
-    "B": "pronoun",
-    "C": "adverb",
-    "D": "verb",
-    "Answer": "noun"
+    "Question": "Identify the modal verb that shows future possibility: “I _________ travel to Europe next year.”",
+    "A": "must",
+    "B": "might",
+    "C": "should",
+    "D": "will",
+    "Answer": "might"
   },
   {
-    "Question": "It is (long) since we met.",
-    "A": "adjective",
-    "B": "conjection",
-    "C": "pronoun",
-    "D": "noun",
-    "Answer": "noun"
+    "Question": "Identify the correct use of an apostrophe to show possession for a singular noun:",
+    "A": "The dog’s collar.",
+    "B": "The dogs’ collar.",
+    "C": "The dogses’ collar",
+    "D": "The dogs’s collar.",
+    "Answer": "The dog’s collar."
   },
   {
-    "Question": "He is (little) known here.",
-    "A": "adverb",
-    "B": "conjection",
-    "C": "adjective",
-    "D": "noun",
-    "Answer": "adverb"
+    "Question": "While writing a biographical sketch, you would most likely find the information about a person’s significant achievements in:",
+    "A": "personal life",
+    "B": "early life",
+    "C": "career and achievements",
+    "D": "conclusion",
+    "Answer": "career and achievements"
   },
   {
-    "Question": "(Much) cry and little wool.",
-    "A": "adjective",
-    "B": "pronoun",
-    "C": "adverb",
-    "D": "verb",
-    "Answer": "adjective"
+    "Question": "Identify the sentence in the present perfect tense:",
+    "A": "They are eating lunch.",
+    "B": "She has completed her homework.",
+    "C": "He will have arrived by now.",
+    "D": "I was reading a book.",
+    "Answer": "She has completed her homework."
   },
   {
-    "Question": "Still waters run (deep)",
-    "A": "pronoun",
-    "B": "adverb",
-    "C": "adjective",
-    "D": "verb",
-    "Answer": "adjective"
+    "Question": "Identify the negative form of the simple present tense:",
+    "A": "Subject + will not + verb",
+    "B": "Subject + was not + verb + ing",
+    "C": "Subject + does not / do not + verb",
+    "D": "Subject + had not + past participle",
+    "Answer": "Subject + does not / do not + verb"
   },
   {
-    "Question": "The (early) bird catches the worm.",
-    "A": "noun",
-    "B": "verb",
-    "C": "adverb",
-    "D": "adjective",
-    "Answer": "adjective"
+    "Question": "The following is an example of a declarative sentence:",
+    "A": "What a surprise!",
+    "B": "Do you know the answer?",
+    "C": "I have a meeting at 3PM.",
+    "D": "Please turn off the lights.",
+    "Answer": "I have a meeting at 3PM."
   },
   {
-    "Question": "It is (hard) to understand.",
-    "A": "adjective",
-    "B": "verb",
-    "C": "adverb",
-    "D": "conjection",
-    "Answer": "adjective"
+    "Question": "The tired cat slept on the mat. Choose the correct transformation for the simple sentence above into a complex sentence:",
+    "A": "The cat slept on the mat because it was tired.",
+    "B": "The cat slept on the mat, so it was comfortable.",
+    "C": "The cat slept on the mat, and it was warm.",
+    "D": "The cat slept on the mat but it was not tired.",
+    "Answer": "The cat slept on the mat because it was tired."
+  },
+  {
+    "Question": "Choose the type of clause that provides more information about a noun or pronoun in the main clause:",
+    "A": "Adverb clause",
+    "B": "Verbless clause",
+    "C": "Adjective clause",
+    "D": "Comparative clause",
+    "Answer": "Adjective clause"
+  },
+  {
+    "Question": "He is a talented musician; _______, he has won several awards. Choose the linker that fits the blank.",
+    "A": "in summary",
+    "B": "despite",
+    "C": "however",
+    "D": "hence",
+    "Answer": "however"
+  },
+  {
+    "Question": "Choose the correct sequence of the words in which they occur in a dictionary.",
+    "i": "storm",
+    "ii": "stoop",
+    "iii": "stock",
+    "iv": "stove",
+    "A": "ii, iv, iii, i",
+    "B": "iii, ii, i, iv",
+    "C": "i, iii, ii, iv",
+    "D": "iv, ii, i, iii",
+    "Answer": "i, iii, ii, iv"
+  },
+  {
+    "Question": "Choose the correct spelling of the word:",
+    "A": "risemblance",
+    "B": "resimblence",
+    "C": "resimblince",
+    "D": "resemblance",
+    "Answer": "resemblance"
+  },
+  {
+    "Question": "Choose the sentence where the definite article is used before a noun which, by reason of locality, can represent only one particular thing:",
+    "A": "The lion is fierce.",
+    "B": "The man on the donkey.",
+    "C": "Mary is in the garden.",
+    "D": "The goat was all skin and bones.",
+    "Answer": "The lion is fierce."
+  },
+  {
+    "Question": "They solved the problem _______ a new algorithm. Choose the correct preposition that fits the blank.",
+    "A": "in back of",
+    "B": "by means of",
+    "C": "for lack of",
+    "D": "in place of",
+    "Answer": "by means of"
+  },
+  {
+    "Question": "They fought to protect our country and sacrificed their lives so that we could lead our lives in peace. Choose the synonym that means ‘sacrificed’.",
+    "A": "grained",
+    "B": "saved",
+    "C": "surrendered",
+    "D": "conceded",
+    "Answer": "surrendered"
+  },
+  {
+    "Question": "At the age of two-and-a-half Einstein still wasn’t talking. When he finally did learn to speak, he uttered everything twice. Choose the antonym of the word ‘talking’.",
+    "A": "Communicating",
+    "B": "Conversing",
+    "C": "Chattering",
+    "D": "Silent",
+    "Answer": "Silent"
+  },
+  {
+    "Question": "Identify the correct transformation of indirect speech for: Rama said to Arjun, “Go away”.",
+    "A": "Rama said Arjun go away.",
+    "B": "Rama told Arjun in go away.",
+    "C": "Rama told to Arjun to go away.",
+    "D": "Rama ordered Arjun to go away.",
+    "Answer": "Rama ordered Arjun to go away."
+  },
+  {
+    "Question": "Choose the meaning of the phrasal verb “settle down”.",
+    "A": "to become restless.",
+    "B": "to become calm or stable.",
+    "C": "to initiate a conflict.",
+    "D": "to avoid making decisions",
+    "Answer": "to become calm or stable."
+  },
+  {
+    "Question": "Choose the sentence in which the use of ‘whom’ is correct:",
+    "A": "Whom did you say was coming to the party?",
+    "B": "To whom should I address the letter?",
+    "C": "Whom wants to join the team?",
+    "D": "Whom are those people over there?",
+    "Answer": "To whom should I address the letter?"
+  },
+  {
+    "Question": "Identify the sentence that uses an interjection correctly.",
+    "A": "Wow! I didn’t see that coming.",
+    "B": "Oh! You forgot to lock the door.",
+    "C": "Oops! You are right.",
+    "D": "Alas! I have finished my work.",
+    "Answer": "Wow! I didn’t see that coming."
+  },
+  {
+    "Question": "Read the following passage carefully. India is a spiritual haven with a rich tapestry of philosophies and practices. The ancient Vedas and Upanishads form the core of Hindu spirituality, while Buddhism and Jainism offer paths of enlightenment and non-violence. The teachings of Guru Nanak in Sikhism emphasize equality and devotion. India’s spiritual landscape is as diverse as its people, guiding millions in their quest for inner peace. The Vedas and Upanishads are central to ______ spirituality. Choose the option that fits the blank.",
+    "A": "Sikh",
+    "B": "Hindu",
+    "C": "Jain",
+    "D": "Buddhist",
+    "Answer": "Hindu"
+  },
+  {
+    "Question": "Read the following passage carefully. India is a spiritual haven with a rich tapestry of philosophies and practices. The ancient Vedas and Upanishads form the core of Hindu spirituality, while Buddhism and Jainism offer paths of enlightenment and non-violence. The teachings of Guru Nanak in Sikhism emphasize equality and devotion. India’s spiritual landscape is as diverse as its people, guiding millions in their quest for inner peace. Identify the philosophy associated with Guru Nanak:",
+    "A": "Buddhism",
+    "B": "Jainism",
+    "C": "Sikhism",
+    "D": "Hinduism",
+    "Answer": "Sikhism"
+  },
+  {
+    "Question": "Identify the main obstacle teachers face in teaching speaking.",
+    "A": "Open classroom system",
+    "B": "Lack of energy",
+    "C": "Class size",
+    "D": "Electronic microphones",
+    "Answer": "Class size"
+  },
+  {
+    "Question": "Choose the best option that fits the blank. __________ involves quick reading for important information.",
+    "A": "Scanning",
+    "B": "Intensive reading",
+    "C": "Skimming",
+    "D": "Proof reading",
+    "Answer": "Scanning"
+  },
+  {
+    "Question": "Choose the best option that fits the blank. The Grammar Translation method primarily emphasises __________ and writing over speaking and listening.",
+    "A": "reading",
+    "B": "vocabulary",
+    "C": "grammar",
+    "D": "spelling",
+    "Answer": "grammar"
+  },
+  {
+    "Question": "Identify a micro teaching skill developed by B.K. Passi:",
+    "A": "Content delivery",
+    "B": "Fluent Questioning techniques",
+    "C": "Time management",
+    "D": "Classroom decoration",
+    "Answer": "Time management"
+  },
+  {
+    "Question": "Identify the role of English as a library language.",
+    "A": "English is rarely used for scientific literature.",
+    "B": "English is crucial for accessing research and knowledge",
+    "C": "English is not necessary for library resources",
+    "D": "English literature lacks content and expression",
+    "Answer": "English is crucial for accessing research and knowledge"
+  },
+  {
+    "Question": "Choose the best option that fits the blank. Developing silent reading habits is important for the ability to _______ English.",
+    "A": "speak",
+    "B": "write",
+    "C": "translate",
+    "D": "understanding",
+    "Answer": "understanding"
   }
 ]
