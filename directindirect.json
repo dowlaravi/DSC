@@ -1,82 +1,246 @@
 [
- {
-  "Question": "She said that she was busy.",
-  "A": "She said, \"She is busy\".",
-  "B": " She said, \"You are busy\",",
-  "C": "She says, \"I am busy.\"",
-  "D": "She said, \"I am busy\".",
-  "Answer": "She said, \"I am busy\"."
- },
- {
-  "Question": "Madhavi said that the sun sets in the west.",
-  "A": " Madhavi says, \"The sun sets in the west\".",
-  "B": " Madhavi says, \"The sun set in the west\".",
-  "C": "Madhavi says, \"The sun was set in the west\".",
-  "D": "Madhavi said, \"The sun sets in the west.\"",
-  "Answer": "Madhavi said, \"The sun sets in the west.\""
- },
- {
-  "Question": "Ravi said that he would see me the next day.",
-  "A": "Ravi said, \"I saw you tomorrow\".\n",
-  "B": "Ravi said, \"I saw you yesterday\".\n",
-  "C": " Ravi said, \"you will see me tomorrow\".\n\n",
-  "D": "Ravi said, \"I will see you tomorrow\",",
-  "Answer": "Ravi said, \"I will see you tomorrow\","
- },
- {
-  "Question": " Latha said that she was working hard.",
-  "A": " Latha said, \"I worked hard\".",
-  "B": " Latha said, \"I am working hard\".",
-  "C": "Latha says, \"I am working hard\".",
-  "D": "Latha said, \"I was working hard\".",
-  "Answer": " Latha said, \"I worked hard\"."
- },
- {
-  "Question": "Latha said that I had written a novel.",
-  "A": " Latha said, \"I have written a novel\".",
-  "B": "Latha said, \"You have written a novel\".",
-  "C": " Latha said, \"He has written a novel.\"\n\n",
-  "D": "Latha said, \"She has written a novel.\"",
-  "Answer": "Latha said, \"You have written a novel\"."
- },
- {
-  "Question": "Pavani asked where I was living.",
-  "A": "Pavani said, \"Where do you live?\"\n",
-  "B": "Pavani said, \"Where did you live?\"",
-  "C": "Pavani said, \"Where are you living?\" ",
-  "D": "Pavani said, \"Where am I living?\"\n",
-  "Answer": "Pavani said, \"Where are you living?\" "
- },
- {
-  "Question": "Mohan asked if he taught English.",
-  "A": "Mohan said, \"Does he teach English?\"",
-  "B": " Mohan said, \"Am I teaching English?\"",
-  "C": "Mohan said, \"Does she teach English?\"",
-  "D": "Mohan said, \"Do you teach English?\"",
-  "Answer": "Mohan said, \"Does he teach English?\""
- },
- {
-  "Question": "Srinu asked who my father was.",
-  "A": "Srinu asked, \"Who my father was?\"",
-  "B": "Srinu asked, \"Who my father is?\"\n",
-  "C": "Srinu asked, \"Who is my father?\"",
-  "D": "Srinu asked, \"Who is your father?\"",
-  "Answer": "Srinu asked, \"Who is your father?\""
- },
- {
-  "Question": "Suresh asked which sweets I liked.",
-  "A": " Suresh said, \"Which sweets you like?\"\n\n",
-  "B": "uresh says, \"Which sweets do you like?\"",
-  "C": "Suresh says, \"Which sweets are you liked?\"",
-  "D": "Suresh says, \"Which sweets do I like?\"",
-  "Answer": "uresh says, \"Which sweets do you like?\""
- },
- {
-  "Question": "Mohini said that I was a good girl.",
-  "A": " Mohini said, \"She is a good girl\".",
-  "B": "Mohini said, \"I was a good girl\".",
-  "C": " Mohini said, \"You are a good girl\".",
-  "D": "Mohini said, \"I am a good girl\".\n\n",
-  "Answer": " Mohini said, \"You are a good girl\"."
- }
+  {
+    "Question": "Identify the grammatically correct sentence.",
+    "A": "Smith and me went to the mall.",
+    "B": "Smith and I went to the mall.",
+    "C": "Me and Smith went to the mall.",
+    "D": "I and Smith went to the mall.",
+    "Answer": "Smith and I went to the mall."
+  },
+  {
+    "Question": "Identify the correct verb form of the sentence: “Swetha _________ a pet dog.”",
+    "A": "have",
+    "B": "having",
+    "C": "has",
+    "D": "are",
+    "Answer": "has"
+  },
+  {
+    "Question": "Choose the term that refers to the study of election trends:",
+    "A": "Sociology",
+    "B": "Psephology",
+    "C": "Psychology",
+    "D": "Demography",
+    "Answer": "Psephology"
+  },
+  {
+    "Question": "The following sentence uses a modal verb to indicate capability: “She ________ speak three languages.”",
+    "A": "must",
+    "B": "should",
+    "C": "can",
+    "D": "would",
+    "Answer": "can"
+  },
+  {
+    "Question": "Choose the correctly capitalized part of an address:",
+    "A": "123 Main Street",
+    "B": "123 main street",
+    "C": "123 MAIN STREET",
+    "D": "123 main Street",
+    "Answer": "123 Main Street"
+  },
+  {
+    "Question": "Identify what the dialogue should reveal in addition to advancing the plot:",
+    "A": "detailed descriptions of the setting",
+    "B": "characters’ true feelings or subtext",
+    "C": "The author’s perspective on the story",
+    "D": "unnecessary background information",
+    "Answer": "characters’ true feelings or subtext"
+  },
+  {
+    "Question": "Choose the sentence in the simple future tense.",
+    "A": "She sings in the choir.",
+    "B": "They have been waiting for an hour.",
+    "C": "He will play soccer tomorrow.",
+    "D": "I was learning French.",
+    "Answer": "He will play soccer tomorrow."
+  },
+  {
+    "Question": "Identify the structure of the past perfect continuous tense:",
+    "A": "Subject + was + verb + ing",
+    "B": "Subject + had + been + verb + ing",
+    "C": "Subject + will + have + past participle",
+    "D": "Subject + has + been + verb + ing",
+    "Answer": "Subject + had + been + verb + ing"
+  },
+  {
+    "Question": "One of the following is NOT an interrogative sentence:",
+    "A": "Can you help me?",
+    "B": "She is a doctor.",
+    "C": "Where are you going?",
+    "D": "Is it raining?",
+    "Answer": "She is a doctor."
+  },
+  {
+    "Question": "If she studies hard, she will pass the exam. Choose the sentence that correctly transforms the complex sentence above into a compound sentence:",
+    "A": "She will pass the exam if she studies hard.",
+    "B": "She studies hard, but she may not pass the exam.",
+    "C": "She will pass the exam, and so she studies hard.",
+    "D": "She studies hard and therefore she will pass the exam.",
+    "Answer": "She will pass the exam if she studies hard."
+  },
+  {
+    "Question": "Select the example of a noun clause:",
+    "A": "I went to the store.",
+    "B": "She asked where I was going.",
+    "C": "He plays the piano.",
+    "D": "They won the game.",
+    "Answer": "She asked where I was going."
+  },
+  {
+    "Question": "The restaurant is known for its quality food. ________, the service is often slow. Choose the option that fits the blank.",
+    "A": "For instance",
+    "B": "Therefore",
+    "C": "Similarly",
+    "D": "Yet",
+    "Answer": "Yet"
+  },
+  {
+    "Question": "Choose the correct sequence of the words in which they occur in a dictionary.",
+    "i": "Picnic",
+    "ii": "Picture",
+    "iii": "Picaxe",
+    "iv": "Picket",
+    "A": "i, ii, iv, iii",
+    "B": "iii, i, ii, iv",
+    "C": "i, ii, iii, iv",
+    "D": "iii, iv, i, ii",
+    "Answer": "i, ii, iii, iv"
+  },
+  {
+    "Question": "Choose the correct spelling of the word.",
+    "A": "Customery",
+    "B": "Customary",
+    "C": "Custamary",
+    "D": "Custemery",
+    "Answer": "Customary"
+  },
+  {
+    "Question": "The following example correctly uses the definite article to point out a thing known or already referred to:",
+    "A": "One night a wolf fell in with a dog.",
+    "B": "The goat was all skin and bones.",
+    "C": "A lion is fierce",
+    "D": "A dog is faithful",
+    "Answer": "The goat was all skin and bones."
+  },
+  {
+    "Question": "___________ the traffic, I would have arrived earlier. Choose the correct preposition that fits the blank.",
+    "A": "But for",
+    "B": "In light of",
+    "C": "In process of",
+    "D": "Owing to",
+    "Answer": "But for"
+  },
+  {
+    "Question": "In terms of location and size, it is spread over 40 acres of land near the iconic India Gate. Choose the synonym that means ‘spread’.",
+    "A": "reduced",
+    "B": "extended",
+    "C": "dispersed",
+    "D": "gathered",
+    "Answer": "extended"
+  },
+  {
+    "Question": "A shrew, weak of eyesight, blunders about the rooms, much to the amusement of the children. Choose the antonym of the word ‘amusement’",
+    "A": "pleasure",
+    "B": "delight",
+    "C": "enjoyment",
+    "D": "boredom",
+    "Answer": "boredom"
+  },
+  {
+    "Question": "Choose the correct indirect speech for: He said to him, “Please wait here till I return.”",
+    "A": "He requested him to wait till he returns.",
+    "B": "He requested him to wait here till he returned.",
+    "C": "He requested him to wait there till he returned.",
+    "D": "He requested him to wait here till he returns.",
+    "Answer": "He requested him to wait here till he returned."
+  },
+  {
+    "Question": "Choose the meaning of the phrasal verb ‘turn down’.",
+    "A": "to increase the volume of intensity of something",
+    "B": "to fold or bend upward",
+    "C": "to accelerate or speed up",
+    "D": "to refuse or reject something, such as an offer or request",
+    "Answer": "to refuse or reject something, such as an offer or request"
+  },
+  {
+    "Question": "We have a bowl of sugar in our kitchen. Identify the sense and meaning of the underlined phrase",
+    "A": "It is sure that the bowl is empty.",
+    "B": "It is sure that the bowl is not used to measure sugar.",
+    "C": "a bowl with sugar in it.",
+    "D": "a bowl without sugar.",
+    "Answer": "a bowl with sugar in it."
+  },
+  {
+    "Question": "“________! I know you could do it.” Choose the interjection that shows agreement in the sentence above:",
+    "A": "Oops",
+    "B": "Aha",
+    "C": "Alas",
+    "D": "Ew",
+    "Answer": "Aha"
+  },
+  {
+    "Question": "Read the following passage carefully. Indian music and dance are as diverse as its culture. Classical dance forms such as Bharatanatyam and Kathak are known for their intricate footwork and expressive storytelling. Bollywood music, blending traditional and contemporary sounds, is enjoyed worldwide. Folk music and dance, like Bhangra and Garba, add to the lively tapestry of India’s artistic expression. Classical dance forms such as Bharatanatyam and Kathak are known for their _______.",
+    "A": "Simple movements",
+    "B": "intricate footwork",
+    "C": "modern choreography",
+    "D": "musical instruments",
+    "Answer": "intricate footwork"
+  },
+  {
+    "Question": "Read the following passage carefully. Indian music and dance are as diverse as its culture. Classical dance forms such as Bharatanatyam and Kathak are known for their intricate footwork and expressive storytelling. Bollywood music, blending traditional and contemporary sounds, is enjoyed worldwide. Folk music and dance, like Bhangra and Garba, add to the lively tapestry of India’s artistic expression. Identify the type of music that combines traditional and contemporary sounds:",
+    "A": "Bollywood music",
+    "B": "Classical music",
+    "C": "Folk music",
+    "D": "Jazz",
+    "Answer": "Bollywood music"
+  },
+  {
+    "Question": "Choose the best option that fits the blank. Language skills are divided into ________ and productive skills.",
+    "A": "expressive",
+    "B": "primary",
+    "C": "basic",
+    "D": "receptive",
+    "Answer": "receptive"
+  },
+  {
+    "Question": "Choose the best option that fits the blank: ________ is the first stage where students are prepared for the reading activity.",
+    "A": "Pre-reading",
+    "B": "Dictation",
+    "C": "Scaffolded reading",
+    "D": "Scanning",
+    "Answer": "Pre-reading"
+  },
+  {
+    "Question": "Identify the method that combines the aspects of the Direct Method and the Translation Method.",
+    "A": "Oral Approach",
+    "B": "Bilingual Method",
+    "C": "Dr. West’s Method",
+    "D": "Situational Approach",
+    "Answer": "Dr. West’s Method"
+  },
+  {
+    "Question": "Identify a key aspect of micro-teaching.",
+    "A": "Large class sizes",
+    "B": "Immediate feedback",
+    "C": "Focus on content rather than skills.",
+    "D": "Extended lesson plans",
+    "Answer": "Immediate feedback"
+  },
+  {
+    "Question": "Choose the correct description of the nature of the English language",
+    "A": "English is a homogeneous language.",
+    "B": "English is static and unchanging.",
+    "C": "English is dynamic and adopts vocabulary from various languages.",
+    "D": "English is used only in the UK and the US.",
+    "Answer": "English is dynamic and adopts vocabulary from various languages."
+  },
+  {
+    "Question": "Choose the best option that fits the blank. Competencies for understanding spoken English include understanding words / phrases / sentences in ________.",
+    "A": "isolation",
+    "B": "dictionaries",
+    "C": "textbooks",
+    "D": "context",
+    "Answer": "context"
+  }
 ]
