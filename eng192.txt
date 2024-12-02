@@ -178,5 +178,95 @@
     "D": "difficult",
     "Answer": "acquire",
     "Explanation": "In 'acquire', the letter 'c' is silent."
+  },
+  {
+    "Question": "In language learning, ‘11 to 18 months’ age is recognized as",
+    "A": "Babbling stage",
+    "B": "Single word stage",
+    "C": "Gurgling stage",
+    "D": "Lisping stage",
+    "Answer": "Single word stage",
+    "Explanation": "From 11 to 18 months, children typically start to use single words."
+  },
+  {
+    "Question": "Identify the false statement.",
+    "A": "Understanding the learning and growing child is the least priority of any teacher education programme.",
+    "B": "Teachers should undertake field based projects to understand the problems of children in teaching-learning situations.",
+    "C": "Teachers should listen to children with attention and empathy.",
+    "D": "Learning happens only when children are actively engaged in doing something.",
+    "Answer": "Understanding the learning and growing child is the least priority of any teacher education programme.",
+    "Explanation": "Understanding the learning and growing child is a key priority in teacher education programmes."
+  },
+  {
+    "Question": "The number of syllables in the word ‘comfortable’ is",
+    "A": "five",
+    "B": "four",
+    "C": "six",
+    "D": "three",
+    "Answer": "three",
+    "Explanation": "'Comfortable' has three syllables."
+  },
+  {
+    "Question": "One of the following is not a two-way listening process. Find it out.",
+    "A": "Taking part in conversations.",
+    "B": "Taking part in debates.",
+    "C": "Speaking on the telephone.",
+    "D": "Listening to plays on the radio.",
+    "Answer": "Listening to plays on the radio.",
+    "Explanation": "Listening to plays on the radio is a one-way listening process, as the listener is not interacting."
+  },
+  {
+    "Question": "According to Canale and Swain, Socio-linguistic competence refers to",
+    "A": "the interpretation of the individual message and text.",
+    "B": "the coping strategies that participants use to maintain communication.",
+    "C": "the understanding of the social context in which communication takes place.",
+    "D": "the grammatical competence.",
+    "Answer": "the understanding of the social context in which communication takes place.",
+    "Explanation": "Socio-linguistic competence involves understanding the social context of communication."
+  },
+  {
+    "Question": "Identify the example for content words.",
+    "A": "to",
+    "B": "was",
+    "C": "and",
+    "D": "listening",
+    "Answer": "listening",
+    "Explanation": "Content words are typically nouns, verbs, adjectives, and adverbs, and 'listening' is a verb."
+  },
+  {
+    "Question": "The full form of APeKX is",
+    "A": "Andhra Pradesh e-Knowledge Exercise",
+    "B": "Andhra Pradesh e-Knowledge Experience",
+    "C": "Andhra Pradesh e-Knowledge Exchange",
+    "D": "Andhra Pradesh e-Knowledge Experts",
+    "Answer": "Andhra Pradesh e-Knowledge Exchange",
+    "Explanation": "APeKX stands for Andhra Pradesh e-Knowledge Exchange."
+  },
+  {
+    "Question": "Identify the false statement.",
+    "A": "Planning helps divide the syllabus into workable chunks.",
+    "B": "Planning ensures that we pay attention to all the language skills.",
+    "C": "Planning leads to confusion among teachers and students.",
+    "D": "Planning helps the teacher to design the activities in advance.",
+    "Answer": "Planning leads to confusion among teachers and students.",
+    "Explanation": "Proper planning helps avoid confusion and helps organize teaching effectively."
+  },
+  {
+    "Question": "‘The pedagogy of comprehensible input’ is a concept of language acquisition suggested by",
+    "A": "Bentinck",
+    "B": "Gattengo",
+    "C": "Piaget",
+    "D": "Krashen",
+    "Answer": "Krashen",
+    "Explanation": "The pedagogy of comprehensible input is a theory by Stephen Krashen."
+  },
+  {
+    "Question": "A detailed plan that provides the basis for developing an entire test is called.",
+    "A": "blue print",
+    "B": "blue frame",
+    "C": "blue plan",
+    "D": "blue sketch",
+    "Answer": "blue print",
+    "Explanation": "A blueprint is a detailed plan used for creating a test."
   }
 ]
