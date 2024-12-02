@@ -1,0 +1,182 @@
+[
+  {
+    "Question": "Choose the novel written by Daniel Defoe.",
+    "A": "Tom Jones",
+    "B": "Robinson Crusoe",
+    "C": "Clarissa",
+    "D": "The Pilgrim’s Progress",
+    "Answer": "Robinson Crusoe",
+    "Explanation": "Daniel Defoe is the author of 'Robinson Crusoe'."
+  },
+  {
+    "Question": "The play ‘Rehearsal’ was written by:",
+    "A": "M.A. Comley",
+    "B": "Mel Sherratt",
+    "C": "George Villiers",
+    "D": "Faith Martin",
+    "Answer": "George Villiers",
+    "Explanation": "'Rehearsal' was written by George Villiers."
+  },
+  {
+    "Question": "Choose the ode written by Pablo Neruda.",
+    "A": "Ode on Indolence",
+    "B": "Oxford Cheese Ode",
+    "C": "Ode to a Loved One",
+    "D": "Ode to Salt",
+    "Answer": "Ode to Salt",
+    "Explanation": "Pablo Neruda wrote the famous 'Ode to Salt'."
+  },
+  {
+    "Question": "The essay ‘Reflections on Gandhi’ was written by:",
+    "A": "George Orwell",
+    "B": "Susan B. Anthony",
+    "C": "R.W. Emerson",
+    "D": "Rabindranath Tagore",
+    "Answer": "George Orwell",
+    "Explanation": "'Reflections on Gandhi' was written by George Orwell."
+  },
+  {
+    "Question": "In a story, if the narrator uses ‘he’ or ‘she’ and he is an outside observer, the story is:",
+    "A": "a direct narrative",
+    "B": "a straight narrative",
+    "C": "a third person narrative",
+    "D": "a first person narrative",
+    "Answer": "a third person narrative",
+    "Explanation": "A third-person narrative is when the narrator uses 'he' or 'she'."
+  },
+  {
+    "Question": "In a personal letter, the language used should be:",
+    "A": "simple and direct",
+    "B": "complex and strange",
+    "C": "strange and hard",
+    "D": "hard and complex",
+    "Answer": "simple and direct",
+    "Explanation": "Personal letters are usually written in simple and direct language."
+  },
+  {
+    "Question": "Choose the correct article that fits the blank. I sometimes go to ……………. school of my son to review his progress.",
+    "A": "a",
+    "B": "an",
+    "C": "the",
+    "D": "No article is needed.",
+    "Answer": "the",
+    "Explanation": "The definite article 'the' is used for specific things known to both the speaker and listener."
+  },
+  {
+    "Question": "I was ……… eye witness to ………. accident on …….. main road. Choose the correct list of articles that fits the three blanks respectively.",
+    "A": "a, the, the",
+    "B": "a, an, the",
+    "C": "the, a, the",
+    "D": "an, the, the",
+    "Answer": "a, an, the",
+    "Explanation": "'a' for eye witness, 'an' for accident, 'the' for specific main road."
+  },
+  {
+    "Question": "Roja has made no progress ……… her studies. Choose the correct preposition that fits the blank.",
+    "A": "of",
+    "B": "for",
+    "C": "by",
+    "D": "in",
+    "Answer": "in",
+    "Explanation": "The correct preposition is 'in' when referring to progress in studies."
+  },
+  {
+    "Question": "Choose the correct sentence regarding the use of prepositions.",
+    "A": "He was vexed from his failure.",
+    "B": "He was vexed by his failure.",
+    "C": "He was vexed with his failure.",
+    "D": "He was vexed at his failure.",
+    "Answer": "He was vexed by his failure.",
+    "Explanation": "'By' is used with vexed when referring to something causing the vexation."
+  },
+  {
+    "Question": "None but the brave deserves this reward. Choose the part of speech of the word, ‘but’.",
+    "A": "a conjunction",
+    "B": "an adverb",
+    "C": "a pronoun",
+    "D": "a preposition",
+    "Answer": "a conjunction",
+    "Explanation": "'But' is a conjunction connecting clauses."
+  },
+  {
+    "Question": "Choose the list of words with all nouns.",
+    "A": "director, approach, permission, place",
+    "B": "busy, room, lock, coffee",
+    "C": "exhibition, happy, respect, dear",
+    "D": "chamber, request, permission, happily",
+    "Answer": "director, approach, permission, place",
+    "Explanation": "All of these words are nouns."
+  },
+  {
+    "Question": "He confessed his crime. Choose the correct complex sentence of the above sentence.",
+    "A": "He is a criminal is confessed by her.",
+    "B": "He admitted to be a criminal.",
+    "C": "He confessed that he had committed the crime.",
+    "D": "He did not accept the crime.",
+    "Answer": "He confessed that he had committed the crime.",
+    "Explanation": "A complex sentence includes a main clause and a subordinate clause."
+  },
+  {
+    "Question": "Choose the imperative sentence among the following.",
+    "A": "Do you like coffee?",
+    "B": "Do what I have said.",
+    "C": "I know what is your name.",
+    "D": "Singing songs is my hobby.",
+    "Answer": "Do what I have said.",
+    "Explanation": "An imperative sentence gives a command or request."
+  },
+  {
+    "Question": "They are going to Kashmir next summer. This sentence expresses:",
+    "A": "an action which is in progress",
+    "B": "an action that will happen tomorrow.",
+    "C": "an action that will never happen.",
+    "D": "an action that will happen in the future.",
+    "Answer": "an action that will happen in the future.",
+    "Explanation": "The future tense is used for actions that will happen."
+  },
+  {
+    "Question": "I ………….. (leave) Bihar before the earthquake ……….. (occur). Choose the correct forms of verbs that fit the blanks respectively.",
+    "A": "will have left; occurred",
+    "B": "had left; occurred",
+    "C": "would leave; will occur",
+    "D": "was leaving; occurred",
+    "Answer": "had left; occurred",
+    "Explanation": "The past perfect tense 'had left' is used for an action completed before another event in the past."
+  },
+  {
+    "Question": "He ………. a horse before. Choose the correct tense form that fits the blank.",
+    "A": "had never ride",
+    "B": "has never ridden",
+    "C": "will have never ridden",
+    "D": "was never riding.",
+    "Answer": "has never ridden",
+    "Explanation": "The present perfect tense 'has never ridden' is used to indicate past experience."
+  },
+  {
+    "Question": "Choose the word with ‘stress’ on the second syllable.",
+    "A": "faith",
+    "B": "affordable",
+    "C": "human",
+    "D": "school",
+    "Answer": "affordable",
+    "Explanation": "The word 'affordable' has stress on the second syllable."
+  },
+  {
+    "Question": "Choose the word that has the sound /ɪ/. ",
+    "A": "hire",
+    "B": "hen",
+    "C": "heal",
+    "D": "him",
+    "Answer": "hen",
+    "Explanation": "'Hen' has the /ɪ/ sound, as in the short 'e' sound."
+  },
+  {
+    "Question": "Choose the word in which the letter ‘c’ is silent.",
+    "A": "became",
+    "B": "acquire",
+    "C": "peace",
+    "D": "difficult",
+    "Answer": "acquire",
+    "Explanation": "In 'acquire', the letter 'c' is silent."
+  }
+]
