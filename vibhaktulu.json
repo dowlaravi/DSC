@@ -443,3 +443,299 @@
     "OptionD": "లోన -లోన",
     "Answer": "భ - వ"
   },
+  {
+    "Question": "వచన కవితలో ఉండేది?",
+    "OptionA": "గమన వైవిధ్యం",
+    "OptionB": "కఠిన నిబంధనలు",
+    "OptionC": "రచయితకు స్వేచ్ఛ లేకపోవడం",
+    "OptionD": "గత కాలానికి సంబంధించిన వాహనంగా ఉంటుంది",
+    "Answer": "గమన వైవిధ్యం"
+  },
+  {
+    "Question": "భాష మానవుని ఒక సహజాతం అని చెప్పేవాదం?",
+    "OptionA": "స్వభావవాదం",
+    "OptionB": "భగవద్దత్తవాదం",
+    "OptionC": "క్రమపరిణామ వికాసవాదం",
+    "OptionD": "స్వతస్సిద్ధవాదం",
+    "Answer": "స్వభావవాదం"
+  },
+  {
+    "Question": "ప్రాథమిక స్థాయి వాచకాల భాషలో పాటించదగినవి?",
+    "OptionA": "విసంధిరూపాలు",
+    "OptionB": "దీర్ఘసమాసాలు",
+    "OptionC": "గ్రాంథిక భాషారూపాలు",
+    "OptionD": "శాసన భాషారూపాలు",
+    "Answer": "విసంధిరూపాలు"
+  },
+  {
+    "Question": "లిఖిత మాధ్యమానికి చెందిన భాషాకౌశలాలు?",
+    "OptionA": "శ్రవణం, భాషణం",
+    "OptionB": "పఠనం, లేఖనం",
+    "OptionC": "శ్రవణం, పఠనం",
+    "OptionD": "భాషణం, లేఖనం",
+    "Answer": "పఠనం, లేఖనం"
+  },
+  {
+    "Question": "ఒక తరగతిలోని విద్యార్థి అదే తరగతిలోని విద్యార్థులకు బోధించడాన్ని ఇలా అంటాము.",
+    "OptionA": "స్వీయ అభ్యసనం",
+    "OptionB": "అనుబంధ అభ్యసనం",
+    "OptionC": "సమవయస్కుల బోధన",
+    "OptionD": "తరగతి నాయకుని బోధన",
+    "Answer": "సమవయస్కుల బోధన"
+  },
+  {
+    "Question": "తన బోధన ఎటువంటి ఫలితాలనిచ్చిందో తానే మూల్యాంకనం చేసుకోవడానికి ఛాత్రోపాధ్యాయునికి తోడ్పడేది.",
+    "OptionA": "పాఠ్యపథకం",
+    "OptionB": "స్వీయమూల్యాంకనం",
+    "OptionC": "తోటి ఛాత్రుల మూల్యాంకనం",
+    "OptionD": "పర్యవేక్షకుని మూల్యాంకనం",
+    "Answer": "స్వీయమూల్యాంకనం"
+  },
+  {
+    "Question": "విద్యార్థులకు అత్యంత ఆకర్షణీయంగా ఉండే దృశ్య ఉపకరణం?",
+    "OptionA": "మెరుపు అట్టలు",
+    "OptionB": "నమూనాలు",
+    "OptionC": "పప్పెట్రీ",
+    "OptionD": "మూకీచిత్రం",
+    "Answer": "పప్పెట్రీ"
+  },
+  {
+    "Question": "'మాపనం' లక్షణాల్లో ఒకటి?",
+    "OptionA": "పరిమాణాత్మకం",
+    "OptionB": "గుణాత్మకం",
+    "OptionC": "సంశయాత్మకం",
+    "OptionD": "జ్ఞానాత్మకం",
+    "Answer": "పరిమాణాత్మకం"
+  },
+  {
+    "Question": "ధ్వని ఉచ్చారణలో 'గ' అనే అక్షరం?",
+    "OptionA": "అల్పప్రాణము, శ్వాసము, కంఠ్యము",
+    "OptionB": "అల్పప్రాణము, నాదము, కంఠ్యము",
+    "OptionC": "అల్పప్రాణము, నాదము, అనునాశికము",
+    "OptionD": "మహాప్రాణము, శ్వాసము, కంఠ్యము",
+    "Answer": "అల్పప్రాణము, నాదము, కంఠ్యము"
+  },
+  {
+    "Question": "The novelist who belongs to the 19th century is:",
+    "OptionA": "John Bunyan",
+    "OptionB": "Samuel Richardson",
+    "OptionC": "Benjamin Disraeli",
+    "OptionD": "Henry Fielding",
+    "Answer": "Benjamin Disraeli"
+  },
+  {
+    "Question": "The English drama 'Coriolanus' was written by:",
+    "OptionA": "William Shakespeare",
+    "OptionB": "Samuel Beckett",
+    "OptionC": "Tom Stoppard",
+    "OptionD": "Ben Jonson",
+    "Answer": "William Shakespeare"
+  },
+  {
+    "Question": "'The Scholar Gipsy' was :",
+    "OptionA": "a novel written by Henry Fielding",
+    "OptionB": "a drama written by Oscar Wilde",
+    "OptionC": "a poem written by Matthew Arnold",
+    "OptionD": "a short story written by R.K. Narayan",
+    "Answer": "a poem written by Matthew Arnold"
+  },
+  {
+    "Question": "'The Souls of Black Folk' was a collection of:",
+    "OptionA": "14 poems",
+    "OptionB": "14 essays",
+    "OptionC": "4 novels",
+    "OptionD": "12 short stories",
+    "Answer": "14 essays"
+  },
+  {
+    "Question": "నేను దీనికి భూదానయజ్ఞం అని పేరు పెట్టాను” ఈ వాక్యానికి కర్మణి వాక్యం?",
+    "OptionA": "నేను దీనికి భూదానయజ్ఞమని పేరు పెట్టబడింది.",
+    "OptionB": "నేను దీనికి భూదానయజ్ఞం అని పేరుపెట్టాను.",
+    "OptionC": "నాచే దీనికి భూదాన యజ్ఞం అని పేరు పెట్టబడింది.",
+    "OptionD": "తాను దీనికి భూదానయజ్ఞం అనే పేరు పెట్టబడింది.",
+    "Answer": "నాచే దీనికి భూదాన యజ్ఞం అని పేరు పెట్టబడింది."
+  },
+  {
+    "Question": "కోలాటంలో పాటకు అనుగుణంగా నృత్యం చేయడాన్ని ఇలా అంటారు.",
+    "OptionA": "పొంగి",
+    "OptionB": "కోల",
+    "OptionC": "వంత",
+    "OptionD": "కోపు",
+    "Answer": "వంత"
+  },
+  {
+    "Question": "“తృష్ణ” పర్యాయపదాలు గుర్తించండి.",
+    "OptionA": "దాహం, క్షుధ",
+    "OptionB": "వాంఛ, ఈప్సితం",
+    "OptionC": "పాంచాలి, ద్రౌపది",
+    "OptionD": "వెన్నెల, చంద్రిక",
+    "Answer": "వాంఛ, ఈప్సితం"
+  },
+  {
+    "Question": "‘అనుకూలంగా లేని పరిస్థితిని' గురించి చెప్పేటప్పుడు ఈ జాతీయాన్ని ఉపయోగిస్తారు",
+    "OptionA": "చుక్కెదురు",
+    "OptionB": "చెక్కుచెదరకుండా",
+    "OptionC": "చెయ్యి తిరిగిన",
+    "OptionD": "చావుదెబ్బతీయు",
+    "Answer": "చుక్కెదురు"
+  },
+  {
+    "Question": "కింది వాటిలో పరుష సరళాక్షరాలు లేని పదము",
+    "OptionA": "కవిత్వము",
+    "OptionB": "జలజము",
+    "OptionC": "యమున",
+    "OptionD": "చలనము",
+    "Answer": "జలజము"
+  },
+  {
+    "Question": "కింది వాటిలో విద్యాలక్ష్యాల లక్షణం కానిది",
+    "OptionA": "పూర్వ నిర్ణీతాలు",
+    "OptionB": "విద్యార్థుల ప్రవర్తనా రూపంలో చెప్పబడతాయి",
+    "OptionC": "సామూహికంగా వర్ణించబడవు",
+    "OptionD": "కొలువదగని ప్రవర్తనా పరివర్తనలు",
+    "Answer": "సామూహికంగా వర్ణించబడవు"
+  },
+  {
+    "Question": "In diary writing; one should",
+    "OptionA": "not be factual",
+    "OptionB": "be brutally honest and express all feelings, thoughts and opinions",
+    "OptionC": "record events that bring only happy memories",
+    "OptionD": "record events that bring only sad memories",
+    "Answer": "be brutally honest and express all feelings, thoughts and opinions"
+  },
+  {
+    "Question": "The general mood, feeling or spirit of a story is called:",
+    "OptionA": "flashback",
+    "OptionB": "irony",
+    "OptionC": "foreshadowing",
+    "OptionD": "atmosphere",
+    "Answer": "atmosphere"
+  },
+  {
+    "Question": "The intellectual context that you establish for your topic and thesis in an essay is called:",
+    "OptionA": "motive",
+    "OptionB": "evidence",
+    "OptionC": "analysis",
+    "OptionD": "resolution",
+    "Answer": "motive"
+  },
+  {
+    "Question": "The sounds produced with both lips are:",
+    "OptionA": "labio-dental",
+    "OptionB": "bilabial",
+    "OptionC": "alveolar",
+    "OptionD": "palate-alveolar",
+    "Answer": "bilabial"
+  },
+  {
+    "Question": "'The degree of force with which sound or syllable of a word is uttered' is called:",
+    "OptionA": "intonation",
+    "OptionB": "stress",
+    "OptionC": "rhythm",
+    "OptionD": "pause",
+    "Answer": "stress"
+  },
+  {
+    "Question": "Choose the phonetic sound of the underlined letters in 'between'.",
+    "OptionA": "/i/",
+    "OptionB": "/i:/",
+    "OptionC": "/e/",
+    "OptionD": "/u:/",
+    "Answer": "/i:/"
+  },
+  {
+    "Question": "This is the man who works hard. The underlined word 'who' is:",
+    "OptionA": "a relative adjective",
+    "OptionB": "an adjective",
+    "OptionC": "an interrogative pronoun",
+    "OptionD": "a relative pronoun",
+    "Answer": "a relative pronoun"
+  },
+  {
+    "Question": "Choose the adjective that indicates 'quantity'.",
+    "OptionA": "much",
+    "OptionB": "funny",
+    "OptionC": "honest",
+    "OptionD": "difficult",
+    "Answer": "much"
+  },
+  {
+    "Question": "Choose the grammatically correct sentence.",
+    "OptionA": "Duty is God.",
+    "OptionB": "The duty is the God.",
+    "OptionC": "The duty is a God.",
+    "OptionD": "The duty is God.",
+    "Answer": "Duty is God."
+  },
+  {
+    "Question": "Choose the grammatically correct sentence",
+    "OptionA": "I go to the church on the Sundays.",
+    "OptionB": "I go to the church on a Sundays.",
+    "OptionC": "I go to the church on an Sunday.",
+    "OptionD": "I go to church on Sundays.",
+    "Answer": "I go to church on Sundays."
+  },
+  {
+    "Question": "He was gazing ______ the spectacles. Choose the correct preposition.",
+    "OptionA": "to",
+    "OptionB": "at",
+    "OptionC": "of",
+    "OptionD": "in",
+    "Answer": "at"
+  },
+  {
+    "Question": "Choose the grammatically correct sentence.",
+    "OptionA": "I have left for Guntur.",
+    "OptionB": "Hard work is the key by success.",
+    "OptionC": "I am proud with you.",
+    "OptionD": "She is grateful with me.",
+    "Answer": "I have left for Guntur."
+  },
+  {
+    "Question": "Translation of reference books was earlier recommended by:",
+    "OptionA": "RTE - 2009",
+    "OptionB": "POA - 1992",
+    "OptionC": "SCF - 2011",
+    "OptionD": "NPE - 1968",
+    "Answer": "NPE - 1968"
+  },
+  {
+    "Question": "The following envisages free and compulsory education for all the children in the age group of six and fourteen years as a Fundamental Right.",
+    "OptionA": "The 68th Constitution Amendment Act -2002",
+    "OptionB": "CABE - 1920",
+    "OptionC": "NCF - 2005",
+    "OptionD": "SCF - 2011",
+    "Answer": "The 68th Constitution Amendment Act -2002"
+  },
+  {
+    "Question": "Banishment of mother tongue is seen:",
+    "OptionA": "in C.C.E",
+    "OptionB": "in bilingual method",
+    "OptionC": "in direct method",
+    "OptionD": "in regional method",
+    "Answer": "in direct method"
+  },
+  {
+    "Question": "Forming speech habits is the hallmark of:",
+    "OptionA": "G.T. method",
+    "OptionB": "TPR",
+    "OptionC": "direct approach",
+    "OptionD": "structural approach",
+    "Answer": "structural approach"
+  },
+  {
+    "Question": "The purpose of using visual aids in teaching is:",
+    "OptionA": "to attract the attention of the students",
+    "OptionB": "to provide relief to the teachers",
+    "OptionC": "to provide enjoyment",
+    "OptionD": "to provide entertainment",
+    "Answer": "to attract the attention of the students"
+  },
+  {
+    "Question": "Choose the authentic material from the following.",
+    "OptionA": "Main Reader",
+    "OptionB": "Supplementary Reader",
+    "OptionC": "Workbook",
+    "OptionD": "An advertisement in a newspaper",
+    "Answer": "An advertisement in a newspaper"
+  },
