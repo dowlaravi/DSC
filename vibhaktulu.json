@@ -739,3 +739,179 @@
     "OptionD": "An advertisement in a newspaper",
     "Answer": "An advertisement in a newspaper"
   },
+  {
+      "Question": "Choose the perfect progression in reading:",
+      "OptionA": "Symbol sound sense",
+      "OptionB": "Sound symbol shape",
+      "OptionC": "Sense shape symbol",
+      "OptionD": "Sound shape sense",
+      "Answer": "Symbol sound sense"
+    },
+    {
+      "Question": "Listening to the directions of somebody to reach a place comes under:",
+      "OptionA": "dry listening",
+      "OptionB": "extensive listening",
+      "OptionC": "intensive listening",
+      "OptionD": "casual listening",
+      "Answer": "intensive listening"
+    },
+    {
+      "Question": "Suggestopedia is related to:",
+      "OptionA": "pseudoscience",
+      "OptionB": "structural approach",
+      "OptionC": "direct method",
+      "OptionD": "grammar learning",
+      "Answer": "pseudoscience"
+    },
+    {
+      "Question": "Total physical response believes in:",
+      "OptionA": "Learning by watching the television.",
+      "OptionB": "learning through reading",
+      "OptionC": "learning through lectures",
+      "OptionD": "learning by doing",
+      "Answer": "learning by doing"
+    },
+    {
+      "Question": "ఒక గ్రామ జనాభా 18750. ఆ గ్రామ జనాభా పెరుగుదల రేటు సంవత్సరమునకు 8% గా గుర్తించబడినది. అయిన రెండు సంవత్సరముల తరువాత ఆ గ్రామ జనాభా ఎంత ?",
+      "OptionA": "21870",
+      "OptionB": "22050",
+      "OptionC": "21800",
+      "OptionD": "22410",
+      "Answer": "22050"
+    },
+    {
+      "Question": "రెండు ధన సంఖ్యల బేధము 24. ఒక దానిని రెండవ దానితో భాగించగా వచ్చే భాగఫలము 1.5 అయిన వానిలో పెద్ద సంఖ్య ......",
+      "OptionA": "48",
+      "OptionB": "72",
+      "OptionC": "80",
+      "OptionD": "88",
+      "Answer": "80"
+    },
+    {
+      "Question": "ఒక జీపు 4 గంటల్లో 80 కి.మీ. ప్రయాణిస్తుంది. అదే వేగంతో ఎన్ని గంటల్లో ఆ జీపు 210 కి.మీ. దూరాన్ని పూర్తి చేయగలదు?",
+      "OptionA": "10 1/2 గంటలు",
+      "OptionB": "10 గంటలు",
+      "OptionC": "10 2/3 గంటలు",
+      "OptionD": "21 గంటలు",
+      "Answer": "10 1/2 గంటలు"
+    },
+    {
+      "Question": "‘A’ ఒక గడియారమును 12% లాభమునకు 'B'కు అమ్మెను. ‘B’ దానిని 5% నష్టమునకు ‘C'కు అమ్మెను. 'C' ఆ గడియారమునకు రూ. 2660/- చెల్లించిన ‘A’ ఆ గడియారమును ఎంతకు అమ్మెను (రూపాయలలో)",
+      "OptionA": "2400",
+      "OptionB": "1250",
+      "OptionC": "2600",
+      "OptionD": "2500",
+      "Answer": "2400"
+    },
+    {
+      "Question": "మూడు రకాల నూనెలు 42 లీటర్లు, 28 లీటర్లు, 70 లీటర్లున్నాయి. ఈ మూడింటిని కచ్చితంగా కొలవడానికి కావలసిన కొలత పాత్ర యొక్క గరిష్ఠ ఘనపరిమాణం (లీటర్లలో)",
+      "OptionA": "28",
+      "OptionB": "42",
+      "OptionC": "70",
+      "OptionD": "14",
+      "Answer": "14"
+    },
+  {
+    "Question": "If the number 97215 * 6 is completely divisible by 11, then the smallest whole number in place of * will be",
+    "OptionA": "3",
+    "OptionB": "2",
+    "OptionC": "1",
+    "OptionD": "5",
+    "Answer": "3"
+  },
+  {
+    "Question": "Mr. A 1 సెకనులో 12 మీటర్లు దూరం నడువగలడు. అయిన 12 నిమిషాలలో అతను నడిచే దూరం .....",
+    "OptionA": "1000 మీటర్లు",
+    "OptionB": "20 మీటర్లు",
+    "OptionC": "240 మీటర్లు",
+    "OptionD": "1200 మీటర్లు",
+    "Answer": "1200 మీటర్లు"
+  },
+  {
+    "Question": "10 మీ. పొడవు, 8 మీ.ల వెడల్పు గల స్థలములో 5 మొక్కల పాదులు తీయబడినాయి. మొక్కల పాదులన్నీ 2 మీ. భుజం గల చతురస్రాలైన మిగిలిన ప్రదేశం యొక్క వైశాల్యమును కనుగొనుము.",
+    "OptionA": "40 చ.మీ.",
+    "OptionB": "15 చ.మీ.",
+    "OptionC": "60 చ.మీ.",
+    "OptionD": "70 చ.మీ.",
+    "Answer": "60 చ.మీ."
+  },
+  {
+    "Question": "ఒక త్రిభుజం యొక్క భూమి, ఎత్తులు 4 : 5 నిష్పత్తిలో కలవు. త్రిభుజం యొక్క వైశాల్యం 640 సెం.మీ². అయిన దాని ఎత్తు సెం.మీ.లలో",
+    "OptionA": "40",
+    "OptionB": "32",
+    "OptionC": "16",
+    "OptionD": "8",
+    "Answer": "40"
+  },
+  {
+    "Question": "80 మీ. పొడవు, 40 మీ. వెడల్పు గల ఒక ప్లాటు చుట్టూ 3 మీ. వెడల్పు గల బాట నిర్మించారు. అయిన ఆ బాట వైశాల్యం చ.మీ.లలో",
+    "OptionA": "776",
+    "OptionB": "876",
+    "OptionC": "5676",
+    "OptionD": "4800",
+    "Answer": "876"
+  },
+  {
+    "Question": "30 సెం.మీ. పొడవు, 15 సెం.మీ. వెడల్పు మరియు 8 సెం.మీ. ఎత్తు కొలతలుగాగల దీర్ఘఘన ఘనపరిమాణము, (ఘ. సెం.మీ.) ప్రతిభుజము 16 సెం.మీ.గా గల సమఘనము ఘనపరిమాణములలో తేడా",
+    "OptionA": "1096",
+    "OptionB": "500",
+    "OptionC": "696",
+    "OptionD": "496",
+    "Answer": "696"
+  },
+  {
+    "Question": "√(x-1)(y+2) = 9 మరియు x, y లు ధన పూర్ణాంకములు అయిన x మరియు y విలువలు",
+    "OptionA": "10, 7",
+    "OptionB": "15, 12",
+    "OptionC": "12, 11",
+    "OptionD": "10, 8",
+    "Answer": "10, 8"
+  },
+  {
+    "Question": "√24 + √216 = √96 =",
+    "OptionA": "2√6",
+    "OptionB": "2",
+    "OptionC": "6√2",
+    "OptionD": "√6",
+    "Answer": "6√2"
+  },
+  {
+    "Question": "x/7 - x/8 = 20 అయిన x =",
+    "OptionA": "560",
+    "OptionB": "112",
+    "OptionC": "1120",
+    "OptionD": "1100",
+    "Answer": "1120"
+  },
+  {
+    "Question": "Factors of 9 (x + y)² – 16 (x - y)²",
+    "OptionA": "(7x + y) (7y – x)",
+    "OptionB": "(7x + y) y",
+    "OptionC": "(7x - y) (x + 7y)",
+    "OptionD": "(7x - y) (7y – x)",
+    "Answer": "(7x - y) (7y – x)"
+  },
+  {
+    "Question": "మొదటి 10 ప్రధాన సంఖ్యల సగటును కనుక్కోండి.",
+    "OptionA": "12.9",
+    "OptionB": "12",
+    "OptionC": "13",
+    "OptionD": "15",
+    "Answer": "12.9"
+  },
+  {
+    "Question": "10, 12, 14, x − 3, x, x + 2, 25 మధ్యగతము 19 అయిన x విలువ ...",
+    "OptionA": "19",
+    "OptionB": "22",
+    "OptionC": "21",
+    "OptionD": "20",
+    "Answer": "22"
+  },
+  {
+    "Question": "ఒక త్రిభుజంలోని కోణాల నిష్పత్తి 1 : 3 : 5 అయిన ఆ కోణాలలో పెద్ద కోణము",
+    "OptionA": "110°",
+    "OptionB": "80°",
+    "OptionC": "120°",
+    "OptionD": "100°",
+    "Answer": "120°"
+  },
