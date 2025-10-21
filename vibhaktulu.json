@@ -927,15 +927,15 @@
     "Explaination": "రసాయనిక మార్పులో (Chemical change) కొత్త పదార్థం ఏర్పడుతుంది. గుడ్డు ఉడకబెట్టినప్పుడు, దానిలోని ప్రోటీన్లు రసాయనికంగా మార్పు చెంది తిరిగి యథాస్థితికి తీసుకురాలేని కొత్త రూపాన్ని పొందుతాయి."
   },
   {
-    "Question": "పట్టుపురుగు జీవిత చరిత్రలోని దశల యొక్క సరైన వరుసక్రమాన్ని గుర్తించండి.",
-    "A": "Larva \rightarrow egg \rightarrow pupa \rightarrow silkmoth",
-    "B": "Silkmoth \rightarrow egg \rightarrow pupa \rightarrow larva",
-    "C": "Pupa \rightarrow larva \rightarrow silkmoth \rightarrow egg",
-    "D": "Silkmoth \rightarrow egg \rightarrow larva \rightarrow pupa",
-    "Answer": "Silkmoth \rightarrow egg \rightarrow larva \rightarrow pupa",
-    "Explaination": "పట్టుపురుగు జీవిత చక్రం సరైన క్రమం: **ప్రౌఢజీవి (Silkmoth) $\rightarrow$ గుడ్డు (Egg) $\rightarrow$ లార్వా (Larva) $\rightarrow$ ప్యూపా (Pupa)**."
-  },
-  {
+  "Question": "పట్టుపురుగు జీవిత చరిత్రలోని దశల యొక్క సరైన వరుసక్రమాన్ని గుర్తించండి.",
+  "A": "లార్వా → గుడ్డు → ప్యూపా → ప్రౌఢజీవి",
+  "B": "ప్రౌఢజీవి → గుడ్డు → ప్యూపా → లార్వా",
+  "C": "ప్యూపా → లార్వా → ప్రౌఢజీవి → గుడ్డు",
+  "D": "ప్రౌఢజీవి → గుడ్డు → లార్వా → ప్యూపా",
+  "Answer": "ప్రౌఢజీవి → గుడ్డు → లార్వా → ప్యూపా",
+  "Explaination": "పట్టుపురుగు జీవిత చక్రం సరైన క్రమం: **ప్రౌఢజీవి (Silkmoth) → గుడ్డు (Egg) → లార్వా (Larva) → ప్యూపా (Pupa)**."
+},
+ {
     "Question": "కింది వానిలో పూతికాహారిని గుర్తించండి.",
     "A": "లైకెన్",
     "B": "పుట్టగొడుగులు",
