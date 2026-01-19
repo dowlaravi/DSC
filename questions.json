@@ -1,0 +1,17 @@
+{
+  "gk": [
+    { "q": "India capital?", "options": ["Delhi","Mumbai","Chennai","Kolkata"], "answer": 0 }
+  ],
+  "pie": [],
+  "cdp": [],
+  "tel": [],
+  "eng": [],
+  "math": [],
+  "sci": [],
+  "soc": [],
+  "tmet": [],
+  "emet": [],
+  "mmet": [],
+  "smet": [],
+  "som": []
+}
