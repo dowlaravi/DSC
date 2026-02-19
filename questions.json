@@ -411,722 +411,762 @@
 ],
 "tel": [
   {
-    "q": "క్రింది పద్యం చదివి 41 - 42 ప్రశ్నలకు జవాబులు గుర్తించండి: 'సిరి తా వచ్చిన వచ్చును సరళముగా నారికేళ సలిలము భంగిన్...' - ఈ పద్యం ప్రకారం సంపద ఏ విధంగా వస్తుంది?",
-    "options": [
-      "కొబ్బరి బోండాంలోని నీరు లాగా",
-      "నదిలోని నీరు లాగా",
-      "వర్షం లాగా",
-      "సముద్రపు అలల లాగా"
-    ],
-    "answer": 0
+    "category": "Telugu Content",
+    "questions": [
+      {
+        "q": "ప్రకటన (A): 'వ్యాకరణం' అనే పదాన్ని విడదీస్తే వి + ఆ + కరణం అని వస్తుంది.\nకారణం (R): ఇది యణాదేశ సంధికి ఒక ఉదాహరణ.",
+        "options": [
+          "(A) మరియు (R) రెండూ నిజం, (R) అనేది (A)కి సరైన వివరణ",
+          "(A) మరియు (R) రెండూ నిజం, కానీ (R) అనేది (A)కి సరైన వివరణ కాదు",
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) తప్పు కానీ (R) నిజం"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "కింది కవులను వారి బిరుదులతో జతపరచండి:\n1. నన్నయ      - a. కవిబ్రహ్మ\n2. తిక్కన      - b. శబ్దశాసనుడు\n3. ఎర్రన       - c. ప్రబంధ పరమేశ్వరుడు",
+        "options": [
+          "1-b, 2-a, 3-c",
+          "1-a, 2-b, 3-c",
+          "1-c, 2-a, 3-b",
+          "1-b, 2-c, 3-a"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "ప్రకటన (A): 'రాముడు అడవికి వెళ్ళాడు' - ఇది ఒక కర్తరి వాక్యం.\nకారణం (R): ఈ వాక్యంలో కర్తకు ప్రాధాన్యత ఇవ్వబడింది మరియు ప్రథమా విభక్తి ఉంది.",
+        "options": [
+          "(A) మరియు (R) రెండూ నిజం, (R) అనేది (A)కి సరైన వివరణ",
+          "(A) మరియు (R) రెండూ నిజం, కానీ (R) అనేది (A)కి సరైన వివరణ కాదు",
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) తప్పు కానీ (R) నిజం"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "కింది సమాసాలను వాటి ఉదాహరణలతో జతపరచండి:\n1. ద్వంద్వ సమాసం       - a. ముల్లోకాలు\n2. ద్విగు సమాసం        - b. తల్లిదండ్రులు\n3. రూపక సమాసం         - c. విద్యాధనం",
+        "options": [
+          "1-b, 2-a, 3-c",
+          "1-a, 2-b, 3-c",
+          "1-c, 2-a, 3-b",
+          "1-b, 2-c, 3-a"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "ప్రకటన (A): 'ఉత్పలమాల' పద్యంలో ప్రతి పాదంలోనూ 'భ-ర-న-భ-భ-ర-వ' అనే గణాలు ఉంటాయి.\nకారణం (R): ఈ పద్య పాదంలో 20 అక్షరాలు ఉంటాయి మరియు యతి స్థానం 10వ అక్షరం.",
+        "options": [
+          "(A) మరియు (R) రెండూ నిజం, (R) అనేది (A)కి సరైన వివరణ",
+          "(A) మరియు (R) రెండూ నిజం, కానీ (R) అనేది (A)కి సరైన వివరణ కాదు",
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) తప్పు కానీ (R) నిజం"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "కింది అర్థాలను వాటి పదాలతో జతపరచండి:\n1. అంబరం       - a. మేఘం\n2. పయోధరం     - b. ఆకాశం\n3. కుముదం      - c. తెల్ల తామర",
+        "options": [
+          "1-b, 2-a, 3-c",
+          "1-a, 2-b, 3-c",
+          "1-c, 2-a, 3-b",
+          "1-b, 2-c, 3-a"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "'అనఘుడు' అనే పదానికి వ్యుత్పత్యర్థం ఏమిటి?",
+        "options": [
+          "పాపములు లేనివాడు",
+          "పుణ్యాత్ముడు",
+          "దయామయుడు",
+          "సత్యం పలికేవాడు"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "ప్రకటన (A): 'చక్కని చుక్క' అనేది ఒక ఉపమా అలంకారం.\nకారణం (R): ఇందులో ఒక వస్తువును మరొక వస్తువుతో పోల్చడం జరిగింది.",
+        "options": [
+          "(A) తప్పు కానీ (R) నిజం",
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) మరియు (R) రెండూ నిజం",
+          "(A) మరియు (R) రెండూ తప్పు"
+        ],
+        "answer": 3
+      }
+    ]
   },
   {
-    "q": "పైన పేర్కొన్న పద్యంలో 'నారికేళము' అనగా అర్థం ఏమిటి?",
-    "options": [
-      "మామిడి",
-      "పనస",
-      "కొబ్బరి",
-      "అరటి"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "క్రింది పేరాను చదివి 43 - 44 ప్రశ్నలకు జవాబులు గుర్తించండి: 'తెలుగు భాషా వైభవం ప్రాచీనమైనది. అల్లసాని పెద్దనను ఆంధ్ర కవితా పితామహుడు అని పిలుస్తారు...' - ఆంధ్ర కవితా పితామహుడు ఎవరు?",
-    "options": [
-      "నన్నయ",
-      "తిక్కన",
-      "అల్లసాని పెద్దన",
-      "శ్రీనాథుడు"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "పై పేరా దేని గురించి వివరిస్తుంది?",
-    "options": [
-      "తెలుగు సాహిత్యం",
-      "తెలుగు వ్యాకరణం",
-      "తెలుగు పద్యాలు",
-      "తెలుగు జానపదాలు"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "పవనసుతుడు అనగా ఎవరు?",
-    "options": [
-      "వినాయకుడు",
-      "హనుమంతుడు",
-      "కుమారస్వామి",
-      "శ్రీరాముడు"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "‘మహాప్రస్థానం’ కావ్యం ఎవరి రచన?",
-    "options": [
-      "విశ్వనాథ సత్యనారాయణ",
-      "శ్రీశ్రీ",
-      "గురజాడ అప్పారావు",
-      "రాయప్రోలు సుబ్బారావు"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "‘రామయ్య పొలం దున్నాడు’ - ఇది ఏ వాక్యం?",
-    "options": [
-      "కర్తరి వాక్యం",
-      "కర్మణి వాక్యం",
-      "ప్రశ్నార్థక వాక్యం",
-      "ఆశ్చర్యార్థక వాక్యం"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "‘చింతాకు’ - పదాన్ని విడదీయగా వచ్చే రూపం?",
-    "options": [
-      "చింత + ఆకు",
-      "చిం + తాకు",
-      "చింతా + కు",
-      "చింతి + ఆకు"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "క్రింది వాటిలో ‘సూర్యుడు’ పదానికి పర్యాయపదం కానిది ఏది?",
-    "options": [
-      "భానుడు",
-      "రవి",
-      "చంద్రుడు",
-      "దినకరుడు"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "‘నిప్పులు కురియు’ అనునది ఒక?",
-    "options": [
-      "సామెత",
-      "జాతీయం",
-      "పొడుపుకథ",
-      "సూక్తి"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "శ్రీకృష్ణదేవరాయల ఆస్థాన కవులను ఏమని పిలుస్తారు?",
-    "options": [
-      "నవరత్నాలు",
-      "అష్టదిగ్గజాలు",
-      "కవిత్రయం",
-      "పండితత్రయం"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "భాషకు ప్రాణం వంటిది ఏది?",
-    "options": [
-      "లిపి",
-      "వ్యాకరణం",
-      "పదం",
-      "వాక్యం"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "బోధనా పద్ధతులలో ‘క్రీడా పద్ధతి’ని ప్రతిపాదించినది ఎవరు?",
-    "options": [
-      "ఫ్రోబెల్",
-      "మాంటిస్సోరి",
-      "జాన్ డ్యూయీ",
-      "రూసో"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "ప్రాథమిక స్థాయిలో భాషా బోధన దేనితో ప్రారంభం కావాలి?",
-    "options": [
-      "వ్యాకరణం",
-      "సంభాషణ",
-      "అక్షరాలు",
-      "పద్యాలు"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "విద్యార్థులలో ‘సృజనాత్మకత’ను పెంపొందించడానికి ఉత్తమమైన కృత్యం ఏది?",
-    "options": [
-      "బట్టీ పట్టడం",
-      "కథలు రాయడం",
-      "డిక్టేషన్ రాయడం",
-      "కాపీ రైటింగ్"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "మూల్యాంకనం వల్ల ఎవరికి ప్రయోజనం ఉంటుంది?",
-    "options": [
-      "విద్యార్థికి",
-      "ఉపాధ్యాయునికి",
-      "తల్లిదండ్రులకు",
-      "పై వారందరికీ"
-    ],
-    "answer": 3
+    "category": "Telugu Methodology",
+    "questions": [
+      {
+        "q": "ప్రకటన (A): భాషా బోధనలో 'క్రీడా పద్ధతి' ప్రాథమిక స్థాయి పిల్లలకు అత్యంత అనువైనది.\nకారణం (R): దీనివల్ల పిల్లల్లో ఒత్తిడి తగ్గి, సహజ సిద్ధంగా అభ్యసనం జరుగుతుంది.",
+        "options": [
+          "(A) మరియు (R) రెండూ నిజం, (R) అనేది (A)కి సరైన వివరణ",
+          "(A) మరియు (R) రెండూ నిజం, కానీ (R) అనేది (A)కి సరైన వివరణ కాదు",
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) తప్పు కానీ (R) నిజం"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "కింది బోధనా పద్ధతులను వాటి రూపకర్తలతో జతపరచండి:\n1. కిండర్ గార్టెన్ పద్ధతి   - a. మరియా మాంటిస్సోరి\n2. మాంటిస్సోరి పద్ధతి      - b. ఫ్రోబెల్\n3. డాల్టన్ పద్ధతి         - c. హెలెన్ పార్క్ హర్స్ట్",
+        "options": [
+          "1-b, 2-a, 3-c",
+          "1-a, 2-b, 3-c",
+          "1-c, 2-a, 3-b",
+          "1-b, 2-c, 3-a"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "భాషా నైపుణ్యాల (LSRW) సరైన క్రమాన్ని గుర్తించండి:",
+        "options": [
+          "శ్రవణం, భాషణం, పఠనం, లేఖనం",
+          "భాషణం, శ్రవణం, లేఖనం, పఠనం",
+          "లేఖనం, పఠనం, శ్రవణం, భాషణం",
+          "శ్రవణం, పఠనం, లేఖనం, భాషణం"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "ప్రకటన (A): తెలుగు బోధనలో 'పద్య బోధన' యొక్క ప్రధాన ఉద్దేశ్యం రసాస్వాదన.\nకారణం (R): పద్యంలోని ఛందస్సు మరియు అలంకారాలను విద్యార్థి కేవలం పరీక్షల కోసమే నేర్చుకుంటాడు.",
+        "options": [
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) మరియు (R) రెండూ నిజం",
+          "(A) తప్పు కానీ (R) నిజం",
+          "(A) మరియు (R) రెండూ తప్పు"
+        ],
+        "answer": 0
+      }
+    ]
   }
 ],
  "eng": [
   {
-    "q": "Choose the correct preposition: 'The cat is sitting ____ the table.'",
-    "options": ["under", "between", "at", "into"],
-    "answer": 0
+    "category": "English Content",
+    "questions": [
+      {
+        "q": "Assertion (A): The sentence 'If it rains, the match will be cancelled' is a First Conditional sentence.\nReason (R): It expresses a real and possible future situation based on a condition.",
+        "options": ["Both (A) and (R) are true and (R) is the correct explanation of (A)", "Both (A) and (R) are true but (R) is not the correct explanation of (A)", "(A) is true but (R) is false", "(A) is false but (R) is true"],
+        "answer": 0
+      },
+      {
+        "q": "Match the following Figures of Speech with their examples:\n1. Metaphor - a. The wind whispered through the trees\n2. Simile - b. He is a lion in the battle\n3. Personification - c. Life is like a dream",
+        "options": ["1-b, 2-c, 3-a", "1-a, 2-b, 3-c", "1-c, 2-a, 3-b", "1-b, 2-a, 3-c"],
+        "answer": 0
+      },
+      {
+        "q": "Assertion (A): 'The' is called a Definite Article.\nReason (R): It is used when we refer to a specific person or thing already mentioned or known.",
+        "options": ["Both (A) and (R) are true and (R) is the correct explanation of (A)", "Both (A) and (R) are true but (R) is not the correct explanation of (A)", "(A) is true but (R) is false", "(A) is false but (R) is true"],
+        "answer": 0
+      },
+      {
+        "q": "Match the following Phrasal Verbs with their meanings:\n1. Look after - a. To cancel\n2. Put off - b. To take care of\n3. Call off - c. To postpone",
+        "options": ["1-b, 2-c, 3-a", "1-a, 2-b, 3-c", "1-c, 2-a, 3-b", "1-b, 2-a, 3-c"],
+        "answer": 0
+      },
+      {
+        "q": "Identify the correctly punctuated sentence:",
+        "options": ["He said, \"I am going to Guntur.\"", "He said \"I am going to Guntur.\"", "He said, I am going to Guntur.", "He said: \"I am going to Guntur\""],
+        "answer": 0
+      },
+      {
+        "q": "Assertion (A): In the sentence 'He works hard', the word 'hard' is an Adverb.\nReason (R): It modifies the verb 'works' by describing how he works.",
+        "options": ["Both (A) and (R) are true and (R) is the correct explanation of (A)", "Both (A) and (R) are true but (R) is not the correct explanation of (A)", "(A) is true but (R) is false", "(A) is false but (R) is true"],
+        "answer": 0
+      },
+      {
+        "q": "Match the following Tenses with their structures:\n1. Present Perfect - a. had + V3\n2. Past Perfect - b. have/has + V3\n3. Future Continuous - c. will be + V-ing",
+        "options": ["1-b, 2-a, 3-c", "1-a, 2-b, 3-c", "1-c, 2-a, 3-b", "1-b, 2-c, 3-a"],
+        "answer": 0
+      },
+      {
+        "q": "Choose the correct Passive Voice for: 'Someone has stolen my pen.'",
+        "options": ["My pen has been stolen.", "My pen was stolen.", "My pen had been stolen.", "My pen is stolen."],
+        "answer": 0
+      },
+      {
+        "q": "Assertion (A): The word 'Psychology' starts with a silent letter.\nReason (R): In English, the letter 'P' is not pronounced when it comes before 's' at the beginning of some words.",
+        "options": ["Both (A) and (R) are true and (R) is the correct explanation of (A)", "Both (A) and (R) are true but (R) is not the correct explanation of (A)", "(A) is true but (R) is false", "(A) is false but (R) is true"],
+        "answer": 0
+      },
+      {
+        "q": "Match the Antonyms:\n1. Optimist - a. Modern\n2. Ancient - b. Pessimist\n3. Arrogant - c. Humble",
+        "options": ["1-b, 2-a, 3-c", "1-a, 2-b, 3-c", "1-c, 2-a, 3-b", "1-b, 2-c, 3-a"],
+        "answer": 0
+      },
+      {
+        "q": "Identify the Complex Sentence among the following:",
+        "options": ["Although it was raining, we went out.", "It was raining and we went out.", "We went out in the rain.", "It rained but we went out."],
+        "answer": 0
+      },
+      {
+        "q": "Choose the correct Indirect Speech for: She said, 'I am very busy now.'",
+        "options": ["She said that she was very busy then.", "She said that I am very busy now.", "She said that she is very busy then.", "She said she was very busy now."],
+        "answer": 0
+      },
+      {
+        "q": "Assertion (A): 'Linguistics' is a singular noun.\nReason (R): Some nouns ending in 's' like Mathematics and News take a singular verb.",
+        "options": ["Both (A) and (R) are true and (R) is the correct explanation of (A)", "Both (A) and (R) are true but (R) is not the correct explanation of (A)", "(A) is true but (R) is false", "(A) is false but (R) is true"],
+        "answer": 0
+      },
+      {
+        "q": "Match the Collective Nouns:\n1. A pride of - a. Sheep\n2. A flock of - b. Wolves\n3. A pack of - c. Lions",
+        "options": ["1-c, 2-a, 3-b", "1-a, 2-b, 3-c", "1-b, 2-a, 3-c", "1-c, 2-b, 3-a"],
+        "answer": 0
+      },
+      {
+        "q": "Choose the correct Question Tag: 'He hardly ever goes there, ____?'",
+        "options": ["does he?", "doesn't he?", "is he?", "isn't he?"],
+        "answer": 0
+      },
+      {
+        "q": "Identify the word with a different vowel sound in the underlined part:",
+        "options": ["B<u>oo</u>k", "F<u>oo</u>d", "M<u>oo</u>n", "S<u>oo</u>n"],
+        "answer": 0
+      }
+    ]
   },
   {
-    "q": "Identify the 'Part of Speech' for the word in capitals: 'She is a BEAUTIFUL girl.'",
-    "options": ["Noun", "Verb", "Adjective", "Adverb"],
-    "answer": 2
-  },
-  {
-    "q": "Choose the correct article: 'I saw ____ elephant in the zoo.'",
-    "options": ["a", "an", "the", "No article"],
-    "answer": 1
-  },
-  {
-    "q": "Choose the synonym of 'HAPPY':",
-    "options": ["Sad", "Joyful", "Angry", "Weak"],
-    "answer": 1
-  },
-  {
-    "q": "Choose the antonym of 'BRIGHT':",
-    "options": ["Shining", "Dark", "Light", "Clear"],
-    "answer": 1
-  },
-  {
-    "q": "Choose the correct 'Question Tag': 'He can swim, ____?'",
-    "options": ["can he", "can't he", "does he", "doesn't he"],
-    "answer": 1
-  },
-  {
-    "q": "Identify the correctly spelt word:",
-    "options": ["Received", "Recieved", "Recived", "Receved"],
-    "answer": 0
-  },
-  {
-    "q": "Choose the correct plural form of 'CHILD':",
-    "options": ["Childs", "Children", "Childrens", "Childes"],
-    "answer": 1
-  },
-  {
-    "q": "Identify the silent letter in 'HONEST':",
-    "options": ["H", "O", "N", "S"],
-    "answer": 0
-  },
-  {
-    "q": "Choose the correct passive voice: 'Rama killed Ravana.'",
-    "options": ["Ravana killed Rama.", "Ravana was killed by Rama.", "Ravana is killed by Rama.", "Ravana has been killed by Rama."],
-    "answer": 1
-  },
-  {
-    "q": "Choose the correct relative pronoun: 'This is the book ____ I bought.'",
-    "options": ["who", "whom", "whose", "which"],
-    "answer": 3
-  },
-  {
-    "q": "Choose the correct meaning of the idiom: 'To cry wolf'",
-    "options": ["To be very brave", "To give a false alarm", "To work hard", "To be very happy"],
-    "answer": 1
-  },
-  {
-    "q": "Identify the type of sentence: 'Where are you going?'",
-    "options": ["Assertive", "Imperative", "Interrogative", "Exclamatory"],
-    "answer": 2
-  },
-  {
-    "q": "Choose the correct verb form: 'He ____ to school every day.'",
-    "options": ["go", "goes", "going", "gone"],
-    "answer": 1
-  },
-  {
-    "q": "Pick the odd man out based on vowel sound:",
-    "options": ["Bat", "Cat", "Rat", "Car"],
-    "answer": 3
-  },
-  {
-    "q": "Choose the correct tense: 'They have been playing since morning.'",
-    "options": ["Present Perfect", "Present Perfect Continuous", "Past Perfect", "Simple Present"],
-    "answer": 1
-  },
-  {
-    "q": "Which of the following is a 'Receptive Skill'?",
-    "options": ["Speaking", "Writing", "Listening", "Teaching"],
-    "answer": 2
-  },
-  {
-    "q": "The main objective of 'Extensive Reading' is:",
-    "options": ["To find specific dates", "For pleasure and general understanding", "To improve handwriting", "To learn grammar rules"],
-    "answer": 1
-  },
-  {
-    "q": "Which method is also known as the 'Classical Method'?",
-    "options": ["Direct Method", "Grammar Translation Method", "Bilingual Method", "Structural Approach"],
-    "answer": 1
-  },
-  {
-    "q": "In English language, there are ____ speech sounds.",
-    "options": ["26", "44", "20", "24"],
-    "answer": 1
-  },
-  {
-    "q": "What are the 'Productive Skills' in language learning?",
-    "options": ["Listening and Reading", "Speaking and Writing", "Reading and Speaking", "Writing and Listening"],
-    "answer": 1
-  },
-  {
-    "q": "The bilingual method of teaching English was developed by:",
-    "options": ["C.J. Dodson", "Michael West", "Harold Palmer", "F.G. French"],
-    "answer": 0
-  },
-  {
-    "q": "A test that measures what a student has learned during a course is called:",
-    "options": ["Diagnostic test", "Achievement test", "Prognostic test", "Aptitude test"],
-    "answer": 1
-  },
-  {
-    "q": "Continuous and Comprehensive Evaluation (CCE) evaluates:",
-    "options": ["Only marks", "Only behavior", "Both scholastic and co-scholastic aspects", "Only handwriting"],
-    "answer": 2
+    "category": "English Methodology",
+    "questions": [
+      {
+        "q": "Assertion (A): The 'Direct Method' is also known as the 'Natural Method'.\nReason (R): It follows the natural way of learning a mother tongue without using translation.",
+        "options": ["Both (A) and (R) are true and (R) is the correct explanation of (A)", "Both (A) and (R) are true but (R) is not the correct explanation of (A)", "(A) is true but (R) is false", "(A) is false but (R) is true"],
+        "answer": 0
+      },
+      {
+        "q": "Match the following Methods with their founders:\n1. Bilingual Method - a. Dr. Michael West\n2. New Method - b. C.J. Dodson\n3. Suggestopedia - c. Georgi Lozanov",
+        "options": ["1-b, 2-a, 3-c", "1-a, 2-b, 3-c", "1-c, 2-a, 3-b", "1-b, 2-c, 3-a"],
+        "answer": 0
+      },
+      {
+        "q": "Assertion (A): Reading and Listening are called 'Receptive Skills'.\nReason (R): In these skills, the learner receives and processes information rather than producing it.",
+        "options": ["Both (A) and (R) are true and (R) is the correct explanation of (A)", "Both (A) and (R) are true but (R) is not the correct explanation of (A)", "(A) is true but (R) is false", "(A) is false but (R) is true"],
+        "answer": 0
+      },
+      {
+        "q": "Match the Language Skills with their nature:\n1. Speaking - a. Graphic-Productive\n2. Writing - b. Oral-Productive\n3. Reading - c. Written-Receptive",
+        "options": ["1-b, 2-a, 3-c", "1-a, 2-b, 3-c", "1-c, 2-a, 3-b", "1-b, 2-c, 3-a"],
+        "answer": 0
+      },
+      {
+        "q": "What is the primary goal of the 'Grammar Translation Method'?",
+        "options": ["To enable students to read literature in the target language", "To improve oral communication skills", "To develop listening comprehension", "To teach language through games"],
+        "answer": 0
+      },
+      {
+        "q": "Assertion (A): 'Continuous and Comprehensive Evaluation' (CCE) helps in identifying the learning gaps of students.\nReason (R): It focuses only on the marks obtained in the final examination.",
+        "options": ["(A) is true but (R) is false", "Both (A) and (R) are true", "(A) is false but (R) is true", "Both (A) and (R) are false"],
+        "answer": 0
+      },
+      {
+        "q": "Match the Teaching Aids with their types:\n1. OHP - a. Audio Aid\n2. Radio - b. Visual Aid\n3. Television - c. Audio-Visual Aid",
+        "options": ["1-b, 2-a, 3-c", "1-a, 2-b, 3-c", "1-c, 2-a, 3-b", "1-b, 2-c, 3-a"],
+        "answer": 0
+      },
+      {
+        "q": "The concept of 'Zone of Proximal Development' (ZPD) was introduced by:",
+        "options": ["Lev Vygotsky", "Jean Piaget", "Noam Chomsky", "B.F. Skinner"],
+        "answer": 0
+      }
+    ]
   }
 ],
  "math":[
   {
-    "q": "అతిచిన్న ప్రధాన సంఖ్య మరియు అతిచిన్న సంయుక్త సంఖ్యల క.సా.గు (LCM) ఎంత?",
-    "options": ["2", "4", "8", "6"],
-    "answer": 1
+    "category": "Mathematics Content",
+    "questions": [
+      {
+        "q": "ప్రకటన (A): రెండు వరుస ప్రధాన సంఖ్యల గరిష్ట సామాన్య విభాజకం (HCF) ఎల్లప్పుడూ 1 అవుతుంది.\nకారణం (R): ప్రధాన సంఖ్యలకు 1 మరియు అదే సంఖ్య తప్ప వేరే కారణాంకాలు ఉండవు.",
+        "options": [
+          "(A) మరియు (R) రెండూ నిజం, (R) అనేది (A)కి సరైన వివరణ",
+          "(A) మరియు (R) రెండూ నిజం, కానీ (R) అనేది (A)కి సరైన వివరణ కాదు",
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) తప్పు కానీ (R) నిజం"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "కింది జ్యామితీయ ఆకారాలను వాటి వైశాల్య సూత్రాలతో జతపరచండి:\n1. త్రిభుజం      - a. πr²\n2. వృత్తం        - b. ½ bh\n3. సమాంతర చతుర్భుజం - c. bh",
+        "options": [
+          "1-b, 2-a, 3-c",
+          "1-a, 2-b, 3-c",
+          "1-c, 2-a, 3-b",
+          "1-b, 2-c, 3-a"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "ప్రకటన (A): ప్రతి చతురస్రం ఒక దీర్ఘచతురస్రం అవుతుంది.\nకారణం (R): దీర్ఘచతురస్రం యొక్క అన్ని ధర్మాలు (ఎదుటి భుజాలు సమానం, ప్రతి కోణం 90°) చతురస్రానికి వర్తిస్తాయి.",
+        "options": [
+          "(A) మరియు (R) రెండూ నిజం, (R) అనేది (A)కి సరైన వివరణ",
+          "(A) మరియు (R) రెండూ నిజం, కానీ (R) అనేది (A)కి సరైన వివరణ కాదు",
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) తప్పు కానీ (R) నిజం"
+        ],
+        "answer": 0
+      },
+      
+      {
+        "q": "కింది సంఖ్యలను వాటి రకాలతో జతపరచండి:\n1. √2          - a. అంతమయ్యే దశాంశం\n2. 0.5         - b. అకరణీయ సంఖ్య (p/q రూపం)\n3. 2/3         - c. కరణి (Irrational)",
+        "options": [
+          "1-c, 2-a, 3-b",
+          "1-a, 2-b, 3-c",
+          "1-b, 2-a, 3-c",
+          "1-c, 2-b, 3-a"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "ప్రకటన (A): ఒక త్రిభుజంలో రెండు భుజాల పొడవుల మొత్తం మూడవ భుజం కంటే తక్కువగా ఉంటుంది.\nకారణం (R): త్రిభుజం ఏర్పడాలంటే భుజాల మధ్య నిశ్చితమైన నిష్పత్తి ఉండాలి.",
+        "options": [
+          "(A) మరియు (R) రెండూ తప్పు",
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) తప్పు కానీ (R) నిజం",
+          "(A) మరియు (R) రెండూ నిజం"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "కింది బీజీయ సర్వసమీకరణాలను జతపరచండి:\n1. (a+b)²      - a. a² - b²\n2. (a-b)²      - b. a² + 2ab + b²\n3. (a+b)(a-b)  - c. a² - 2ab + b²",
+        "options": [
+          "1-b, 2-c, 3-a",
+          "1-a, 2-b, 3-c",
+          "1-c, 2-a, 3-b",
+          "1-b, 2-a, 3-c"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "ఒక రాంబస్ వైశాల్యం 60 చ.సెం.మీ మరియు ఒక కర్ణం 10 సెం.మీ అయితే రెండో కర్ణం పొడవు ఎంత?",
+        "options": ["12 సెం.మీ", "6 సెం.మీ", "24 సెం.మీ", "10 సెం.మీ"],
+        "answer": 0
+      },
+      {
+        "q": "ప్రకటన (A): sin²θ + cos²θ = 1 అనేది ఒక త్రికోణమితి సర్వసమీకరణం.\nకారణం (R): θ యొక్క అన్ని విలువలకు ఈ సమీకరణం నిజం అవుతుంది.",
+        "options": [
+          "(A) మరియు (R) రెండూ నిజం, (R) అనేది (A)కి సరైన వివరణ",
+          "(A) మరియు (R) రెండూ నిజం, కానీ (R) అనేది (A)కి సరైన వివరణ కాదు",
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) తప్పు కానీ (R) నిజం"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "కింది వడ్డీ లెక్కల సూత్రాలను జతపరచండి:\n1. సాధారణ వడ్డీ (I) - a. P(1 + R/100)^n\n2. మొత్తం (A)         - b. PTR / 100\n3. చక్రవడ్డీ మొత్తం    - c. P + I",
+        "options": [
+          "1-b, 2-c, 3-a",
+          "1-a, 2-b, 3-c",
+          "1-c, 2-a, 3-b",
+          "1-b, 2-a, 3-c"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "ఒక వృత్త పరిధి 44 సెం.మీ అయితే దాని వ్యాసార్థం ఎంత? (π = 22/7)",
+        "options": ["7 సెం.మీ", "14 సెం.మీ", "3.5 సెం.మీ", "21 సెం.మీ"],
+        "answer": 0
+      },
+      {
+        "q": "ప్రకటన (A): 2 అనేది ఏకైక సరి ప్రధాన సంఖ్య.\nకారణం (R): 2 కు 1 మరియు 2 తప్ప వేరే కారణాంకాలు లేవు.",
+        "options": [
+          "(A) మరియు (R) రెండూ నిజం, (R) అనేది (A)కి సరైన వివరణ",
+          "(A) మరియు (R) రెండూ నిజం, కానీ (R) అనేది (A)కి సరైన వివరణ కాదు",
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) తప్పు కానీ (R) నిజం"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "కింది కోణాల రకాలను జతపరచండి:\n1. అల్పకోణం    - a. 90°\n2. లంబకోణం    - b. < 90°\n3. అధికకోణం   - c. > 90° మరియు < 180°",
+        "options": [
+          "1-b, 2-a, 3-c",
+          "1-a, 2-b, 3-c",
+          "1-c, 2-a, 3-b",
+          "1-b, 2-c, 3-a"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "x² - 5x + 6 = 0 సమీకరణం యొక్క మూలాలు (Roots) ఏమిటి?",
+        "options": ["(2, 3)", "(1, 6)", "(-2, -3)", "(5, 6)"],
+        "answer": 0
+      },
+      {
+        "q": "ప్రకటన (A): ఒక సంఖ్య 9 తో భాగింపబడితే, అది ఖచ్చితంగా 3 తో కూడా భాగింపబడుతుంది.\nకారణం (R): 3 అనేది 9 యొక్క ఒక కారణాంకం.",
+        "options": [
+          "(A) మరియు (R) రెండూ నిజం, (R) అనేది (A)కి సరైన వివరణ",
+          "(A) మరియు (R) రెండూ నిజం, కానీ (R) అనేది (A)కి సరైన వివరణ కాదు",
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) తప్పు కానీ (R) నిజం"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "కింది ఘనరూపాలను వాటి ఉపరితల వైశాల్యాలతో జతపరచండి:\n1. ఘనం (Cube)        - a. 2πrh\n2. స్థూపం (Cylinder)  - b. 6a²\n3. గోళం (Sphere)      - c. 4πr²",
+        "options": [
+          "1-b, 2-a, 3-c",
+          "1-a, 2-b, 3-c",
+          "1-c, 2-a, 3-b",
+          "1-b, 2-c, 3-a"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "5, 8, 12, 15, 20 ల అంకగణిత సగటు (Mean) ఎంత?",
+        "options": ["14", "12", "13", "15"],
+        "answer": 0
+      }
+    ]
   },
   {
-    "q": "రెండు సంఖ్యల నిష్పత్తి 3:4 మరియు వాటి గ.సా.భా (HCF) 4 అయితే, ఆ సంఖ్యల క.సా.గు ఎంత?",
-    "options": ["12", "16", "48", "24"],
-    "answer": 2
-  },
-  {
-    "q": "ఒక వస్తువును ₹800 కి కొని ₹1000 కి అమ్మితే లాభ శాతం ఎంత?",
-    "options": ["20%", "25%", "30%", "15%"],
-    "answer": 1
-  },
-  {
-    "q": "కింది వాటిని జతపరచండి:\n i. చతురస్ర వైశాల్యం - a. l × b \n ii. దీర్ఘచతురస్ర వైశాల్యం - b. 1/2 × b × h \n iii. త్రిభుజ వైశాల్యం - c. a²",
-    "options": ["i-c, ii-a, iii-b", "i-a, ii-b, iii-c", "i-b, ii-c, iii-a", "i-c, ii-b, iii-a"],
-    "answer": 0
-  },
-  {
-    "q": "0.333... ను భిన్న రూపంలోకి మార్చగా వచ్చే విలువ?",
-    "options": ["1/3", "3/10", "33/100", "1/30"],
-    "answer": 0
-  },
-  {
-    "q": "రెండు పూరక కోణాల నిష్పత్తి 2:3 అయితే ఆ కోణాలు ఏవి?",
-    "options": ["36°, 54°", "40°, 50°", "30°, 60°", "20°, 70°"],
-    "answer": 0
-  },
-  {
-    "q": "ఒక వృత్తం యొక్క వ్యాసార్థం 7 సెం.మీ. అయితే దాని చుట్టుకొలత ఎంత? (π = 22/7)",
-    "options": ["44 సెం.మీ.", "154 సెం.మీ.", "22 సెం.మీ.", "88 సెం.మీ."],
-    "answer": 0
-  },
-  {
-    "q": "√(0.0016) విలువ ఎంత?",
-    "options": ["0.4", "0.04", "0.004", "4.0"],
-    "answer": 1
-  },
-  {
-    "q": "ఒక తరగతిలో 40 మంది విద్యార్థుల సగటు వయస్సు 15 ఏళ్లు. ఉపాధ్యాయుని వయస్సు కలిపితే సగటు 1 ఏడు పెరిగింది. ఉపాధ్యాయుని వయస్సు ఎంత?",
-    "options": ["40 ఏళ్లు", "41 ఏళ్లు", "55 ఏళ్లు", "56 ఏళ్లు"],
-    "answer": 3
-  },
-  {
-    "q": "కింది వాటిని జతపరచండి (సంఖ్యా ధర్మాలు):\n i. a + b = b + a - a. సహచర ధర్మం \n ii. a(b + c) = ab + ac - b. స్థిత్యంతర ధర్మం \n iii. (a + b) + c = a + (b + c) - c. విభాగ న్యాయం",
-    "options": ["i-b, ii-c, iii-a", "i-a, ii-b, iii-c", "i-c, ii-a, iii-b", "i-b, ii-a, iii-c"],
-    "answer": 0
-  },
-  {
-    "q": "ఒక చతురస్రం యొక్క వైశాల్యం 225 చ.సెం.మీ. అయితే దాని చుట్టుకొలత ఎంత?",
-    "options": ["60 సెం.మీ.", "45 సెం.మీ.", "15 సెం.మీ.", "30 సెం.మీ."],
-    "answer": 0
-  },
-  {
-    "q": "15, 25 మరియు 30 ల క.సా.గు (LCM) ఎంత?",
-    "options": ["150", "75", "300", "90"],
-    "answer": 0
-  },
-  {
-    "q": "3x + 5 = 20 అయితే x విలువ ఎంత?",
-    "options": ["5", "15", "3", "25"],
-    "answer": 0
-  },
-  {
-    "q": "మొదటి 10 బేసి సంఖ్యల మొత్తం ఎంత?",
-    "options": ["100", "50", "110", "90"],
-    "answer": 0
-  },
-  {
-    "q": "ఒక సమాంతర చతుర్భుజం భూమి 10 సెం.మీ. మరియు ఎత్తు 8 సెం.మీ. అయితే దాని వైశాల్యం ఎంత?",
-    "options": ["80 చ.సెం.మీ.", "40 చ.సెం.మీ.", "18 చ.సెం.మీ.", "20 చ.సెం.మీ."],
-    "answer": 0
-  },
-  {
-    "q": "ఒక గన్ 5 సెకన్లలో 1500 మీటర్ల దూరం ప్రయాణిస్తే దాని వేగం కి.మీ/గంట లో ఎంత?",
-    "options": ["1080", "300", "150", "540"],
-    "answer": 0
-  },
-  {
-    "q": "గణిత శాస్త్ర స్వభావానికి సంబంధించి సరైన ప్రవచనాన్ని గుర్తించండి.\n i. గణితం ఒక అమూర్త శాస్త్రం.\n ii. గణితం తార్కిక ఆలోచనపై ఆధారపడి ఉంటుంది.",
-    "options": ["i మాత్రమే సరైనది", "ii మాత్రమే సరైనది", "i మరియు ii రెండు సరైనవే", "రెండూ తప్పు"],
-    "answer": 2
-  },
-  {
-    "q": "కింది వాటిని జతపరచండి:\n i. ఆగమన పద్ధతి (Inductive) - a. ఉదాహరణ నుండి సూత్రానికి \n ii. నిగమన పద్ధతి (Deductive) - b. సూత్రం నుండి ఉదాహరణకు \n iii. విశ్లేషణ పద్ధతి (Analysis) - c. తెలియని విషయం నుండి తెలిసిన విషయానికి",
-    "options": ["i-a, ii-b, iii-c", "i-b, ii-a, iii-c", "i-c, ii-b, iii-a", "i-a, ii-c, iii-b"],
-    "answer": 0
-  },
-  {
-    "q": "గణితంలో 'హ్యూరిస్టిక్' (Heuristic) పద్ధతిని ప్రవేశపెట్టిన వారు ఎవరు?",
-    "options": ["హెచ్.ఇ. ఆర్మ్‌స్ట్రాంగ్", "విలియం హెన్రీ కిల్‌ప్యాట్రిక్", "జాన్ డ్యూయీ", "బీజమ్యాన్ పియర్స్"],
-    "answer": 0
-  },
-  {
-    "q": "బ్లూమ్స్ వర్గీకరణ ప్రకారం 'సంశ్లేషణ' (Synthesis) ఏ రంగానికి చెందుతుంది?",
-    "options": ["జ్ఞానాత్మక రంగం", "భావవేశ రంగం", "మనోచాలక రంగం", "సాంఘిక రంగం"],
-    "answer": 0
-  },
-  {
-    "q": "జ్యామితీయ ఆకారాలను (Geometrical Shapes) బోధించడానికి ప్రాథమిక స్థాయిలో ఉపయోగపడే అత్యుత్తమ ఉపకరణం ఏది?",
-    "options": ["జియో బోర్డు (Geo Board)", "అబాకస్ (Abacus)", "నేపియర్ పట్టీలు", "బుల్లెటిన్ బోర్డు"],
-    "answer": 0
-  },
-  {
-    "q": "గణిత బోధనలో 'వార్షిక ప్రణాళిక' (Annual Plan) ను ఎవరు తయారు చేస్తారు?",
-    "options": ["ప్రధానోపాధ్యాయుడు", "విషయ ఉపాధ్యాయుడు", "మండల విద్యాశాఖాధికారి", "విద్యార్థులు"],
-    "answer": 1
-  },
-  {
-    "q": "ప్రవచనం (A): గణితం అన్ని శాస్త్రాలకు మూలం మరియు ద్వారం.\n కారణం (R): రోజర్ బేకన్ ఈ ప్రవచనాన్ని ఇచ్చారు.",
-    "options": ["A మరియు R రెండూ సరైనవి, A కు R సరైన వివరణ", "A సరైనది కానీ R తప్పు", "A తప్పు కానీ R సరైనది", "A మరియు R రెండూ తప్పు"],
-    "answer": 0
-  },
-  {
-    "q": "గణితంలో వెనుకబడిన విద్యార్థుల కోసం ఉపాధ్యాయుడు నిర్వహించే బోధనను ఏమంటారు?",
-    "options": ["మైక్రో టీచింగ్", "లోప నివారణ బోధన (Remedial Teaching)", "జట్టు బోధన", "మల్టీ గ్రేడ్ బోధన"],
-    "answer": 1
+    "category": "Maths Methodology",
+    "questions": [
+      {
+        "q": "ప్రకటన (A): గణిత బోధనలో 'సంశ్లేషణ పద్ధతి' (Synthetic Method) కంటే 'విశ్లేషణ పద్ధతి' (Analytic Method) తార్కికమైనది.\nకారణం (R): విశ్లేషణ పద్ధతిలో విద్యార్థి తెలియని విషయం నుండి తెలిసిన విషయానికి అన్వేషిస్తాడు.",
+        "options": [
+          "(A) మరియు (R) రెండూ నిజం, (R) అనేది (A)కి సరైన వివరణ",
+          "(A) మరియు (R) రెండూ నిజం, కానీ (R) అనేది (A)కి సరైన వివరణ కాదు",
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) తప్పు కానీ (R) నిజం"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "కింది బోధనా పద్ధతులను వాటి సూత్రాలతో జతపరచండి:\n1. ఆగమన పద్ధతి (Inductive)  - a. సూత్రం నుండి ఉదాహరణకు\n2. నిగమన పద్ధతి (Deductive) - b. ఉదాహరణ నుండి సూత్రానికి\n3. హియూరిస్టిక్ పద్ధతి       - c. స్వయంగా అన్వేషించడం",
+        "options": [
+          "1-b, 2-a, 3-c",
+          "1-a, 2-b, 3-c",
+          "1-c, 2-a, 3-b",
+          "1-b, 2-c, 3-a"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "ప్రకటన (A): గణిత పేటికలోని 'జియో బోర్డు' జ్యామితీయ ఆకారాల బోధనకు ఉపయోగపడుతుంది.\nకారణం (R): దీని ద్వారా వైశాల్యం మరియు చుట్టుకొలత భావనలను అమూర్త రూపంలోనే నేర్పవచ్చు.",
+        "options": [
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) మరియు (R) రెండూ నిజం",
+          "(A) తప్పు కానీ (R) నిజం",
+          "(A) మరియు (R) రెండూ తప్పు"
+        ],
+        "answer": 0
+      },
+      
+      {
+        "q": "కింది బోధనా లక్ష్యాలను వాటి స్పష్టీకరణలతో జతపరచండి:\n1. జ్ఞానం     - a. కారణాలు తెలుపడం\n2. అవగాహన   - b. గుర్తుకు తెచ్చుకోవడం\n3. అన్వయం   - c. కొత్త సమస్యను సాధించడం",
+        "options": [
+          "1-b, 2-a, 3-c",
+          "1-a, 2-b, 3-c",
+          "1-c, 2-a, 3-b",
+          "1-b, 2-c, 3-a"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "గణితం అంటే 'సంఖ్యలు మరియు ఆకారాల శాస్త్రం' అని అన్నది ఎవరు?",
+        "options": ["అరిస్టాటిల్", "బెంజమిన్ పియర్స్", "బెర్నార్డ్ షా", "గాస్"],
+        "answer": 0
+      },
+      {
+        "q": "ప్రకటన (A): గణితంలో వెనుకబడిన విద్యార్థుల కోసం 'లోప నిర్ధారణ పరీక్ష' (Diagnostic Test) నిర్వహిస్తారు.\nకారణం (R): విద్యార్థి ఏ అంశంలో ఇబ్బంది పడుతున్నాడో తెలుసుకుని 'ఉపచార బోధన' (Remedial Teaching) చేయడం దీని లక్ష్యం.",
+        "options": [
+          "(A) మరియు (R) రెండూ నిజం, (R) అనేది (A)కి సరైన వివరణ",
+          "(A) మరియు (R) రెండూ నిజం, కానీ (R) అనేది (A)కి సరైన వివరణ కాదు",
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) తప్పు కానీ (R) నిజం"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "కింది ఉపకరణాలను వాటి ఉపయోగాలతో జతపరచండి:\n1. అబాకస్         - a. ఘనపరిమాణం\n2. నేపియర్ పట్టీలు  - b. స్థాన విలువలు\n3. ఘనపు కడ్డీలు    - c. గుణకారం",
+        "options": [
+          "1-b, 2-c, 3-a",
+          "1-a, 2-b, 3-c",
+          "1-c, 2-a, 3-b",
+          "1-b, 2-a, 3-c"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "జాతీయ విద్యా ప్రణాళిక చట్రం (NCF) 2005 ప్రకారం గణిత బోధన ప్రధాన ఉద్దేశ్యం ఏమిటి?",
+        "options": [
+          "విద్యార్థి ఆలోచనా విధానాన్ని గణితీకరించడం",
+          "కేవలం ఫార్ములాలు నేర్పించడం",
+          "పరీక్షల్లో ఎక్కువ మార్కులు తెప్పించడం",
+          "పెద్ద పెద్ద లెక్కలు చేయించడం"
+        ],
+        "answer": 0
+      }
+    ]
   }
 ],
 "sci": [
   {
-    "q": "మొక్కల కణజాలాలను జతపరిచి సరైన కోడ్‌ను ఎంచుకోండి:\n i. దారువు (Xylem) - a. ఆహార రవాణా \n ii. పోషక కణజాలం (Phloem) - b. మొక్కకు పటుత్వం \n iii. దృఢ కణజాలం - c. నీరు మరియు ఖనిజ లవణాల రవాణా",
-    "options": ["i-c, ii-a, iii-b", "i-a, ii-b, iii-c", "i-b, ii-c, iii-a", "i-c, ii-b, iii-a"],
-    "answer": 0
+    "category": "General Science Content",
+    "questions": [
+      {
+        "q": "ప్రకటన (A): ఎడారి మొక్కలలో పత్రాలు ముళ్లుగా రూపాంతరం చెందుతాయి.\nకారణం (R): బాష్పోత్సేకం (Transpiration) ద్వారా జరిగే నీటి నష్టాన్ని తగ్గించడానికి ఈ మార్పు జరుగుతుంది.",
+        "options": [
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) తప్పు కానీ (R) నిజం",
+          "(A) మరియు (R) రెండూ నిజం, (R) అనేది (A)కి సరైన వివరణ",
+          "(A) మరియు (R) రెండూ నిజం, కానీ (R) అనేది (A)కి సరైన వివరణ కాదు"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "కింది వానిని జతపరచండి:\n1. మైటోకాండ్రియా  - a. ప్రోటీన్ల తయారీ\n2. రైబోజోములు     - b. కణ శక్తి భాండాగారాలు\n3. లైసోజోములు     - c. కణ ఆత్మహత్య కోశాలు",
+        "options": [
+          "1-a, 2-b, 3-c",
+          "1-b, 2-a, 3-c",
+          "1-c, 2-a, 3-b",
+          "1-b, 2-c, 3-a"
+        ],
+        "answer": 1
+      },
+      
+      {
+        "q": "ప్రకటన (A): ఆకాశం నీలం రంగులో కనిపించడానికి కాంతి వక్రీభవనం కారణం.\nకారణం (R): భూ వాతావరణంలోని అణువులు తక్కువ తరంగదైర్ఘ్యం గల నీలి రంగును ఎక్కువగా విక్షేపణం (Scattering) చేస్తాయి.",
+        "options": [
+          "(A) తప్పు కానీ (R) నిజం",
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) మరియు (R) రెండూ నిజం",
+          "(A) మరియు (R) రెండూ తప్పు"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "కింది లోహాలు మరియు వాటి ధాతువులను (Ores) జతపరచండి:\n1. ఇనుము  - a. బాక్సైట్\n2. అల్యూమినియం - b. హెమటైట్\n3. మెగ్నీషియం - c. మాగ్నసైట్",
+        "options": [
+          "1-c, 2-b, 3-a",
+          "1-a, 2-b, 3-c",
+          "1-b, 2-a, 3-c",
+          "1-b, 2-c, 3-a"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "మానవ శరీరంలో రక్తం గడ్డకట్టడానికి సహాయపడే విటమిన్ ఏది?",
+        "options": [
+          "విటమిన్ A",
+          "విటమిన్ D",
+          "విటమిన్ E",
+          "విటమిన్ K"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "ప్రకటన (A): ఉష్ణోగ్రత పెరిగినప్పుడు గాలిలో ధ్వని వేగం పెరుగుతుంది.\nకారణం (R): ఉష్ణోగ్రత పెరిగితే గాలి సాంద్రత తగ్గుతుంది, తద్వారా ధ్వని వేగంగా ప్రయాణిస్తుంది.",
+        "options": [
+          "(A) మరియు (R) రెండూ నిజం, (R) అనేది (A)కి సరైన వివరణ",
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) మరియు (R) రెండూ తప్పు",
+          "(A) తప్పు కానీ (R) నిజం"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "కింది ఆమ్లాలు మరియు అవి లభించే పదార్థాలను జతపరచండి:\n1. టార్టారిక్ ఆమ్లం - a. వెనిగర్\n2. అసిటిక్ ఆమ్లం - b. చింతపండు\n3. ఆక్సాలిక్ ఆమ్లం - c. టమోటా",
+        "options": [
+          "1-a, 2-b, 3-c",
+          "1-b, 2-a, 3-c",
+          "1-c, 2-a, 3-b",
+          "1-b, 2-c, 3-a"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "విద్యుత్ బల్బులోని ఫిలమెంట్ తయారీకి టంగ్స్టన్ లోహాన్ని ఎందుకు ఉపయోగిస్తారు?",
+        "options": [
+          "అది తక్కువ నిరోధాన్ని కలిగి ఉంటుంది",
+          "దానికి అత్యధిక ద్రవీభవన స్థానం ఉంటుంది",
+          "అది సులభంగా లభిస్తుంది",
+          "అది విద్యుత్తును అస్సలు ప్రవహింపనీయదు"
+        ],
+        "answer": 1
+      }
+    ]
   },
   {
-    "q": "మానవ శరీరంలో 'మాస్టర్ గ్లాండ్' (Master Gland) అని ఏ గ్రంథిని పిలుస్తారు?",
-    "options": ["థైరాయిడ్ గ్రంథి", "పియూష గ్రంథి (Pituitary)", "అడ్రినల్ గ్రంథి", "మేధో గ్రంథి"],
-    "answer": 1
-  },
-  {
-    "q": "ప్రవచనం (A): ఇనుప వస్తువులకు జింక్ పూత పూయడాన్ని గాల్వనైజేషన్ అంటారు.\n కారణం (R): ఇది ఇనుము తుప్పు పట్టకుండా కాపాడుతుంది.",
-    "options": [
-      "A మరియు R రెండూ సరైనవి, A కు R సరైన వివరణ",
-      "A సరైనది కానీ R తప్పు",
-      "A తప్పు కానీ R సరైనది",
-      "రెండూ తప్పే"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "ఒక వ్యక్తి స్పష్టమైన దృష్టి కనీస దూరం (Least distance of distinct vision) ఎంత?",
-    "options": ["20 సెం.మీ.", "25 సెం.మీ.", "30 సెం.మీ.", "15 సెం.మీ."],
-    "answer": 1
-  },
-  {
-    "q": "కింది వాటిలో 'గ్రీన్ హౌస్ వాయువు' (Greenhouse Gas) కానిది ఏది?",
-    "options": ["కార్బన్ డై ఆక్సైడ్", "మీథేన్", "నైట్రోజన్", "క్లోరో ఫ్లోరో కార్బన్లు"],
-    "answer": 2
-  },
-  {
-    "q": "కటక సామర్థ్యాన్ని (Power of Lens) ఏ ప్రమాణాలలో కొలుస్తారు?",
-    "options": ["మీటర్లు", "డయాప్టర్లు", "వాట్లు", "హెర్ట్జ్"],
-    "answer": 1
-  },
-  {
-    "q": "ఏ విటమిన్ లోపం వల్ల 'స్కర్వీ' (Scurvy) వ్యాధి వస్తుంది?",
-    "options": ["విటమిన్ A", "విటమిన్ B", "విటమిన్ C", "విటమిన్ D"],
-    "answer": 2
-  },
-  {
-    "q": "ఆమ్ల వర్షాలకు (Acid Rains) ప్రధాన కారణమైన వాయువులు ఏవి?",
-    "options": [
-      "CO మరియు CO2",
-      "SO2 మరియు NO2",
-      "O2 మరియు N2",
-      "CH4 మరియు He"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "క్రింది వాటిని జతపరచండి (ఆమ్లాలు - వనరులు):\n i. సిట్రిక్ ఆమ్లం - a. వెనిగర్ \n ii. ఎసిటిక్ ఆమ్లం - b. చీమ కుట్టడం \n iii. ఫార్మిక్ ఆమ్లం - c. నిమ్మ",
-    "options": ["i-c, ii-a, iii-b", "i-a, ii-b, iii-c", "i-b, ii-c, iii-a", "i-c, ii-b, iii-a"],
-    "answer": 0
-  },
-  {
-    "q": "ధ్వని తీవ్రతను కొలిచే ప్రమాణం ఏది?",
-    "options": ["డెసిబెల్", "హెర్ట్జ్", "న్యూటన్", "పాస్కల్"],
-    "answer": 0
-  },
-  {
-    "q": "వస్తువు యొక్క ద్రవ్యరాశి (Mass) భూమిపై 60 కేజీలు అయితే, చంద్రునిపై దాని ద్రవ్యరాశి ఎంత?",
-    "options": ["10 కేజీలు", "60 కేజీలు", "360 కేజీలు", "0 కేజీలు"],
-    "answer": 1
-  },
-  {
-    "q": "మయోపియా (హ్రస్వదృష్టి) నివారణకు ఏ కటకాన్ని ఉపయోగిస్తారు?",
-    "options": ["కుంభాకార కటకం", "పుటాకార కటకం", "సమతల కటకం", "ద్వికుంభాకార కటకం"],
-    "answer": 1
-  },
-  {
-    "q": "పెన్సిల్ లో ఉండే 'లెడ్' (Lead) అసలు దేనితో తయారవుతుంది?",
-    "options": ["సీసం", "గ్రాఫైట్", "బొగ్గు", "జింక్"],
-    "answer": 1
-  },
-  {
-    "q": "రక్తం గడ్డకట్టడానికి తోడ్పడే విటమిన్ ఏది?",
-    "options": ["విటమిన్ A", "విటమిన్ K", "విటమిన్ E", "విటమిన్ D"],
-    "answer": 1
-  },
-  {
-    "q": "విద్యుత్ ప్రవాహాన్ని (Current) కొలిచే సాధనం ఏది?",
-    "options": ["వోల్టమీటర్", "అమీటర్", "బేరోమీటర్", "గాల్వనోమీటర్"],
-    "answer": 1
-  },
-  {
-    "q": "కిరణజన్య సంయోగక్రియలో వెలువడే వాయువు ఏది?",
-    "options": ["ఆక్సిజన్", "కార్బన్ డై ఆక్సైడ్", "హైడ్రోజన్", "నైట్రోజన్"],
-    "answer": 0
-  },
-  {
-    "q": "విజ్ఞాన శాస్త్ర బోధనలో 'శాస్త్రీయ పద్ధతి' (Scientific Method) లోని సోపానాలను సరైన వరుస క్రమంలో అమర్చండి.\n 1. పరికల్పనలు చేయడం \n 2. సమస్యను గుర్తించడం \n 3. దత్తాంశ సేకరణ \n 4. ప్రయోగం చేయడం \n 5. సాధారణీకరణం",
-    "options": [
-      "2-1-3-4-5",
-      "2-3-1-4-5",
-      "1-2-3-4-5",
-      "2-1-4-3-5"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "కింది వాటిని జతపరచండి:\n i. ఎడ్గార్ డేల్ - a. ప్రాజెక్ట్ పద్ధతి \n ii. కిల్‌ప్యాట్రిక్ - b. అనుభవ శంకువు \n iii. బ్లూమ్స్ - c. విద్యా లక్ష్యాల వర్గీకరణ",
-    "options": [
-      "i-b, ii-a, iii-c",
-      "i-a, ii-b, iii-c",
-      "i-c, ii-a, iii-b",
-      "i-b, ii-c, iii-a"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "శాస్త్రీయ వైఖరి (Scientific Attitude) కలిగిన వ్యక్తిలో ఉండే ప్రధాన లక్షణం ఏది?",
-    "options": [
-      "మూఢనమ్మకాలను నమ్మడం",
-      "నిష్పాక్షికమైన నిర్ణయాలు తీసుకోవడం (Open-mindedness)",
-      "కేవలం పుస్తక జ్ఞానం కలిగి ఉండటం",
-      "పాత పద్ధతులనే అనుసరించడం"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "ఎడ్గార్ డేల్ 'అనుభవ శంకువు' ప్రకారం అత్యధిక అభ్యసన శాతం కలిగిన అనుభవం ఏది?",
-    "options": [
-      "రేడియో వినడం",
-      "టెలివిజన్ చూడటం",
-      "ప్రత్యక్ష ప్రయోజనాత్మక అనుభవం",
-      "చార్టులు చూడటం"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "సైన్స్ ప్రయోగశాలలో 'అగ్ని ప్రమాదం' జరిగినప్పుడు ప్రాథమికంగా ఉపయోగించాల్సినది ఏది?",
-    "options": [
-      "నీరు",
-      "అగ్నిమాపక యంత్రం (Fire Extinguisher)",
-      "బ్లాంకెట్",
-      "ఇసుక"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "బోధనా ఉపకరణాలలో 'త్రిమితీయ ఉపకరణం' (3D Aid) కు ఉదాహరణ?",
-    "options": [
-      "నమూనాలు (Models)",
-      "చార్టులు",
-      "మ్యాప్స్",
-      "బ్లాక్ బోర్డ్"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "ప్రవచనం (A): విజ్ఞాన శాస్త్రం అంటే ఒక 'క్రియ' మరియు 'ఫలితం'.\n కారణం (R): ఇది నిరంతరం మారుతూ ఉండే జ్ఞానం.",
-    "options": [
-      "A మరియు R రెండూ సరైనవి, A కు R సరైన వివరణ",
-      "A సరైనది కానీ R తప్పు",
-      "A తప్పు కానీ R సరైనది",
-      "రెండూ తప్పు"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "పిల్లలలో 'పరిశీలనా నైపుణ్యాన్ని' పెంపొందించడానికి ఉత్తమమైన పద్ధతి?",
-    "options": [
-      "ఉపన్యాస పద్ధతి",
-      "క్షేత్ర పర్యటనలు (Field Trips)",
-      "బట్టీ పద్ధతి",
-      "పుస్తక పఠనం"
-    ],
-    "answer": 1
+    "category": "Science Methodology",
+    "questions": [
+      {
+        "q": "ప్రకటన (A): సైన్స్ బోధనలో 'అన్వేషణ పద్ధతి' (Heuristic Method) విద్యార్థిని శాస్త్రవేత్తలా ఆలోచింపజేస్తుంది.\nకారణం (R): ఈ పద్ధతిలో ఉపాధ్యాయుడు ఎటువంటి సహాయం చేయకుండా కేవలం మూగప్రేక్షకుడిలా ఉంటాడు.",
+        "options": [
+          "(A) మరియు (R) రెండూ నిజం",
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) తప్పు కానీ (R) నిజం",
+          "(A) మరియు (R) రెండూ తప్పు"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "కింది బోధనా వనరులను వాటి రకాలతో జతపరచండి:\n1. చార్టులు  - a. త్రిమితీయ ఉపకరణం\n2. నమూనాలు (Models) - b. ద్విమితీయ ఉపకరణం\n3. స్లైడ్ ప్రొజెక్టర్ - c. ప్రొజెక్టెడ్ ఉపకరణం",
+        "options": [
+          "1-b, 2-a, 3-c",
+          "1-a, 2-b, 3-c",
+          "1-c, 2-a, 3-b",
+          "1-b, 2-c, 3-a"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "విజ్ఞాన శాస్త్ర బోధనలో 'విలువలను' జతపరచండి:\n1. కేలండర్ ఉపయోగించి వాతావరణం అంచనా - a. సౌందర్యాత్మక విలువ\n2. ప్రకృతి దృశ్యాలను ఆస్వాదించడం  - b. ఉపయోగితా విలువ\n3. ప్రయోగాలను నిజాయితీగా చేయడం - c. నైతిక విలువ",
+        "options": [
+          "1-a, 2-b, 3-c",
+          "1-c, 2-a, 3-b",
+          "1-b, 2-a, 3-c",
+          "1-b, 2-c, 3-a"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "బ్లూమ్స్ బోధనా లక్ష్యాల వర్గీకరణ ప్రకారం, 'ప్రయోగాన్ని అమర్చడం' అనేది ఏ రంగానికి చెందుతుంది?",
+        "options": [
+          "సంజ్ఞానాత్మక రంగం",
+          "భావవేశ రంగం",
+          "మానసిక చలనాత్మక రంగం",
+          "ఏదీ కాదు"
+        ],
+        "answer": 2
+      }
+    ]
   }
 ],
 "soc": [
   {
-    "q": "కింది వాటిని జతపరచండి:\n i. మొదటి పానిపట్ యుద్ధం - a. 1757 \n ii. ప్లాసీ యుద్ధం - b. 1526 \n iii. బక్సర్ యుద్ధం - c. 1764",
-    "options": ["i-b, ii-a, iii-c", "i-a, ii-b, iii-c", "i-c, ii-a, iii-b", "i-b, ii-c, iii-a"],
-    "answer": 0
+    "category": "Social Studies Content",
+    "questions": [
+      {
+        "q": "ప్రకటన (A): హిమాలయ పర్వతాలు భారతదేశానికి సహజ రక్షణ గోడలుగా పనిచేస్తున్నాయి.\nకారణం (R): ఇవి మధ్య ఆసియా నుండి వీచే అతి చల్లని గాలులను అడ్డుకోవడమే కాకుండా, శత్రువుల దాడి నుండి రక్షణ కల్పిస్తాయి.",
+        "options": [
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) మరియు (R) రెండూ నిజం, (R) అనేది (A)కి సరైన వివరణ",
+          "(A) మరియు (R) రెండూ నిజం, కానీ (R) అనేది (A)కి సరైన వివరణ కాదు",
+          "(A) తప్పు కానీ (R) నిజం"
+        ],
+        "answer": 1
+      },
+      
+      {
+        "q": "కింది వాటిని జతపరచండి:\n1. మొదటి పానిపట్టు యుద్ధం  - a. 1556\n2. రెండవ పానిపట్టు యుద్ధం  - b. 1526\n3. హల్దీఘాట్ యుద్ధం       - c. 1576",
+        "options": [
+          "1-a, 2-b, 3-c",
+          "1-c, 2-a, 3-b",
+          "1-b, 2-c, 3-a",
+          "1-b, 2-a, 3-c"
+        ],
+        "answer": 3
+      },
+      {
+        "q": "ప్రకటన (A): భారత రాజ్యాంగం 'సమాఖ్య' (Federal) మరియు 'ఏకకేంద్ర' (Unitary) లక్షణాల కలయిక.\nకారణం (R): సాధారణ సమయాల్లో సమాఖ్యగా ఉంటూనే, అత్యవసర పరిస్థితుల్లో కేంద్రం శక్తివంతంగా మారుతుంది.",
+        "options": [
+          "(A) మరియు (R) రెండూ నిజం, (R) అనేది (A)కి సరైన వివరణ",
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) మరియు (R) రెండూ తప్పు",
+          "(A) మరియు (R) రెండూ నిజం, కానీ (R) అనేది (A)కి సరైన వివరణ కాదు"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "కింది భూస్వరూపాలను వాటిని ఏర్పరిచే కారకాలతో జతపరచండి:\n1. 'V' ఆకృతి లోయ - a. పవనాలు\n2. 'U' ఆకృతి లోయ - b. నదులు\n3. ఇసుక తిన్నెలు     - c. హిమనీనదాలు",
+        "options": [
+          "1-b, 2-c, 3-a",
+          "1-a, 2-b, 3-c",
+          "1-c, 2-a, 3-b",
+          "1-b, 2-a, 3-c"
+        ],
+        "answer": 0
+      },
+      
+      {
+        "q": "ప్రకటన (A): భూమధ్యరేఖ వద్ద పగలు మరియు రాత్రి సమయాలు దాదాపు సమానంగా ఉంటాయి.\nకారణం (R): భూమి తన అక్షంపై 23.5 డిగ్రీల కోణంలో వంగి ఉండటమే దీనికి ప్రధాన కారణం.",
+        "options": [
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) తప్పు కానీ (R) నిజం",
+          "(A) మరియు (R) రెండూ నిజం",
+          "(A) మరియు (R) రెండూ తప్పు"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "కింది విప్లవాలను వాటి రంగాలతో జతపరచండి:\n1. నీలి విప్లవం   - a. పాల ఉత్పత్తి\n2. శ్వేత విప్లవం   - b. చేపల ఉత్పత్తి\n3. పసుపు విప్లవం  - c. నూనె గింజల ఉత్పత్తి",
+        "options": [
+          "1-a, 2-b, 3-c",
+          "1-b, 2-c, 3-a",
+          "1-b, 2-a, 3-c",
+          "1-c, 2-a, 3-b"
+        ],
+        "answer": 2
+      },
+      {
+        "q": "భారత రాష్ట్రపతిని ఎవరు ఎన్నుకుంటారు?",
+        "options": [
+          "ప్రజలు నేరుగా ఓటు వేస్తారు",
+          "ఎన్నికైన MPలు మరియు MLAలు (Electoral College)",
+          "కేవలం రాజ్యసభ సభ్యులు మాత్రమే",
+          "సుప్రీంకోర్టు ప్రధాన న్యాయమూర్తి"
+        ],
+        "answer": 1
+      },
+      {
+        "q": "ప్రకటన (A): బ్రిటిష్ కాలంలో ప్రవేశపెట్టిన 'మహల్వారీ పద్ధతి'లో గ్రామ పెద్ద పన్ను వసూలు బాధ్యత వహించేవాడు.\nకారణం (R): ఈ పద్ధతిని థామస్ మన్రో దక్షిణ భారతదేశంలో ప్రవేశపెట్టాడు.",
+        "options": [
+          "(A) మరియు (R) రెండూ నిజం",
+          "(A) తప్పు కానీ (R) నిజం",
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) మరియు (R) రెండూ తప్పు"
+        ],
+        "answer": 2
+      }
+    ]
   },
   {
-    "q": "భూమికి మరియు సూర్యునికి మధ్య అత్యధిక దూరం ఉండే స్థితిని ఏమంటారు?",
-    "options": ["పరిహేళి (Perihelion)", "అపహేళి (Aphelion)", "విషువత్తులు", "అయనాంతాలు"],
-    "answer": 1
-  },
-  {
-    "q": "భారత రాజ్యాంగం ప్రకారం ఆర్టికల్ 17 దేనిని నిషేధిస్తుంది?",
-    "options": ["బాల కార్మిక వ్యవస్థ", "అస్పృశ్యత", "వెట్టి చాకిరి", "మత వివక్ష"],
-    "answer": 1
-  },
-  {
-    "q": "ఆంధ్రప్రదేశ్‌లో 'కొల్లేరు సరస్సు' ఏ జిల్లాల మధ్య విస్తరించి ఉంది?",
-    "options": ["కృష్ణా - గుంటూరు", "ఏలూరు - కృష్ణా", "తూర్పు గోదావరి - పశ్చిమ గోదావరి", "శ్రీకాకుళం - విజయనగరం"],
-    "answer": 1
-  },
-  {
-    "q": "ప్రపంచంలోనే అతిపెద్ద డెల్టా ఏది?",
-    "options": ["నైలు డెల్టా", "సుందర్బన్ డెల్టా", "మిసిసిపీ డెల్టా", "అమెజాన్ డెల్టా"],
-    "answer": 1
-  },
-  {
-    "q": "కింది వాటిని జతపరచండి (శిలలు - రకాలు):\n i. గ్రానైట్ - a. రూపాంతర శిలలు \n ii. ఇసుక రాయి - b. అగ్ని శిలలు \n iii. మార్బుల్ - c. అవక్షేప శిలలు",
-    "options": ["i-b, ii-c, iii-a", "i-a, ii-b, iii-c", "i-c, ii-a, iii-b", "i-b, ii-a, iii-c"],
-    "answer": 0
-  },
-  {
-    "q": "విజయనగర సామ్రాజ్యాన్ని సందర్శించిన పర్షియా రాయబారి ఎవరు?",
-    "options": ["నికోలో కాంటి", "అబ్దుల్ రజాక్", "డొమింగో పేస్", "ఫెర్నావో న్యూనిజ్"],
-    "answer": 1
-  },
-  {
-    "q": "భారత రాజ్యాంగంలోని ఏ షెడ్యూల్ 'పంచాయతీ రాజ్' వ్యవస్థ గురించి తెలుపుతుంది?",
-    "options": ["8వ షెడ్యూల్", "10వ షెడ్యూల్", "11వ షెడ్యూల్", "12వ షెడ్యూల్"],
-    "answer": 2
-  },
-  {
-    "q": "భారతదేశంలో 'నీలి విప్లవం' (Blue Revolution) దేనికి సంబంధించినది?",
-    "options": ["పాల ఉత్పత్తి", "చేపల ఉత్పత్తి", "నూనె గింజల ఉత్పత్తి", "గోధుమల ఉత్పత్తి"],
-    "answer": 1
-  },
-  {
-    "q": "క్రింది వానిలో ఏది 'శీతల ప్రవాహం' (Cold Current)?",
-    "options": ["గల్ఫ్ స్ట్రీమ్", "కురోషియో ప్రవాహం", "కెనరీ ప్రవాహం", "బ్రెజిల్ ప్రవాహం"],
-    "answer": 2
-  },
-  {
-    "q": "గాంధీజీ తన 'దండి యాత్ర'ను ఎక్కడ ప్రారంభించారు?",
-    "options": ["అహ్మదాబాద్", "సబర్మతి ఆశ్రమం", "దండి తీరం", "పోరుబందర్"],
-    "answer": 1
-  },
-  {
-    "q": "రాజ్యసభకు రాష్ట్రపతి ఎంతమంది సభ్యులను నామినేట్ చేస్తారు?",
-    "options": ["2", "10", "12", "15"],
-    "answer": 2
-  },
-  {
-    "q": "కింది వాటిని జతపరచండి (ఖండాలు - పర్వత శ్రేణులు):\n i. ఆసియా - a. ఆండీస్ \n ii. దక్షిణ అమెరికా - b. హిమాలయాలు \n iii. ఐరోపా - c. ఆల్ప్స్",
-    "options": ["i-b, ii-a, iii-c", "i-a, ii-b, iii-c", "i-c, ii-a, iii-b", "i-b, ii-c, iii-a"],
-    "answer": 0
-  },
-  {
-    "q": "భారతదేశంలో రూపాయి నోట్లపై ఎవరి సంతకం ఉంటుంది?",
-    "options": ["ఆర్బీఐ గవర్నర్", "కేంద్ర ఆర్థిక మంత్రి", "కేంద్ర ఆర్థిక శాఖ కార్యదర్శి", "రాష్ట్రపతి"],
-    "answer": 2
-  },
-  {
-    "q": "మౌర్య సామ్రాజ్యంలో అశోకుని శాసనాలు ఎక్కువగా ఏ లిపిలో ఉన్నాయి?",
-    "options": ["దేవనాగరి", "బ్రాహ్మీ", "ఖరోష్ఠీ", "గ్రీకు"],
-    "answer": 1
-  },
-  {
-    "q": "భూమధ్య రేఖ కింది ఏ దేశం గుండా వెళుతుంది?",
-    "options": ["భారతదేశం", "బ్రెజిల్", "చైనా", "ఆస్ట్రేలియా"],
-    "answer": 1
-  },
-  {
-    "q": "సాంఘిక శాస్త్రం అంటే 'మానవుడు - అతని పరిసరాల మధ్య గల సంబంధాన్ని అధ్యయనం చేసేది' అని నిర్వచించిన వారు ఎవరు?",
-    "options": ["జేమ్స్ హై", "వెబ్ స్టర్ నిఘంటువు", "ఎం.పి. ముఫాత్", "ఈ.బి. వెస్లీ"],
-    "answer": 2
-  },
-  {
-    "q": "కింది వాటిని జతపరచండి:\n i. ప్రాజెక్ట్ పద్ధతి - a. చారిత్రక అంశాల బోధన \n ii. కథా పద్ధతి - b. కిల్‌ప్యాట్రిక్ \n iii. క్షేత్ర పర్యటనలు - c. ప్రత్యక్ష అనుభవాలు",
-    "options": ["i-b, ii-a, iii-c", "i-a, ii-b, iii-c", "i-c, ii-a, iii-b", "i-b, ii-c, iii-a"],
-    "answer": 0
-  },
-  {
-    "q": "సాంఘిక శాస్త్ర బోధనలో 'వనరుల విభాగం' (Resource Room) లో ఉండవలసిన ప్రధాన వస్తువు ఏది?",
-    "options": [
-      "కేవలం పాఠ్యపుస్తకాలు",
-      "మ్యాపులు, గ్లోబులు, చారిత్రక నమూనాలు మరియు చార్టులు",
-      "ఆట వస్తువులు",
-      "కేవలం ఉపాధ్యాయుని కుర్చీ"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "సాంఘిక శాస్త్రం విద్యార్థులలో ఏ లక్షణాలను పెంపొందిస్తుంది?",
-    "options": ["వైజ్ఞానిక దృక్పథం", "ఉత్తమ పౌరసత్వం", "వ్యాపార సామర్థ్యం", "కేవలం జ్ఞాపకశక్తి"],
-    "answer": 1
-  },
-  {
-    "q": "భూగోళశాస్త్ర బోధనలో 'దిశలు' మరియు 'అక్షాంశ రేఖాంశాల'ను అవగాహన చేసుకోవడానికి అత్యంత ఉపయోగపడే సాధనం?",
-    "options": ["గ్లోబు (Globe)", "చరిత్ర పుస్తకం", "బ్లాక్ బోర్డ్", "రేడియో"],
-    "answer": 0
-  },
-  {
-    "q": "స్థానిక స్వపరిపాలన గురించి బోధించేటప్పుడు అనుసరించాల్సిన ఉత్తమ పద్ధతి ఏది?",
-    "options": [
-      "ఉపన్యాస పద్ధతి",
-      "క్షేత్ర పర్యటన (Field Trip)",
-      "బట్టీ పద్ధతి",
-      "కేవలం పుస్తకం చదవడం"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "జాతీయ విద్యా విధానం (NEP) 2020 ప్రకారం సాంఘిక శాస్త్ర బోధన ఏ విధంగా ఉండాలి?",
-    "options": [
-      "విషయ భారంతో కూడినది",
-      "బహుళ విజ్ఞాన శాస్త్ర సంబంధిత (Multidisciplinary)",
-      "కేవలం పరీక్షల కోసం",
-      "ఉపాధ్యాయ కేంద్రీకృత పద్ధతి"
-    ],
-    "answer": 1
-  },
-  {
-    "q": "సాంఘిక శాస్త్రంలో 'సమకాలీన అంశాలు' (Current Affairs) బోధించడం వల్ల కలిగే ప్రయోజనం?",
-    "options": [
-      "సిలబస్ త్వరగా పూర్తవుతుంది",
-      "ప్రపంచ పరిణామాలపై అవగాహన కలుగుతుంది",
-      "భాషా జ్ఞానం పెరుగుతుంది",
-      "హాజరు శాతం పెరుగుతుంది"
-    ],
-    "answer": 1
+    "category": "Social Methodology",
+    "questions": [
+      {
+        "q": "ప్రకటన (A): సాంఘిక శాస్త్ర బోధనలో 'ప్రాజెక్ట్ పద్ధతి' విద్యార్థులలో సామాజిక స్పృహను పెంపొందిస్తుంది.\nకారణం (R): ఈ పద్ధతిలో విద్యార్థులు జట్టుగా పని చేస్తూ సమస్యలను శాస్త్రీయంగా విశ్లేషిస్తారు.",
+        "options": [
+          "(A) మరియు (R) రెండూ నిజం, (R) అనేది (A)కి సరైన వివరణ",
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) మరియు (R) రెండూ తప్పు",
+          "(A) తప్పు కానీ (R) నిజం"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "కింది బోధనా పద్ధతులను వాటి రూపకర్తలతో జతపరచండి:\n1. సమస్య పరిష్కార పద్ధతి - a. హెర్బర్ట్ స్పెన్సర్\n2. ప్రాజెక్ట్ పద్ధతి      - b. జాన్ డ్యూయీ\n3. ఐదు సోపానాల బోధన   - c. కిల్‌పాట్రిక్",
+        "options": [
+          "1-b, 2-c, 3-a",
+          "1-a, 2-b, 3-c",
+          "1-c, 2-a, 3-b",
+          "1-b, 2-a, 3-c"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "సాంఘిక శాస్త్ర ఉపాధ్యాయుడు బోధనలో 'గ్లోబ్'ను ఎందుకు ఉపయోగిస్తాడు?",
+        "options": [
+          "భూమి యొక్క వాస్తవ నమూనాను చూపించడానికి",
+          "కేవలం రంగులు చూపించడానికి",
+          "దూరాలను కచ్చితంగా కొలవడానికి",
+          "గోడకు అలంకరించడానికి"
+        ],
+        "answer": 0
+      },
+      {
+        "q": "ప్రకటన (A): చరిత్ర బోధనలో 'కథా పద్ధతి' (Storytelling) ప్రాథమిక స్థాయి పిల్లలకు అత్యంత ప్రభావవంతమైనది.\nకారణం (R): ఇది విద్యార్థులలో ఊహాశక్తిని మరియు ఆసక్తిని కలిగిస్తుంది.",
+        "options": [
+          "(A) మరియు (R) రెండూ నిజం, (R) అనేది (A)కి సరైన వివరణ",
+          "(A) నిజం కానీ (R) తప్పు",
+          "(A) మరియు (R) రెండూ నిజం, కానీ (R) వివరణ కాదు",
+          "(A) తప్పు కానీ (R) నిజం"
+        ],
+        "answer": 0
+      }
+    ]
   }
 ],
 "tmet": [
@@ -1540,5 +1580,6 @@
   }
 ]
 }
+
 
 
